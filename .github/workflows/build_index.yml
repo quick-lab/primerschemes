@@ -22,7 +22,7 @@ jobs:
 
     # Runs commands using the runners shell
     - name: Run the build index script
-      run: python ./.github/workflows/build_index.py ${{GITHUB_SERVER_URL}} ${{GITHUB_REPOSITORY}}
+      run: python ./.github/workflows/build_index.py ${{github.server_url}} ${{github.repository}}
     - name: Commit files  # transfer the new html files back into the repository
       run: |
         git config --local user.name  ${{ github.actor }}        
