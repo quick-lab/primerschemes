@@ -1,0 +1,25 @@
+runs-on: macos-latest
+
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    - uses: actions/checkout@v3
+
+    # Runs commands using the runners shell
+    - name: Run the build index script
+      run: python ./.github/workflows/build_index.py
+    - name: Commit files  # transfer the new html files back into the repository
+      run: |
+        git add .
+        git commit -m "Auto updating index"
+    - name: Push changes  # push the output folder to your repo
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        force: true
