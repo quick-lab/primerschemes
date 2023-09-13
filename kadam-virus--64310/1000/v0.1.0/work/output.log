@@ -1,0 +1,18 @@
+2023-09-13 at 16:48:39 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:48:39 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/79/e78b1848fad315d68d67074ba5e6b9/kadam-virus--64310/work/mismatch.db
+2023-09-13 at 16:48:39 | INFO | Read in MSA: 64310_final	seqs:1	cols:10215
+2023-09-13 at 16:48:40 | INFO | 64310_final: digested to 4151 FKmers and 4482 RKmers
+2023-09-13 at 16:49:37 | INFO | 64310_final: Generated 336621 possible amplicons
+2023-09-13 at 16:49:37 | INFO | Added first amplicon for 64310_final: 40	1048	1
+2023-09-13 at 16:49:37 | INFO | Added overlapping amplicon for 64310_final: 903	1928	2
+2023-09-13 at 16:49:37 | INFO | Added overlapping amplicon for 64310_final: 1782	2806	1
+2023-09-13 at 16:49:37 | INFO | Added overlapping amplicon for 64310_final: 2638	3654	2
+2023-09-13 at 16:49:37 | INFO | Added overlapping amplicon for 64310_final: 3493	4509	1
+2023-09-13 at 16:49:38 | INFO | Added overlapping amplicon for 64310_final: 4357	5381	2
+2023-09-13 at 16:49:38 | INFO | Added overlapping amplicon for 64310_final: 5225	6247	1
+2023-09-13 at 16:49:38 | INFO | Added overlapping amplicon for 64310_final: 6099	7121	2
+2023-09-13 at 16:49:38 | INFO | Added overlapping amplicon for 64310_final: 6934	7956	1
+2023-09-13 at 16:49:38 | INFO | Added overlapping amplicon for 64310_final: 7805	8828	2
+2023-09-13 at 16:49:38 | INFO | Added overlapping amplicon for 64310_final: 8663	9683	1
+2023-09-13 at 16:49:38 | INFO | Added overlapping amplicon for 64310_final: 9178	10193	2
+2023-09-13 at 16:49:38 | INFO | Writting output files

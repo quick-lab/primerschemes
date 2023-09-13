@@ -1,0 +1,19 @@
+2023-09-13 at 16:48:39 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:48:39 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/dc/95855f1c2ff21d7ba8243ebfdab844/mpulungu-flavivirus--2775126/work/mismatch.db
+2023-09-13 at 16:48:39 | INFO | Read in MSA: 2775126_final	seqs:1	cols:10868
+2023-09-13 at 16:48:40 | INFO | 2775126_final: digested to 3362 FKmers and 3481 RKmers
+2023-09-13 at 16:49:12 | INFO | 2775126_final: Generated 203429 possible amplicons
+2023-09-13 at 16:49:12 | INFO | Added first amplicon for 2775126_final: 61	1085	1
+2023-09-13 at 16:49:12 | INFO | Added overlapping amplicon for 2775126_final: 900	1923	2
+2023-09-13 at 16:49:12 | INFO | Added overlapping amplicon for 2775126_final: 1778	2801	1
+2023-09-13 at 16:49:12 | INFO | Added overlapping amplicon for 2775126_final: 2653	3676	2
+2023-09-13 at 16:49:13 | INFO | Added overlapping amplicon for 2775126_final: 3531	4550	1
+2023-09-13 at 16:49:13 | INFO | Added overlapping amplicon for 2775126_final: 4403	5427	2
+2023-09-13 at 16:49:13 | INFO | Added overlapping amplicon for 2775126_final: 5273	6264	1
+2023-09-13 at 16:49:13 | INFO | Added overlapping amplicon for 2775126_final: 5972	6977	2
+2023-09-13 at 16:49:13 | INFO | Added overlapping amplicon for 2775126_final: 6811	7834	1
+2023-09-13 at 16:49:13 | INFO | Added overlapping amplicon for 2775126_final: 7670	8685	2
+2023-09-13 at 16:49:13 | INFO | Added overlapping amplicon for 2775126_final: 8521	9543	1
+2023-09-13 at 16:49:13 | INFO | Added overlapping amplicon for 2775126_final: 9358	10378	2
+2023-09-13 at 16:49:13 | INFO | Added overlapping amplicon for 2775126_final: 9901	10865	1
+2023-09-13 at 16:49:13 | INFO | Writting output files

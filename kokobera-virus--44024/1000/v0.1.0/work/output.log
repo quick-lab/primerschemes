@@ -1,0 +1,21 @@
+2023-09-13 at 16:48:59 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:49:00 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/8b/9ee293525b1de89dedb91ed1601611/kokobera-virus--44024/work/mismatch.db
+2023-09-13 at 16:49:00 | INFO | Read in MSA: 44024_final	seqs:6	cols:10954
+2023-09-13 at 16:49:04 | INFO | 44024_final: digested to 1068 FKmers and 1309 RKmers
+2023-09-13 at 16:49:10 | INFO | 44024_final: Generated 18850 possible amplicons
+2023-09-13 at 16:49:10 | INFO | Added first amplicon for 44024_final: 17	1019	1
+2023-09-13 at 16:49:10 | INFO | Added overlapping amplicon for 44024_final: 804	1830	2
+2023-09-13 at 16:49:10 | INFO | Added overlapping amplicon for 44024_final: 1579	2582	1
+2023-09-13 at 16:49:10 | INFO | Added overlapping amplicon for 44024_final: 2316	3343	2
+2023-09-13 at 16:49:10 | INFO | Added overlapping amplicon for 44024_final: 3112	4083	1
+2023-09-13 at 16:49:10 | INFO | Added overlapping amplicon for 44024_final: 3845	4853	2
+2023-09-13 at 16:49:10 | INFO | Added overlapping amplicon for 44024_final: 4682	5670	1
+2023-09-13 at 16:49:10 | INFO | Added overlapping amplicon for 44024_final: 5468	6467	2
+2023-09-13 at 16:49:11 | INFO | Added overlapping amplicon for 44024_final: 5762	6780	1
+2023-09-13 at 16:49:11 | INFO | Added overlapping amplicon for 44024_final: 6544	7484	2
+2023-09-13 at 16:49:11 | INFO | Added overlapping amplicon for 44024_final: 7141	8099	1
+2023-09-13 at 16:49:11 | INFO | Added overlapping amplicon for 44024_final: 7895	8912	2
+2023-09-13 at 16:49:11 | INFO | Added overlapping amplicon for 44024_final: 8761	9764	1
+2023-09-13 at 16:49:11 | INFO | Added overlapping amplicon for 44024_final: 9476	10430	2
+2023-09-13 at 16:49:12 | INFO | Added overlapping amplicon for 44024_final: 9829	10856	1
+2023-09-13 at 16:49:12 | INFO | Writting output files

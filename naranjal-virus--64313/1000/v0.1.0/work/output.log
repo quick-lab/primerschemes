@@ -1,0 +1,18 @@
+2023-09-13 at 16:48:01 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:48:01 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/be/3f3915a382ab59831a122993034d09/naranjal-virus--64313/work/mismatch.db
+2023-09-13 at 16:48:01 | INFO | Read in MSA: 64313_final	seqs:1	cols:10290
+2023-09-13 at 16:48:03 | INFO | 64313_final: digested to 5184 FKmers and 5373 RKmers
+2023-09-13 at 16:49:35 | INFO | 64313_final: Generated 494348 possible amplicons
+2023-09-13 at 16:49:35 | INFO | Added first amplicon for 64313_final: 2	1020	1
+2023-09-13 at 16:49:35 | INFO | Added overlapping amplicon for 64313_final: 838	1859	2
+2023-09-13 at 16:49:35 | INFO | Added overlapping amplicon for 64313_final: 1716	2738	1
+2023-09-13 at 16:49:35 | INFO | Added overlapping amplicon for 64313_final: 2585	3614	2
+2023-09-13 at 16:49:36 | INFO | Added overlapping amplicon for 64313_final: 3463	4480	1
+2023-09-13 at 16:49:36 | INFO | Added overlapping amplicon for 64313_final: 4300	5323	2
+2023-09-13 at 16:49:36 | INFO | Added overlapping amplicon for 64313_final: 5140	6164	1
+2023-09-13 at 16:49:36 | INFO | Added overlapping amplicon for 64313_final: 6001	7024	2
+2023-09-13 at 16:49:36 | INFO | Added overlapping amplicon for 64313_final: 6879	7901	1
+2023-09-13 at 16:49:36 | INFO | Added overlapping amplicon for 64313_final: 7754	8781	2
+2023-09-13 at 16:49:36 | INFO | Added overlapping amplicon for 64313_final: 8625	9647	1
+2023-09-13 at 16:49:36 | INFO | Added overlapping amplicon for 64313_final: 9269	10287	2
+2023-09-13 at 16:49:36 | INFO | Writting output files

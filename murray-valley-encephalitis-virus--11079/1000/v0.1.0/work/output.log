@@ -1,0 +1,20 @@
+2023-09-13 at 16:48:45 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:48:47 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/cc/8d0c592e9d2402b581e2e2cd02847f/murray-valley-encephalitis-virus--11079/work/mismatch.db
+2023-09-13 at 16:48:47 | INFO | Read in MSA: 11079_final	seqs:17	cols:11039
+2023-09-13 at 16:48:55 | INFO | 11079_final: digested to 1409 FKmers and 1708 RKmers
+2023-09-13 at 16:49:08 | INFO | 11079_final: Generated 32851 possible amplicons
+2023-09-13 at 16:49:08 | INFO | Added first amplicon for 11079_final: 11	1030	1
+2023-09-13 at 16:49:08 | INFO | Added overlapping amplicon for 11079_final: 785	1716	2
+2023-09-13 at 16:49:08 | INFO | Added overlapping amplicon for 11079_final: 1506	2527	1
+2023-09-13 at 16:49:09 | INFO | Added overlapping amplicon for 11079_final: 2318	3323	2
+2023-09-13 at 16:49:09 | INFO | Added overlapping amplicon for 11079_final: 3124	4126	1
+2023-09-13 at 16:49:09 | INFO | Added overlapping amplicon for 11079_final: 3902	4929	2
+2023-09-13 at 16:49:09 | INFO | Added overlapping amplicon for 11079_final: 4762	5781	1
+2023-09-13 at 16:49:09 | INFO | Added overlapping amplicon for 11079_final: 5594	6615	2
+2023-09-13 at 16:49:09 | INFO | Added overlapping amplicon for 11079_final: 6429	7447	1
+2023-09-13 at 16:49:09 | INFO | Added overlapping amplicon for 11079_final: 7156	8151	2
+2023-09-13 at 16:49:09 | INFO | Added overlapping amplicon for 11079_final: 7955	8977	1
+2023-09-13 at 16:49:09 | INFO | Added overlapping amplicon for 11079_final: 8801	9787	2
+2023-09-13 at 16:49:09 | INFO | Added overlapping amplicon for 11079_final: 9633	10599	1
+2023-09-13 at 16:49:10 | INFO | Added overlapping amplicon for 11079_final: 10100	10977	2
+2023-09-13 at 16:49:10 | INFO | Writting output files

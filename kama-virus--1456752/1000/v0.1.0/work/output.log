@@ -1,0 +1,19 @@
+2023-09-13 at 16:51:29 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:51:30 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/46/277dcb3eb21787f86ea7694042d42c/kama-virus--1456752/work/mismatch.db
+2023-09-13 at 16:51:30 | INFO | Read in MSA: 1456752_final	seqs:3	cols:10688
+2023-09-13 at 16:51:31 | INFO | 1456752_final: digested to 3031 FKmers and 3133 RKmers
+2023-09-13 at 16:51:59 | INFO | 1456752_final: Generated 155022 possible amplicons
+2023-09-13 at 16:51:59 | INFO | Added first amplicon for 1456752_final: 6	985	1
+2023-09-13 at 16:51:59 | INFO | Added overlapping amplicon for 1456752_final: 822	1845	2
+2023-09-13 at 16:51:59 | INFO | Added overlapping amplicon for 1456752_final: 1541	2563	1
+2023-09-13 at 16:51:59 | INFO | Added overlapping amplicon for 1456752_final: 2413	3418	2
+2023-09-13 at 16:51:59 | INFO | Added overlapping amplicon for 1456752_final: 3216	4196	1
+2023-09-13 at 16:51:59 | INFO | Added overlapping amplicon for 1456752_final: 4026	5049	2
+2023-09-13 at 16:51:59 | INFO | Added overlapping amplicon for 1456752_final: 4880	5907	1
+2023-09-13 at 16:51:59 | INFO | Added overlapping amplicon for 1456752_final: 5753	6774	2
+2023-09-13 at 16:51:59 | INFO | Added overlapping amplicon for 1456752_final: 6615	7619	1
+2023-09-13 at 16:51:59 | INFO | Added overlapping amplicon for 1456752_final: 7438	8460	2
+2023-09-13 at 16:51:59 | INFO | Added overlapping amplicon for 1456752_final: 8309	9333	1
+2023-09-13 at 16:51:59 | INFO | Added overlapping amplicon for 1456752_final: 9179	10203	2
+2023-09-13 at 16:51:59 | INFO | Added overlapping amplicon for 1456752_final: 9668	10678	1
+2023-09-13 at 16:51:59 | INFO | Writting output files

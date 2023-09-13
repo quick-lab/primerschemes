@@ -1,0 +1,18 @@
+2023-09-13 at 16:44:38 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:44:38 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/6e/60ad4a6f53d1284dd7dba8f89cbcc0/edge-hill-virus--64296/work/mismatch.db
+2023-09-13 at 16:44:38 | INFO | Read in MSA: 64296_final	seqs:1	cols:10206
+2023-09-13 at 16:44:39 | INFO | 64296_final: digested to 5678 FKmers and 5976 RKmers
+2023-09-13 at 16:46:34 | INFO | 64296_final: Generated 607413 possible amplicons
+2023-09-13 at 16:46:34 | INFO | Added first amplicon for 64296_final: 0	1023	1
+2023-09-13 at 16:46:35 | INFO | Added overlapping amplicon for 64296_final: 872	1896	2
+2023-09-13 at 16:46:35 | INFO | Added overlapping amplicon for 64296_final: 1746	2774	1
+2023-09-13 at 16:46:35 | INFO | Added overlapping amplicon for 64296_final: 2620	3647	2
+2023-09-13 at 16:46:35 | INFO | Added overlapping amplicon for 64296_final: 3481	4503	1
+2023-09-13 at 16:46:35 | INFO | Added overlapping amplicon for 64296_final: 4359	5389	2
+2023-09-13 at 16:46:35 | INFO | Added overlapping amplicon for 64296_final: 5214	6238	1
+2023-09-13 at 16:46:35 | INFO | Added overlapping amplicon for 64296_final: 6077	7097	2
+2023-09-13 at 16:46:35 | INFO | Added overlapping amplicon for 64296_final: 6936	7960	1
+2023-09-13 at 16:46:35 | INFO | Added overlapping amplicon for 64296_final: 7808	8830	2
+2023-09-13 at 16:46:36 | INFO | Added overlapping amplicon for 64296_final: 8676	9703	1
+2023-09-13 at 16:46:36 | INFO | Added overlapping amplicon for 64296_final: 9184	10204	2
+2023-09-13 at 16:46:36 | INFO | Writting output files

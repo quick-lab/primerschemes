@@ -1,0 +1,18 @@
+2023-09-13 at 16:46:49 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:46:50 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/81/0dfa1db218a4ee6d23d0bb75b59e54/la-tina-virus--2045187/work/mismatch.db
+2023-09-13 at 16:46:50 | INFO | Read in MSA: 2045187_final	seqs:1	cols:10050
+2023-09-13 at 16:46:51 | INFO | 2045187_final: digested to 5008 FKmers and 5144 RKmers
+2023-09-13 at 16:48:04 | INFO | 2045187_final: Generated 463959 possible amplicons
+2023-09-13 at 16:48:04 | INFO | Added first amplicon for 2045187_final: 0	1027	1
+2023-09-13 at 16:48:04 | INFO | Added overlapping amplicon for 2045187_final: 874	1894	2
+2023-09-13 at 16:48:04 | INFO | Added overlapping amplicon for 2045187_final: 1744	2769	1
+2023-09-13 at 16:48:04 | INFO | Added overlapping amplicon for 2045187_final: 2557	3581	2
+2023-09-13 at 16:48:04 | INFO | Added overlapping amplicon for 2045187_final: 3430	4452	1
+2023-09-13 at 16:48:04 | INFO | Added overlapping amplicon for 2045187_final: 4283	5310	2
+2023-09-13 at 16:48:04 | INFO | Added overlapping amplicon for 2045187_final: 5131	6144	1
+2023-09-13 at 16:48:04 | INFO | Added overlapping amplicon for 2045187_final: 6001	7029	2
+2023-09-13 at 16:48:05 | INFO | Added overlapping amplicon for 2045187_final: 6874	7897	1
+2023-09-13 at 16:48:05 | INFO | Added overlapping amplicon for 2045187_final: 7728	8749	2
+2023-09-13 at 16:48:05 | INFO | Added overlapping amplicon for 2045187_final: 8545	9556	1
+2023-09-13 at 16:48:05 | INFO | Added overlapping amplicon for 2045187_final: 9042	10048	2
+2023-09-13 at 16:48:05 | INFO | Writting output files

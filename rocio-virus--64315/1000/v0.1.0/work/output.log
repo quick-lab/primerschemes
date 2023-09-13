@@ -1,0 +1,19 @@
+2023-09-13 at 16:50:53 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:50:53 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/82/c2e22c64c586af60482198310013ad/rocio-virus--64315/work/mismatch.db
+2023-09-13 at 16:50:53 | INFO | Read in MSA: 64315_final	seqs:2	cols:10794
+2023-09-13 at 16:50:54 | INFO | 64315_final: digested to 4421 FKmers and 4699 RKmers
+2023-09-13 at 16:51:58 | INFO | 64315_final: Generated 358502 possible amplicons
+2023-09-13 at 16:51:58 | INFO | Added first amplicon for 64315_final: 21	1024	1
+2023-09-13 at 16:51:58 | INFO | Added overlapping amplicon for 64315_final: 881	1904	2
+2023-09-13 at 16:51:58 | INFO | Added overlapping amplicon for 64315_final: 1750	2758	1
+2023-09-13 at 16:51:58 | INFO | Added overlapping amplicon for 64315_final: 2571	3590	2
+2023-09-13 at 16:51:58 | INFO | Added overlapping amplicon for 64315_final: 3446	4468	1
+2023-09-13 at 16:51:58 | INFO | Added overlapping amplicon for 64315_final: 4318	5338	2
+2023-09-13 at 16:51:58 | INFO | Added overlapping amplicon for 64315_final: 5189	6214	1
+2023-09-13 at 16:51:59 | INFO | Added overlapping amplicon for 64315_final: 6045	7065	2
+2023-09-13 at 16:51:59 | INFO | Added overlapping amplicon for 64315_final: 6918	7938	1
+2023-09-13 at 16:51:59 | INFO | Added overlapping amplicon for 64315_final: 7725	8746	2
+2023-09-13 at 16:51:59 | INFO | Added overlapping amplicon for 64315_final: 8569	9591	1
+2023-09-13 at 16:51:59 | INFO | Added overlapping amplicon for 64315_final: 9426	10447	2
+2023-09-13 at 16:51:59 | INFO | Added overlapping amplicon for 64315_final: 9781	10793	1
+2023-09-13 at 16:51:59 | INFO | Writting output files

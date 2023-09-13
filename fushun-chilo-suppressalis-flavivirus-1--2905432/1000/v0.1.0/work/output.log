@@ -1,0 +1,23 @@
+2023-09-13 at 16:44:21 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:44:22 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/cf/295fbbf92d5fa8b866e3a77e506112/fushun-chilo-suppressalis-flavivirus-1--2905432/work/mismatch.db
+2023-09-13 at 16:44:22 | INFO | Read in MSA: 2905432_final	seqs:1	cols:14656
+2023-09-13 at 16:44:24 | INFO | 2905432_final: digested to 7845 FKmers and 8429 RKmers
+2023-09-13 at 16:46:49 | INFO | 2905432_final: Generated 849333 possible amplicons
+2023-09-13 at 16:46:49 | INFO | Added first amplicon for 2905432_final: 0	1024	1
+2023-09-13 at 16:46:49 | INFO | Added overlapping amplicon for 2905432_final: 863	1887	2
+2023-09-13 at 16:46:49 | INFO | Added overlapping amplicon for 2905432_final: 1728	2755	1
+2023-09-13 at 16:46:49 | INFO | Added overlapping amplicon for 2905432_final: 2587	3607	2
+2023-09-13 at 16:46:49 | INFO | Added overlapping amplicon for 2905432_final: 3444	4459	1
+2023-09-13 at 16:46:49 | INFO | Added overlapping amplicon for 2905432_final: 4257	5282	2
+2023-09-13 at 16:46:49 | INFO | Added overlapping amplicon for 2905432_final: 5108	6128	1
+2023-09-13 at 16:46:50 | INFO | Added overlapping amplicon for 2905432_final: 5964	6980	2
+2023-09-13 at 16:46:50 | INFO | Added overlapping amplicon for 2905432_final: 6829	7847	1
+2023-09-13 at 16:46:50 | INFO | Added overlapping amplicon for 2905432_final: 7702	8726	2
+2023-09-13 at 16:46:50 | INFO | Added overlapping amplicon for 2905432_final: 8569	9592	1
+2023-09-13 at 16:46:50 | INFO | Added overlapping amplicon for 2905432_final: 9420	10442	2
+2023-09-13 at 16:46:50 | INFO | Added overlapping amplicon for 2905432_final: 10289	11321	1
+2023-09-13 at 16:46:50 | INFO | Added overlapping amplicon for 2905432_final: 11159	12182	2
+2023-09-13 at 16:46:50 | INFO | Added overlapping amplicon for 2905432_final: 12009	13031	1
+2023-09-13 at 16:46:51 | INFO | Added overlapping amplicon for 2905432_final: 12883	13915	2
+2023-09-13 at 16:46:51 | INFO | Added overlapping amplicon for 2905432_final: 13635	14653	1
+2023-09-13 at 16:46:51 | INFO | Writting output files

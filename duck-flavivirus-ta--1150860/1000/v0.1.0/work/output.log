@@ -1,0 +1,19 @@
+2023-09-13 at 16:46:56 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:46:56 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/2e/ef2fc0604964e0339eaa9cc6d63d87/duck-flavivirus-ta--1150860/work/mismatch.db
+2023-09-13 at 16:46:56 | INFO | Read in MSA: 1150860_final	seqs:1	cols:10986
+2023-09-13 at 16:46:57 | INFO | 1150860_final: digested to 5764 FKmers and 6086 RKmers
+2023-09-13 at 16:48:31 | INFO | 1150860_final: Generated 603503 possible amplicons
+2023-09-13 at 16:48:31 | INFO | Added first amplicon for 1150860_final: 7	1031	1
+2023-09-13 at 16:48:31 | INFO | Added overlapping amplicon for 1150860_final: 881	1906	2
+2023-09-13 at 16:48:32 | INFO | Added overlapping amplicon for 1150860_final: 1715	2740	1
+2023-09-13 at 16:48:32 | INFO | Added overlapping amplicon for 1150860_final: 2585	3602	2
+2023-09-13 at 16:48:32 | INFO | Added overlapping amplicon for 1150860_final: 3455	4477	1
+2023-09-13 at 16:48:32 | INFO | Added overlapping amplicon for 1150860_final: 4330	5354	2
+2023-09-13 at 16:48:32 | INFO | Added overlapping amplicon for 1150860_final: 5192	6216	1
+2023-09-13 at 16:48:32 | INFO | Added overlapping amplicon for 1150860_final: 6061	7093	2
+2023-09-13 at 16:48:32 | INFO | Added overlapping amplicon for 1150860_final: 6938	7960	1
+2023-09-13 at 16:48:32 | INFO | Added overlapping amplicon for 1150860_final: 7788	8811	2
+2023-09-13 at 16:48:33 | INFO | Added overlapping amplicon for 1150860_final: 8661	9684	1
+2023-09-13 at 16:48:33 | INFO | Added overlapping amplicon for 1150860_final: 9509	10517	2
+2023-09-13 at 16:48:33 | INFO | Added overlapping amplicon for 1150860_final: 9975	10983	1
+2023-09-13 at 16:48:33 | INFO | Writting output files

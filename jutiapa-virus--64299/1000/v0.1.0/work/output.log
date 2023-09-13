@@ -1,0 +1,18 @@
+2023-09-13 at 16:43:08 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:43:08 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/b8/508624d88c17b9613c94a6b3c31d2f/jutiapa-virus--64299/work/mismatch.db
+2023-09-13 at 16:43:08 | INFO | Read in MSA: 64299_final	seqs:1	cols:10125
+2023-09-13 at 16:43:10 | INFO | 64299_final: digested to 6114 FKmers and 6357 RKmers
+2023-09-13 at 16:45:20 | INFO | 64299_final: Generated 697442 possible amplicons
+2023-09-13 at 16:45:20 | INFO | Added first amplicon for 64299_final: 1	1025	1
+2023-09-13 at 16:45:20 | INFO | Added overlapping amplicon for 64299_final: 868	1890	2
+2023-09-13 at 16:45:20 | INFO | Added overlapping amplicon for 64299_final: 1740	2764	1
+2023-09-13 at 16:45:21 | INFO | Added overlapping amplicon for 64299_final: 2612	3635	2
+2023-09-13 at 16:45:21 | INFO | Added overlapping amplicon for 64299_final: 3485	4507	1
+2023-09-13 at 16:45:21 | INFO | Added overlapping amplicon for 64299_final: 4318	5339	2
+2023-09-13 at 16:45:21 | INFO | Added overlapping amplicon for 64299_final: 5190	6210	1
+2023-09-13 at 16:45:21 | INFO | Added overlapping amplicon for 64299_final: 6063	7089	2
+2023-09-13 at 16:45:21 | INFO | Added overlapping amplicon for 64299_final: 6939	7964	1
+2023-09-13 at 16:45:21 | INFO | Added overlapping amplicon for 64299_final: 7814	8837	2
+2023-09-13 at 16:45:22 | INFO | Added overlapping amplicon for 64299_final: 8676	9696	1
+2023-09-13 at 16:45:22 | INFO | Added overlapping amplicon for 64299_final: 9099	10120	2
+2023-09-13 at 16:45:22 | INFO | Writting output files

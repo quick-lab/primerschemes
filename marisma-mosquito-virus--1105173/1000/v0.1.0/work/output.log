@@ -1,0 +1,19 @@
+2023-09-13 at 16:51:26 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:51:27 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/b2/5dfcf02588af50a74055d6c214eddb/marisma-mosquito-virus--1105173/work/mismatch.db
+2023-09-13 at 16:51:27 | INFO | Read in MSA: 1105173_final	seqs:2	cols:10848
+2023-09-13 at 16:51:28 | INFO | 1105173_final: digested to 5557 FKmers and 5822 RKmers
+2023-09-13 at 16:52:55 | INFO | 1105173_final: Generated 538929 possible amplicons
+2023-09-13 at 16:52:55 | INFO | Added first amplicon for 1105173_final: 0	1008	1
+2023-09-13 at 16:52:56 | INFO | Added overlapping amplicon for 1105173_final: 855	1886	2
+2023-09-13 at 16:52:56 | INFO | Added overlapping amplicon for 1105173_final: 1730	2757	1
+2023-09-13 at 16:52:56 | INFO | Added overlapping amplicon for 1105173_final: 2592	3614	2
+2023-09-13 at 16:52:56 | INFO | Added overlapping amplicon for 1105173_final: 3453	4469	1
+2023-09-13 at 16:52:56 | INFO | Added overlapping amplicon for 1105173_final: 4300	5318	2
+2023-09-13 at 16:52:56 | INFO | Added overlapping amplicon for 1105173_final: 5166	6191	1
+2023-09-13 at 16:52:56 | INFO | Added overlapping amplicon for 1105173_final: 6018	7041	2
+2023-09-13 at 16:52:56 | INFO | Added overlapping amplicon for 1105173_final: 6884	7883	1
+2023-09-13 at 16:52:56 | INFO | Added overlapping amplicon for 1105173_final: 7734	8761	2
+2023-09-13 at 16:52:56 | INFO | Added overlapping amplicon for 1105173_final: 8602	9624	1
+2023-09-13 at 16:52:56 | INFO | Added overlapping amplicon for 1105173_final: 9450	10472	2
+2023-09-13 at 16:52:56 | INFO | Added overlapping amplicon for 1105173_final: 9824	10804	1
+2023-09-13 at 16:52:57 | INFO | Writting output files

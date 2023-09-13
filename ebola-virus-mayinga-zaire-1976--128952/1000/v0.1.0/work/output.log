@@ -1,0 +1,28 @@
+2023-09-13 at 16:43:07 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:43:07 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/e0/52d149ea5af85bc4b38c9707c00eea/ebola-virus-mayinga-zaire-1976--128952/work/mismatch.db
+2023-09-13 at 16:43:07 | INFO | Read in MSA: 128952_final	seqs:1	cols:18959
+2023-09-13 at 16:43:14 | INFO | 128952_final: digested to 10530 FKmers and 10824 RKmers
+2023-09-13 at 16:46:49 | INFO | 128952_final: Generated 1171497 possible amplicons
+2023-09-13 at 16:46:49 | INFO | Added first amplicon for 128952_final: 0	1025	1
+2023-09-13 at 16:46:49 | INFO | Added overlapping amplicon for 128952_final: 876	1900	2
+2023-09-13 at 16:46:49 | INFO | Added overlapping amplicon for 128952_final: 1750	2781	1
+2023-09-13 at 16:46:50 | INFO | Added overlapping amplicon for 128952_final: 2617	3634	2
+2023-09-13 at 16:46:50 | INFO | Added overlapping amplicon for 128952_final: 3469	4498	1
+2023-09-13 at 16:46:50 | INFO | Added overlapping amplicon for 128952_final: 4330	5356	2
+2023-09-13 at 16:46:50 | INFO | Added overlapping amplicon for 128952_final: 5204	6233	1
+2023-09-13 at 16:46:50 | INFO | Added overlapping amplicon for 128952_final: 6074	7097	2
+2023-09-13 at 16:46:50 | INFO | Added overlapping amplicon for 128952_final: 6945	7968	1
+2023-09-13 at 16:46:50 | INFO | Added overlapping amplicon for 128952_final: 7809	8834	2
+2023-09-13 at 16:46:50 | INFO | Added overlapping amplicon for 128952_final: 8668	9692	1
+2023-09-13 at 16:46:51 | INFO | Added overlapping amplicon for 128952_final: 9522	10547	2
+2023-09-13 at 16:46:51 | INFO | Added overlapping amplicon for 128952_final: 10389	11414	1
+2023-09-13 at 16:46:51 | INFO | Added overlapping amplicon for 128952_final: 11262	12286	2
+2023-09-13 at 16:46:51 | INFO | Added overlapping amplicon for 128952_final: 12108	13137	1
+2023-09-13 at 16:46:51 | INFO | Added overlapping amplicon for 128952_final: 12955	13978	2
+2023-09-13 at 16:46:51 | INFO | Added overlapping amplicon for 128952_final: 13810	14830	1
+2023-09-13 at 16:46:51 | INFO | Added overlapping amplicon for 128952_final: 14679	15712	2
+2023-09-13 at 16:46:51 | INFO | Added overlapping amplicon for 128952_final: 15508	16530	1
+2023-09-13 at 16:46:52 | INFO | Added overlapping amplicon for 128952_final: 16382	17408	2
+2023-09-13 at 16:46:52 | INFO | Added overlapping amplicon for 128952_final: 17243	18274	1
+2023-09-13 at 16:46:52 | INFO | Added overlapping amplicon for 128952_final: 17899	18927	2
+2023-09-13 at 16:46:52 | INFO | Writting output files

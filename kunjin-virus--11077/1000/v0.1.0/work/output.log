@@ -1,0 +1,19 @@
+2023-09-13 at 16:54:47 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:54:48 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/b2/2b25abdca283d4be5225f9408a04eb/kunjin-virus--11077/work/mismatch.db
+2023-09-13 at 16:54:48 | INFO | Read in MSA: 11077_final	seqs:10	cols:10887
+2023-09-13 at 16:54:50 | INFO | 11077_final: digested to 3823 FKmers and 4063 RKmers
+2023-09-13 at 16:55:17 | INFO | 11077_final: Generated 259082 possible amplicons
+2023-09-13 at 16:55:17 | INFO | Added first amplicon for 11077_final: 1	979	1
+2023-09-13 at 16:55:17 | INFO | Added overlapping amplicon for 11077_final: 825	1847	2
+2023-09-13 at 16:55:17 | INFO | Added overlapping amplicon for 11077_final: 1649	2668	1
+2023-09-13 at 16:55:17 | INFO | Added overlapping amplicon for 11077_final: 2521	3543	2
+2023-09-13 at 16:55:17 | INFO | Added overlapping amplicon for 11077_final: 3393	4413	1
+2023-09-13 at 16:55:17 | INFO | Added overlapping amplicon for 11077_final: 4244	5214	2
+2023-09-13 at 16:55:17 | INFO | Added overlapping amplicon for 11077_final: 5018	6022	1
+2023-09-13 at 16:55:17 | INFO | Added overlapping amplicon for 11077_final: 5854	6877	2
+2023-09-13 at 16:55:17 | INFO | Added overlapping amplicon for 11077_final: 6721	7705	1
+2023-09-13 at 16:55:17 | INFO | Added overlapping amplicon for 11077_final: 7550	8561	2
+2023-09-13 at 16:55:17 | INFO | Added overlapping amplicon for 11077_final: 8401	9415	1
+2023-09-13 at 16:55:18 | INFO | Added overlapping amplicon for 11077_final: 9197	10184	2
+2023-09-13 at 16:55:18 | INFO | Added overlapping amplicon for 11077_final: 9946	10872	1
+2023-09-13 at 16:55:18 | INFO | Writting output files

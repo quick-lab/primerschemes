@@ -1,0 +1,18 @@
+2023-09-13 at 16:48:32 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:48:32 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/ac/c212ba7e7d0c34547549f8af23c777/flavivirus-muscovy-sd-china-2011--1120765/work/mismatch.db
+2023-09-13 at 16:48:32 | INFO | Read in MSA: 1120765_final	seqs:1	cols:10278
+2023-09-13 at 16:48:33 | INFO | 1120765_final: digested to 5594 FKmers and 5872 RKmers
+2023-09-13 at 16:50:17 | INFO | 1120765_final: Generated 589467 possible amplicons
+2023-09-13 at 16:50:17 | INFO | Added first amplicon for 1120765_final: 0	1023	1
+2023-09-13 at 16:50:18 | INFO | Added overlapping amplicon for 1120765_final: 876	1900	2
+2023-09-13 at 16:50:18 | INFO | Added overlapping amplicon for 1120765_final: 1737	2766	1
+2023-09-13 at 16:50:18 | INFO | Added overlapping amplicon for 1120765_final: 2597	3618	2
+2023-09-13 at 16:50:18 | INFO | Added overlapping amplicon for 1120765_final: 3474	4497	1
+2023-09-13 at 16:50:18 | INFO | Added overlapping amplicon for 1120765_final: 4344	5367	2
+2023-09-13 at 16:50:18 | INFO | Added overlapping amplicon for 1120765_final: 5222	6249	1
+2023-09-13 at 16:50:18 | INFO | Added overlapping amplicon for 1120765_final: 6098	7122	2
+2023-09-13 at 16:50:18 | INFO | Added overlapping amplicon for 1120765_final: 6966	7989	1
+2023-09-13 at 16:50:18 | INFO | Added overlapping amplicon for 1120765_final: 7843	8867	2
+2023-09-13 at 16:50:19 | INFO | Added overlapping amplicon for 1120765_final: 8717	9741	1
+2023-09-13 at 16:50:19 | INFO | Added overlapping amplicon for 1120765_final: 9255	10276	2
+2023-09-13 at 16:50:19 | INFO | Writting output files

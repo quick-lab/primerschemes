@@ -1,0 +1,20 @@
+2023-09-13 at 16:55:51 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:55:52 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/c1/7103075715b6952288c31afec92cb8/saint-louis-encephalitis-virus--11080/work/mismatch.db
+2023-09-13 at 16:55:53 | INFO | Read in MSA: 11080_final	seqs:15	cols:10940
+2023-09-13 at 16:55:59 | INFO | 11080_final: digested to 1591 FKmers and 1862 RKmers
+2023-09-13 at 16:56:22 | INFO | 11080_final: Generated 42606 possible amplicons
+2023-09-13 at 16:56:22 | INFO | Added first amplicon for 11080_final: 12	1039	1
+2023-09-13 at 16:56:22 | INFO | Added overlapping amplicon for 11080_final: 847	1853	2
+2023-09-13 at 16:56:22 | INFO | Added overlapping amplicon for 11080_final: 1665	2692	1
+2023-09-13 at 16:56:22 | INFO | Added overlapping amplicon for 11080_final: 2524	3528	2
+2023-09-13 at 16:56:22 | INFO | Added overlapping amplicon for 11080_final: 3376	4389	1
+2023-09-13 at 16:56:22 | INFO | Added overlapping amplicon for 11080_final: 4068	5093	2
+2023-09-13 at 16:56:22 | INFO | Added overlapping amplicon for 11080_final: 4870	5854	1
+2023-09-13 at 16:56:22 | INFO | Added overlapping amplicon for 11080_final: 5670	6691	2
+2023-09-13 at 16:56:22 | INFO | Added overlapping amplicon for 11080_final: 6458	7429	1
+2023-09-13 at 16:56:23 | INFO | Added overlapping amplicon for 11080_final: 7257	8282	2
+2023-09-13 at 16:56:23 | INFO | Added overlapping amplicon for 11080_final: 7940	8896	1
+2023-09-13 at 16:56:23 | INFO | Added overlapping amplicon for 11080_final: 8739	9762	2
+2023-09-13 at 16:56:23 | INFO | Added overlapping amplicon for 11080_final: 9529	10519	1
+2023-09-13 at 16:56:23 | INFO | Added overlapping amplicon for 11080_final: 9911	10891	2
+2023-09-13 at 16:56:23 | INFO | Writting output files

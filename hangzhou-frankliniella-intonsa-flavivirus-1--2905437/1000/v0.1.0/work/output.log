@@ -1,0 +1,32 @@
+2023-09-13 at 16:44:43 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:44:43 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/36/89a832b86142efe93c1811fc7e9a2a/hangzhou-frankliniella-intonsa-flavivirus-1--2905437/work/mismatch.db
+2023-09-13 at 16:44:43 | INFO | Read in MSA: 2905437_final	seqs:1	cols:22439
+2023-09-13 at 16:44:46 | INFO | 2905437_final: digested to 10625 FKmers and 10385 RKmers
+2023-09-13 at 16:47:39 | INFO | 2905437_final: Generated 1004657 possible amplicons
+2023-09-13 at 16:47:39 | INFO | Added first amplicon for 2905437_final: 91	1080	1
+2023-09-13 at 16:47:39 | INFO | Added overlapping amplicon for 2905437_final: 904	1926	2
+2023-09-13 at 16:47:39 | INFO | Added overlapping amplicon for 2905437_final: 1769	2789	1
+2023-09-13 at 16:47:39 | INFO | Added overlapping amplicon for 2905437_final: 2636	3668	2
+2023-09-13 at 16:47:39 | INFO | Added overlapping amplicon for 2905437_final: 3493	4512	1
+2023-09-13 at 16:47:39 | INFO | Added overlapping amplicon for 2905437_final: 4345	5364	2
+2023-09-13 at 16:47:39 | INFO | Added overlapping amplicon for 2905437_final: 5222	6247	1
+2023-09-13 at 16:47:39 | INFO | Added overlapping amplicon for 2905437_final: 6084	7110	2
+2023-09-13 at 16:47:40 | INFO | Added overlapping amplicon for 2905437_final: 6948	7970	1
+2023-09-13 at 16:47:40 | INFO | Added overlapping amplicon for 2905437_final: 7824	8844	2
+2023-09-13 at 16:47:40 | INFO | Added overlapping amplicon for 2905437_final: 8644	9667	1
+2023-09-13 at 16:47:40 | INFO | Added overlapping amplicon for 2905437_final: 9521	10544	2
+2023-09-13 at 16:47:40 | INFO | Added overlapping amplicon for 2905437_final: 10394	11417	1
+2023-09-13 at 16:47:40 | INFO | Added overlapping amplicon for 2905437_final: 11259	12284	2
+2023-09-13 at 16:47:40 | INFO | Added overlapping amplicon for 2905437_final: 12129	13156	1
+2023-09-13 at 16:47:40 | INFO | Added overlapping amplicon for 2905437_final: 13007	14031	2
+2023-09-13 at 16:47:40 | INFO | Added overlapping amplicon for 2905437_final: 13878	14903	1
+2023-09-13 at 16:47:40 | INFO | Added overlapping amplicon for 2905437_final: 14752	15778	2
+2023-09-13 at 16:47:40 | INFO | Added overlapping amplicon for 2905437_final: 15628	16656	1
+2023-09-13 at 16:47:41 | INFO | Added overlapping amplicon for 2905437_final: 16505	17534	2
+2023-09-13 at 16:47:41 | INFO | Added overlapping amplicon for 2905437_final: 17299	18318	1
+2023-09-13 at 16:47:41 | INFO | Added overlapping amplicon for 2905437_final: 18140	19166	2
+2023-09-13 at 16:47:41 | INFO | Added overlapping amplicon for 2905437_final: 19002	20022	1
+2023-09-13 at 16:47:41 | INFO | Added overlapping amplicon for 2905437_final: 19871	20876	2
+2023-09-13 at 16:47:41 | INFO | Added overlapping amplicon for 2905437_final: 20673	21696	1
+2023-09-13 at 16:47:41 | INFO | Added overlapping amplicon for 2905437_final: 21386	22408	2
+2023-09-13 at 16:47:41 | INFO | Writting output files

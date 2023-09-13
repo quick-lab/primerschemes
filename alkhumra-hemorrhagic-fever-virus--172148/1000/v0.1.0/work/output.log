@@ -1,0 +1,19 @@
+2023-09-13 at 16:52:23 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:52:23 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/bf/661ddbb7201726e899f8faf0f9d6de/alkhumra-hemorrhagic-fever-virus--172148/work/mismatch.db
+2023-09-13 at 16:52:23 | INFO | Read in MSA: 172148_final	seqs:3	cols:10758
+2023-09-13 at 16:52:25 | INFO | 172148_final: digested to 3550 FKmers and 3690 RKmers
+2023-09-13 at 16:52:59 | INFO | 172148_final: Generated 224251 possible amplicons
+2023-09-13 at 16:52:59 | INFO | Added first amplicon for 172148_final: 23	1044	1
+2023-09-13 at 16:52:59 | INFO | Added overlapping amplicon for 172148_final: 872	1897	2
+2023-09-13 at 16:52:59 | INFO | Added overlapping amplicon for 172148_final: 1747	2771	1
+2023-09-13 at 16:53:00 | INFO | Added overlapping amplicon for 172148_final: 2577	3599	2
+2023-09-13 at 16:53:00 | INFO | Added overlapping amplicon for 172148_final: 3449	4472	1
+2023-09-13 at 16:53:00 | INFO | Added overlapping amplicon for 172148_final: 4306	5313	2
+2023-09-13 at 16:53:00 | INFO | Added overlapping amplicon for 172148_final: 5101	6127	1
+2023-09-13 at 16:53:00 | INFO | Added overlapping amplicon for 172148_final: 5912	6938	2
+2023-09-13 at 16:53:00 | INFO | Added overlapping amplicon for 172148_final: 6749	7769	1
+2023-09-13 at 16:53:00 | INFO | Added overlapping amplicon for 172148_final: 7621	8644	2
+2023-09-13 at 16:53:00 | INFO | Added overlapping amplicon for 172148_final: 8487	9509	1
+2023-09-13 at 16:53:00 | INFO | Added overlapping amplicon for 172148_final: 9335	10344	2
+2023-09-13 at 16:53:00 | INFO | Added overlapping amplicon for 172148_final: 9770	10749	1
+2023-09-13 at 16:53:00 | INFO | Writting output files

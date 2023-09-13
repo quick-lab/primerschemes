@@ -1,0 +1,18 @@
+2023-09-13 at 16:51:01 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:51:02 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/e8/8c9299438c5141a5da30e99f6c0600/spondweni-virus--64318/work/mismatch.db
+2023-09-13 at 16:51:02 | INFO | Read in MSA: 64318_final	seqs:16	cols:10290
+2023-09-13 at 16:51:08 | INFO | 64318_final: digested to 3715 FKmers and 3911 RKmers
+2023-09-13 at 16:51:50 | INFO | 64318_final: Generated 252418 possible amplicons
+2023-09-13 at 16:51:50 | INFO | Added first amplicon for 64318_final: 1	1017	1
+2023-09-13 at 16:51:50 | INFO | Added overlapping amplicon for 64318_final: 866	1848	2
+2023-09-13 at 16:51:50 | INFO | Added overlapping amplicon for 64318_final: 1642	2657	1
+2023-09-13 at 16:51:50 | INFO | Added overlapping amplicon for 64318_final: 2480	3503	2
+2023-09-13 at 16:51:51 | INFO | Added overlapping amplicon for 64318_final: 3352	4379	1
+2023-09-13 at 16:51:51 | INFO | Added overlapping amplicon for 64318_final: 4155	5175	2
+2023-09-13 at 16:51:51 | INFO | Added overlapping amplicon for 64318_final: 4962	5981	1
+2023-09-13 at 16:51:51 | INFO | Added overlapping amplicon for 64318_final: 5816	6841	2
+2023-09-13 at 16:51:51 | INFO | Added overlapping amplicon for 64318_final: 6674	7696	1
+2023-09-13 at 16:51:51 | INFO | Added overlapping amplicon for 64318_final: 7493	8490	2
+2023-09-13 at 16:51:51 | INFO | Added overlapping amplicon for 64318_final: 8311	9332	1
+2023-09-13 at 16:51:51 | INFO | Added overlapping amplicon for 64318_final: 9126	10129	2
+2023-09-13 at 16:51:51 | INFO | Writting output files

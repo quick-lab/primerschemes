@@ -1,0 +1,18 @@
+2023-09-13 at 16:46:36 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:46:36 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/5b/2f248a896a581d53850ecad4f2b5cc/banzi-virus--38837/work/mismatch.db
+2023-09-13 at 16:46:36 | INFO | Read in MSA: 38837_final	seqs:1	cols:10182
+2023-09-13 at 16:46:37 | INFO | 38837_final: digested to 4826 FKmers and 5118 RKmers
+2023-09-13 at 16:47:59 | INFO | 38837_final: Generated 442737 possible amplicons
+2023-09-13 at 16:47:59 | INFO | Added first amplicon for 38837_final: 1	1027	1
+2023-09-13 at 16:47:59 | INFO | Added overlapping amplicon for 38837_final: 878	1911	2
+2023-09-13 at 16:47:59 | INFO | Added overlapping amplicon for 38837_final: 1755	2777	1
+2023-09-13 at 16:47:59 | INFO | Added overlapping amplicon for 38837_final: 2631	3653	2
+2023-09-13 at 16:47:59 | INFO | Added overlapping amplicon for 38837_final: 3504	4526	1
+2023-09-13 at 16:47:59 | INFO | Added overlapping amplicon for 38837_final: 4377	5403	2
+2023-09-13 at 16:48:00 | INFO | Added overlapping amplicon for 38837_final: 5238	6259	1
+2023-09-13 at 16:48:00 | INFO | Added overlapping amplicon for 38837_final: 6104	7129	2
+2023-09-13 at 16:48:00 | INFO | Added overlapping amplicon for 38837_final: 6982	8006	1
+2023-09-13 at 16:48:00 | INFO | Added overlapping amplicon for 38837_final: 7858	8880	2
+2023-09-13 at 16:48:00 | INFO | Added overlapping amplicon for 38837_final: 8702	9725	1
+2023-09-13 at 16:48:00 | INFO | Added overlapping amplicon for 38837_final: 9165	10180	2
+2023-09-13 at 16:48:00 | INFO | Writting output files

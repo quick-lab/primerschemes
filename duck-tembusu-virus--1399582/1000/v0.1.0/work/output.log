@@ -1,0 +1,20 @@
+2023-09-13 at 16:55:51 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:55:53 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/f8/c77784caadba823f1a2822ae55f48c/duck-tembusu-virus--1399582/work/mismatch.db
+2023-09-13 at 16:55:53 | INFO | Read in MSA: 1399582_final	seqs:16	cols:11073
+2023-09-13 at 16:56:02 | INFO | 1399582_final: digested to 2953 FKmers and 3460 RKmers
+2023-09-13 at 16:56:39 | INFO | 1399582_final: Generated 165202 possible amplicons
+2023-09-13 at 16:56:39 | INFO | Added first amplicon for 1399582_final: 35	1039	1
+2023-09-13 at 16:56:39 | INFO | Added overlapping amplicon for 1399582_final: 866	1859	2
+2023-09-13 at 16:56:40 | INFO | Added overlapping amplicon for 1399582_final: 1697	2726	1
+2023-09-13 at 16:56:40 | INFO | Added overlapping amplicon for 1399582_final: 2547	3531	2
+2023-09-13 at 16:56:40 | INFO | Added overlapping amplicon for 1399582_final: 3345	4371	1
+2023-09-13 at 16:56:40 | INFO | Added overlapping amplicon for 1399582_final: 4214	5234	2
+2023-09-13 at 16:56:40 | INFO | Added overlapping amplicon for 1399582_final: 4937	5934	1
+2023-09-13 at 16:56:40 | INFO | Added overlapping amplicon for 1399582_final: 5751	6751	2
+2023-09-13 at 16:56:40 | INFO | Added overlapping amplicon for 1399582_final: 6498	7501	1
+2023-09-13 at 16:56:40 | INFO | Added overlapping amplicon for 1399582_final: 7306	8329	2
+2023-09-13 at 16:56:40 | INFO | Added overlapping amplicon for 1399582_final: 8115	9105	1
+2023-09-13 at 16:56:40 | INFO | Added overlapping amplicon for 1399582_final: 8934	9876	2
+2023-09-13 at 16:56:40 | INFO | Added overlapping amplicon for 1399582_final: 9650	10672	1
+2023-09-13 at 16:56:40 | INFO | Added overlapping amplicon for 1399582_final: 10041	11058	2
+2023-09-13 at 16:56:40 | INFO | Writting output files

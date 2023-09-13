@@ -1,0 +1,19 @@
+2023-09-13 at 16:49:18 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:49:19 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/88/97af2738d28d7987667dea5e8899f5/koutango-virus--44025/work/mismatch.db
+2023-09-13 at 16:49:19 | INFO | Read in MSA: 44025_final	seqs:3	cols:10988
+2023-09-13 at 16:49:21 | INFO | 44025_final: digested to 3980 FKmers and 4281 RKmers
+2023-09-13 at 16:50:08 | INFO | 44025_final: Generated 282427 possible amplicons
+2023-09-13 at 16:50:08 | INFO | Added first amplicon for 44025_final: 11	1026	1
+2023-09-13 at 16:50:08 | INFO | Added overlapping amplicon for 44025_final: 834	1851	2
+2023-09-13 at 16:50:08 | INFO | Added overlapping amplicon for 44025_final: 1691	2707	1
+2023-09-13 at 16:50:09 | INFO | Added overlapping amplicon for 44025_final: 2544	3564	2
+2023-09-13 at 16:50:09 | INFO | Added overlapping amplicon for 44025_final: 3322	4339	1
+2023-09-13 at 16:50:09 | INFO | Added overlapping amplicon for 44025_final: 4197	5206	2
+2023-09-13 at 16:50:09 | INFO | Added overlapping amplicon for 44025_final: 5030	6053	1
+2023-09-13 at 16:50:09 | INFO | Added overlapping amplicon for 44025_final: 5868	6892	2
+2023-09-13 at 16:50:09 | INFO | Added overlapping amplicon for 44025_final: 6734	7739	1
+2023-09-13 at 16:50:09 | INFO | Added overlapping amplicon for 44025_final: 7579	8569	2
+2023-09-13 at 16:50:09 | INFO | Added overlapping amplicon for 44025_final: 8349	9356	1
+2023-09-13 at 16:50:09 | INFO | Added overlapping amplicon for 44025_final: 9206	10233	2
+2023-09-13 at 16:50:09 | INFO | Added overlapping amplicon for 44025_final: 9920	10921	1
+2023-09-13 at 16:50:09 | INFO | Writting output files

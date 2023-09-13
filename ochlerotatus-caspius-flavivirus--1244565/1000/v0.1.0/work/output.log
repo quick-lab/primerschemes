@@ -1,0 +1,18 @@
+2023-09-13 at 16:46:42 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:46:42 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/cf/49cae1457b97263acea628d90b1274/ochlerotatus-caspius-flavivirus--1244565/work/mismatch.db
+2023-09-13 at 16:46:42 | INFO | Read in MSA: 1244565_final	seqs:1	cols:10370
+2023-09-13 at 16:46:43 | INFO | 1244565_final: digested to 5958 FKmers and 6191 RKmers
+2023-09-13 at 16:48:35 | INFO | 1244565_final: Generated 654964 possible amplicons
+2023-09-13 at 16:48:35 | INFO | Added first amplicon for 1244565_final: 0	1010	1
+2023-09-13 at 16:48:35 | INFO | Added overlapping amplicon for 1244565_final: 868	1892	2
+2023-09-13 at 16:48:35 | INFO | Added overlapping amplicon for 1244565_final: 1743	2769	1
+2023-09-13 at 16:48:35 | INFO | Added overlapping amplicon for 1244565_final: 2613	3628	2
+2023-09-13 at 16:48:35 | INFO | Added overlapping amplicon for 1244565_final: 3476	4499	1
+2023-09-13 at 16:48:36 | INFO | Added overlapping amplicon for 1244565_final: 4351	5374	2
+2023-09-13 at 16:48:36 | INFO | Added overlapping amplicon for 1244565_final: 5212	6234	1
+2023-09-13 at 16:48:36 | INFO | Added overlapping amplicon for 1244565_final: 6087	7109	2
+2023-09-13 at 16:48:36 | INFO | Added overlapping amplicon for 1244565_final: 6963	7988	1
+2023-09-13 at 16:48:36 | INFO | Added overlapping amplicon for 1244565_final: 7841	8870	2
+2023-09-13 at 16:48:36 | INFO | Added overlapping amplicon for 1244565_final: 8719	9743	1
+2023-09-13 at 16:48:36 | INFO | Added overlapping amplicon for 1244565_final: 9340	10369	2
+2023-09-13 at 16:48:37 | INFO | Writting output files
