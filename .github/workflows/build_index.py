@@ -25,7 +25,7 @@ def parse_version(
     for file in version_path.iterdir():
         if file.name == "primer.bed":
             version_dict["primer.bed.url"] = get_rawlink(
-                repo_url, scheme_name, length, version, file.name
+                repo_url, scheme_name, length, version.name, file.name
             )
             version_dict["primer.bed.md5"] = hashfile(file)
 
@@ -46,12 +46,12 @@ def parse_length(length_path, repo_url, scheme_name, length) -> dict[str:str]:
             version_path=version,
             repo_url=repo_url,
             scheme_name=scheme_name,
-            length=length,
+            length=length.name,
             version=version,
         )
 
         # Add the version to the length dict
-        length_dict[version] = version_dict
+        length_dict[version.name] = version_dict
 
     return length_dict
 
@@ -74,7 +74,7 @@ def parse_scheme(scheme_path, repo_url, scheme_name) -> dict[str:str]:
         )
 
         # Add the length to the scheme dict
-        scheme_dict[length] = length_dict
+        scheme_dict[length.name] = length_dict
 
     return scheme_dict
 
@@ -90,7 +90,7 @@ def main():
 
     for path in pathlib.Path(".").iterdir():
         # Only add directories
-        if not path.is_dir():
+        if not path.is_dir() or path.name.startswith("."):
             continue
 
         # Get the Scheme name
