@@ -9,6 +9,8 @@ def main():
     for path in pathlib.Path(".").iterdir():
         json_dict[path.stem] = str(path)
 
+    json_dict["Nothing"] = "Nothing"
+
     with open("index.json", "w") as f:
         json.dump(json_dict, f, indent=4)
 
