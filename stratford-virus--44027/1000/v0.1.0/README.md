@@ -12,7 +12,7 @@ For details please see preprint: TBD
 
 ### Scheme Overview
 
-![Alt text](stratford-virus--44027/1000/v0.1.0/work/44027_final.png '44027_final.png')
+![Alt text](work/44027_final.png '44027_final.png')
 
 ------------------------------------------------------------------------
 
