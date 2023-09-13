@@ -25,6 +25,8 @@ jobs:
       run: python ./.github/workflows/build_index.py
     - name: Commit files  # transfer the new html files back into the repository
       run: |
+        git config --local user.name  ${{ github.actor }}        
+        git config --local user.email "${{ github.actor }}@users.noreply.github.com"
         git add .
         git commit -m "Auto updating index"
     - name: Push changes  # push the output folder to your repo
