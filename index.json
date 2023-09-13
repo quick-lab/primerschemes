@@ -1,1 +1,10 @@
-{}
+{
+    "test--123": {
+        "1000": {
+            "v1.0.0": {
+                "primer.bed.url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/test--123/1000/v1.0.0/primer.bed",
+                "primer.bed.md5": "7185c800659f00b1f793cd761c7fed88"
+            }
+        }
+    }
+}
