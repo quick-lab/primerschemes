@@ -1,0 +1,19 @@
+2023-09-13 at 16:43:03 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:43:04 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/17/eb9500f99eefb7eaadb4de9fb4a382/yellow-fever-virus-17d--11090/work/mismatch.db
+2023-09-13 at 16:43:04 | INFO | Read in MSA: 11090_final	seqs:1	cols:10862
+2023-09-13 at 16:43:07 | INFO | 11090_final: digested to 5288 FKmers and 5582 RKmers
+2023-09-13 at 16:44:51 | INFO | 11090_final: Generated 494648 possible amplicons
+2023-09-13 at 16:44:51 | INFO | Added first amplicon for 11090_final: 0	1023	1
+2023-09-13 at 16:44:51 | INFO | Added overlapping amplicon for 11090_final: 869	1888	2
+2023-09-13 at 16:44:51 | INFO | Added overlapping amplicon for 11090_final: 1735	2761	1
+2023-09-13 at 16:44:51 | INFO | Added overlapping amplicon for 11090_final: 2596	3619	2
+2023-09-13 at 16:44:51 | INFO | Added overlapping amplicon for 11090_final: 3458	4480	1
+2023-09-13 at 16:44:51 | INFO | Added overlapping amplicon for 11090_final: 4283	5296	2
+2023-09-13 at 16:44:51 | INFO | Added overlapping amplicon for 11090_final: 5148	6172	1
+2023-09-13 at 16:44:51 | INFO | Added overlapping amplicon for 11090_final: 6009	7034	2
+2023-09-13 at 16:44:51 | INFO | Added overlapping amplicon for 11090_final: 6852	7873	1
+2023-09-13 at 16:44:51 | INFO | Added overlapping amplicon for 11090_final: 7722	8741	2
+2023-09-13 at 16:44:52 | INFO | Added overlapping amplicon for 11090_final: 8590	9614	1
+2023-09-13 at 16:44:52 | INFO | Added overlapping amplicon for 11090_final: 9464	10495	2
+2023-09-13 at 16:44:52 | INFO | Added overlapping amplicon for 11090_final: 9835	10861	1
+2023-09-13 at 16:44:52 | INFO | Writting output files

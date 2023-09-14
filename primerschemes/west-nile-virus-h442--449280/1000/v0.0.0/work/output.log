@@ -1,0 +1,19 @@
+2023-09-13 at 16:46:23 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:46:23 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/66/533ab8994c02e4fc71a65be7455622/west-nile-virus-h442--449280/work/mismatch.db
+2023-09-13 at 16:46:23 | INFO | Read in MSA: 449280_final	seqs:1	cols:11051
+2023-09-13 at 16:46:24 | INFO | 449280_final: digested to 5166 FKmers and 5412 RKmers
+2023-09-13 at 16:47:34 | INFO | 449280_final: Generated 463943 possible amplicons
+2023-09-13 at 16:47:34 | INFO | Added first amplicon for 449280_final: 0	1006	1
+2023-09-13 at 16:47:34 | INFO | Added overlapping amplicon for 449280_final: 843	1866	2
+2023-09-13 at 16:47:34 | INFO | Added overlapping amplicon for 449280_final: 1708	2733	1
+2023-09-13 at 16:47:35 | INFO | Added overlapping amplicon for 449280_final: 2583	3583	2
+2023-09-13 at 16:47:35 | INFO | Added overlapping amplicon for 449280_final: 3438	4463	1
+2023-09-13 at 16:47:35 | INFO | Added overlapping amplicon for 449280_final: 4315	5338	2
+2023-09-13 at 16:47:35 | INFO | Added overlapping amplicon for 449280_final: 5194	6214	1
+2023-09-13 at 16:47:35 | INFO | Added overlapping amplicon for 449280_final: 6063	7082	2
+2023-09-13 at 16:47:35 | INFO | Added overlapping amplicon for 449280_final: 6935	7954	1
+2023-09-13 at 16:47:35 | INFO | Added overlapping amplicon for 449280_final: 7806	8829	2
+2023-09-13 at 16:47:35 | INFO | Added overlapping amplicon for 449280_final: 8682	9704	1
+2023-09-13 at 16:47:35 | INFO | Added overlapping amplicon for 449280_final: 9538	10560	2
+2023-09-13 at 16:47:35 | INFO | Added overlapping amplicon for 449280_final: 9975	10995	1
+2023-09-13 at 16:47:35 | INFO | Writting output files

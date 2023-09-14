@@ -1,0 +1,20 @@
+2023-09-13 at 16:55:48 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:55:50 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/26/94dbc22993d02e2ffc0c07c24f1055/omsk-hemorrhagic-fever-virus--12542/work/mismatch.db
+2023-09-13 at 16:55:50 | INFO | Read in MSA: 12542_final	seqs:13	cols:11175
+2023-09-13 at 16:55:56 | INFO | 12542_final: digested to 1756 FKmers and 1968 RKmers
+2023-09-13 at 16:56:11 | INFO | 12542_final: Generated 56895 possible amplicons
+2023-09-13 at 16:56:11 | INFO | Added first amplicon for 12542_final: 79	1095	1
+2023-09-13 at 16:56:11 | INFO | Added overlapping amplicon for 12542_final: 841	1862	2
+2023-09-13 at 16:56:11 | INFO | Added overlapping amplicon for 12542_final: 1608	2626	1
+2023-09-13 at 16:56:11 | INFO | Added overlapping amplicon for 12542_final: 2462	3457	2
+2023-09-13 at 16:56:11 | INFO | Added overlapping amplicon for 12542_final: 3123	4075	1
+2023-09-13 at 16:56:11 | INFO | Added overlapping amplicon for 12542_final: 3920	4937	2
+2023-09-13 at 16:56:11 | INFO | Added overlapping amplicon for 12542_final: 4712	5734	1
+2023-09-13 at 16:56:11 | INFO | Added overlapping amplicon for 12542_final: 5449	6443	2
+2023-09-13 at 16:56:11 | INFO | Added overlapping amplicon for 12542_final: 6193	7097	1
+2023-09-13 at 16:56:11 | INFO | Added overlapping amplicon for 12542_final: 6803	7821	2
+2023-09-13 at 16:56:11 | INFO | Added overlapping amplicon for 12542_final: 7601	8482	1
+2023-09-13 at 16:56:11 | INFO | Added overlapping amplicon for 12542_final: 8335	9359	2
+2023-09-13 at 16:56:11 | INFO | Added overlapping amplicon for 12542_final: 9116	10120	1
+2023-09-13 at 16:56:11 | INFO | Added overlapping amplicon for 12542_final: 9956	10980	2
+2023-09-13 at 16:56:11 | INFO | Writting output files

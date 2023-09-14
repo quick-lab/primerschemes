@@ -1,0 +1,19 @@
+2023-09-13 at 16:47:04 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:47:04 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/bb/c03dc766d84b696058af5f7e1c163c/fitzroy-river-virus--1653304/work/mismatch.db
+2023-09-13 at 16:47:04 | INFO | Read in MSA: 1653304_final	seqs:1	cols:10807
+2023-09-13 at 16:47:05 | INFO | 1653304_final: digested to 5843 FKmers and 6215 RKmers
+2023-09-13 at 16:48:49 | INFO | 1653304_final: Generated 617354 possible amplicons
+2023-09-13 at 16:48:49 | INFO | Added first amplicon for 1653304_final: 0	1015	1
+2023-09-13 at 16:48:49 | INFO | Added overlapping amplicon for 1653304_final: 864	1887	2
+2023-09-13 at 16:48:49 | INFO | Added overlapping amplicon for 1653304_final: 1742	2766	1
+2023-09-13 at 16:48:49 | INFO | Added overlapping amplicon for 1653304_final: 2620	3648	2
+2023-09-13 at 16:48:49 | INFO | Added overlapping amplicon for 1653304_final: 3477	4498	1
+2023-09-13 at 16:48:50 | INFO | Added overlapping amplicon for 1653304_final: 4349	5369	2
+2023-09-13 at 16:48:50 | INFO | Added overlapping amplicon for 1653304_final: 5215	6238	1
+2023-09-13 at 16:48:50 | INFO | Added overlapping amplicon for 1653304_final: 6076	7096	2
+2023-09-13 at 16:48:50 | INFO | Added overlapping amplicon for 1653304_final: 6937	7958	1
+2023-09-13 at 16:48:50 | INFO | Added overlapping amplicon for 1653304_final: 7792	8819	2
+2023-09-13 at 16:48:50 | INFO | Added overlapping amplicon for 1653304_final: 8663	9695	1
+2023-09-13 at 16:48:50 | INFO | Added overlapping amplicon for 1653304_final: 9511	10531	2
+2023-09-13 at 16:48:50 | INFO | Added overlapping amplicon for 1653304_final: 9804	10789	1
+2023-09-13 at 16:48:50 | INFO | Writting output files

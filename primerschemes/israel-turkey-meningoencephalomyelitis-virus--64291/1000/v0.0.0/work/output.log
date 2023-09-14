@@ -1,0 +1,19 @@
+2023-09-13 at 16:49:36 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:49:37 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/1b/c5d4c7733fbeed2d356fd2e466986a/israel-turkey-meningoencephalomyelitis-virus--64291/work/mismatch.db
+2023-09-13 at 16:49:37 | INFO | Read in MSA: 64291_final	seqs:6	cols:10794
+2023-09-13 at 16:49:40 | INFO | 64291_final: digested to 4137 FKmers and 4655 RKmers
+2023-09-13 at 16:50:36 | INFO | 64291_final: Generated 335853 possible amplicons
+2023-09-13 at 16:50:36 | INFO | Added first amplicon for 64291_final: 7	1029	1
+2023-09-13 at 16:50:36 | INFO | Added overlapping amplicon for 64291_final: 875	1898	2
+2023-09-13 at 16:50:36 | INFO | Added overlapping amplicon for 64291_final: 1671	2695	1
+2023-09-13 at 16:50:36 | INFO | Added overlapping amplicon for 64291_final: 2481	3497	2
+2023-09-13 at 16:50:36 | INFO | Added overlapping amplicon for 64291_final: 3301	4275	1
+2023-09-13 at 16:50:36 | INFO | Added overlapping amplicon for 64291_final: 4035	5045	2
+2023-09-13 at 16:50:37 | INFO | Added overlapping amplicon for 64291_final: 4819	5820	1
+2023-09-13 at 16:50:37 | INFO | Added overlapping amplicon for 64291_final: 5671	6681	2
+2023-09-13 at 16:50:37 | INFO | Added overlapping amplicon for 64291_final: 6529	7550	1
+2023-09-13 at 16:50:37 | INFO | Added overlapping amplicon for 64291_final: 7397	8415	2
+2023-09-13 at 16:50:37 | INFO | Added overlapping amplicon for 64291_final: 8265	9286	1
+2023-09-13 at 16:50:37 | INFO | Added overlapping amplicon for 64291_final: 9069	10086	2
+2023-09-13 at 16:50:37 | INFO | Added overlapping amplicon for 64291_final: 9853	10793	1
+2023-09-13 at 16:50:37 | INFO | Writting output files

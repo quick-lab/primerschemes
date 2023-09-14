@@ -1,0 +1,20 @@
+2023-09-13 at 16:50:13 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:50:14 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/16/87d62eb9a08cbfd585c6f59bd52a43/karshi-virus--64287/work/mismatch.db
+2023-09-13 at 16:50:14 | INFO | Read in MSA: 64287_final	seqs:4	cols:10829
+2023-09-13 at 16:50:16 | INFO | 64287_final: digested to 1660 FKmers and 1887 RKmers
+2023-09-13 at 16:50:22 | INFO | 64287_final: Generated 48302 possible amplicons
+2023-09-13 at 16:50:22 | INFO | Added first amplicon for 64287_final: 0	1008	1
+2023-09-13 at 16:50:22 | INFO | Added overlapping amplicon for 64287_final: 845	1873	2
+2023-09-13 at 16:50:22 | INFO | Added overlapping amplicon for 64287_final: 1719	2741	1
+2023-09-13 at 16:50:22 | INFO | Added overlapping amplicon for 64287_final: 2529	3537	2
+2023-09-13 at 16:50:23 | INFO | Added overlapping amplicon for 64287_final: 3202	4213	1
+2023-09-13 at 16:50:23 | INFO | Added overlapping amplicon for 64287_final: 4026	5035	2
+2023-09-13 at 16:50:23 | INFO | Added overlapping amplicon for 64287_final: 4740	5678	1
+2023-09-13 at 16:50:23 | INFO | Added overlapping amplicon for 64287_final: 5503	6524	2
+2023-09-13 at 16:50:23 | INFO | Added overlapping amplicon for 64287_final: 6361	7386	1
+2023-09-13 at 16:50:23 | INFO | Added overlapping amplicon for 64287_final: 7228	8224	2
+2023-09-13 at 16:50:23 | INFO | Added overlapping amplicon for 64287_final: 8038	9051	1
+2023-09-13 at 16:50:23 | INFO | Added overlapping amplicon for 64287_final: 8843	9855	2
+2023-09-13 at 16:50:23 | INFO | Added overlapping amplicon for 64287_final: 9692	10691	1
+2023-09-13 at 16:50:23 | INFO | Added overlapping amplicon for 64287_final: 9897	10827	2
+2023-09-13 at 16:50:23 | INFO | Writting output files

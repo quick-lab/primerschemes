@@ -1,0 +1,19 @@
+2023-09-13 at 16:45:08 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:45:08 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/24/44c4f1f508a9251851f0f8d8454e53/montana-myotis-leukoencephalitis-virus--64312/work/mismatch.db
+2023-09-13 at 16:45:08 | INFO | Read in MSA: 64312_final	seqs:1	cols:10690
+2023-09-13 at 16:45:10 | INFO | 64312_final: digested to 6383 FKmers and 6477 RKmers
+2023-09-13 at 16:46:57 | INFO | 64312_final: Generated 715765 possible amplicons
+2023-09-13 at 16:46:57 | INFO | Added first amplicon for 64312_final: 3	1027	1
+2023-09-13 at 16:46:58 | INFO | Added overlapping amplicon for 64312_final: 875	1899	2
+2023-09-13 at 16:46:58 | INFO | Added overlapping amplicon for 64312_final: 1749	2777	1
+2023-09-13 at 16:46:58 | INFO | Added overlapping amplicon for 64312_final: 2615	3638	2
+2023-09-13 at 16:46:58 | INFO | Added overlapping amplicon for 64312_final: 3483	4514	1
+2023-09-13 at 16:46:58 | INFO | Added overlapping amplicon for 64312_final: 4344	5367	2
+2023-09-13 at 16:46:58 | INFO | Added overlapping amplicon for 64312_final: 5217	6244	1
+2023-09-13 at 16:46:58 | INFO | Added overlapping amplicon for 64312_final: 6087	7116	2
+2023-09-13 at 16:46:58 | INFO | Added overlapping amplicon for 64312_final: 6947	7972	1
+2023-09-13 at 16:46:59 | INFO | Added overlapping amplicon for 64312_final: 7785	8792	2
+2023-09-13 at 16:46:59 | INFO | Added overlapping amplicon for 64312_final: 8625	9647	1
+2023-09-13 at 16:46:59 | INFO | Added overlapping amplicon for 64312_final: 9463	10475	2
+2023-09-13 at 16:46:59 | INFO | Added overlapping amplicon for 64312_final: 9661	10682	1
+2023-09-13 at 16:46:59 | INFO | Writting output files

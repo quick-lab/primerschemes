@@ -1,0 +1,21 @@
+2023-09-13 at 16:55:48 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:55:53 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/46/f9645996f61a056be4bbe816dd237e/tembusu-virus--64293/work/mismatch.db
+2023-09-13 at 16:55:53 | INFO | Read in MSA: 64293_final	seqs:49	cols:11087
+2023-09-13 at 16:56:15 | INFO | 64293_final: digested to 1111 FKmers and 1503 RKmers
+2023-09-13 at 16:56:46 | INFO | 64293_final: Generated 25647 possible amplicons
+2023-09-13 at 16:56:46 | INFO | Added first amplicon for 64293_final: 48	1039	1
+2023-09-13 at 16:56:46 | INFO | Added overlapping amplicon for 64293_final: 865	1859	2
+2023-09-13 at 16:56:46 | INFO | Added overlapping amplicon for 64293_final: 1615	2643	1
+2023-09-13 at 16:56:46 | INFO | Added overlapping amplicon for 64293_final: 2264	3288	2
+2023-09-13 at 16:56:46 | INFO | Added overlapping amplicon for 64293_final: 3041	4035	1
+2023-09-13 at 16:56:46 | INFO | Added overlapping amplicon for 64293_final: 3860	4864	2
+2023-09-13 at 16:56:46 | INFO | Added overlapping amplicon for 64293_final: 4703	5662	1
+2023-09-13 at 16:56:47 | INFO | Added overlapping amplicon for 64293_final: 5472	6364	2
+2023-09-13 at 16:56:47 | INFO | Added overlapping amplicon for 64293_final: 6177	7179	1
+2023-09-13 at 16:56:47 | INFO | Added overlapping amplicon for 64293_final: 6893	7743	2
+2023-09-13 at 16:56:47 | INFO | Added overlapping amplicon for 64293_final: 7473	8435	1
+2023-09-13 at 16:56:47 | INFO | Added overlapping amplicon for 64293_final: 8188	9167	2
+2023-09-13 at 16:56:47 | INFO | Added overlapping amplicon for 64293_final: 9004	9987	1
+2023-09-13 at 16:56:47 | INFO | Added overlapping amplicon for 64293_final: 9805	10803	2
+2023-09-13 at 16:56:48 | INFO | Added overlapping amplicon for 64293_final: 10125	11010	1
+2023-09-13 at 16:56:48 | INFO | Writting output files

@@ -1,0 +1,18 @@
+2023-09-13 at 16:46:59 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:46:59 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/3f/ba0cbeb890b7445ccfbef4fffb1203/bouboui-virus--64295/work/mismatch.db
+2023-09-13 at 16:46:59 | INFO | Read in MSA: 64295_final	seqs:1	cols:10173
+2023-09-13 at 16:47:00 | INFO | 64295_final: digested to 5636 FKmers and 5997 RKmers
+2023-09-13 at 16:48:29 | INFO | 64295_final: Generated 597382 possible amplicons
+2023-09-13 at 16:48:29 | INFO | Added first amplicon for 64295_final: 1	1014	1
+2023-09-13 at 16:48:29 | INFO | Added overlapping amplicon for 64295_final: 854	1876	2
+2023-09-13 at 16:48:29 | INFO | Added overlapping amplicon for 64295_final: 1732	2761	1
+2023-09-13 at 16:48:29 | INFO | Added overlapping amplicon for 64295_final: 2607	3631	2
+2023-09-13 at 16:48:29 | INFO | Added overlapping amplicon for 64295_final: 3479	4501	1
+2023-09-13 at 16:48:29 | INFO | Added overlapping amplicon for 64295_final: 4355	5376	2
+2023-09-13 at 16:48:29 | INFO | Added overlapping amplicon for 64295_final: 5224	6246	1
+2023-09-13 at 16:48:29 | INFO | Added overlapping amplicon for 64295_final: 6083	7094	2
+2023-09-13 at 16:48:30 | INFO | Added overlapping amplicon for 64295_final: 6937	7958	1
+2023-09-13 at 16:48:30 | INFO | Added overlapping amplicon for 64295_final: 7809	8838	2
+2023-09-13 at 16:48:30 | INFO | Added overlapping amplicon for 64295_final: 8673	9692	1
+2023-09-13 at 16:48:30 | INFO | Added overlapping amplicon for 64295_final: 9157	10171	2
+2023-09-13 at 16:48:30 | INFO | Writting output files

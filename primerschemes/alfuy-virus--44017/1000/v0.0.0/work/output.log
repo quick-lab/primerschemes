@@ -1,0 +1,19 @@
+2023-09-13 at 16:47:07 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:47:07 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/61/2040e2f887ab689c6aa19ded5decbc/alfuy-virus--44017/work/mismatch.db
+2023-09-13 at 16:47:07 | INFO | Read in MSA: 44017_final	seqs:1	cols:10960
+2023-09-13 at 16:47:08 | INFO | 44017_final: digested to 5364 FKmers and 5743 RKmers
+2023-09-13 at 16:48:34 | INFO | 44017_final: Generated 504589 possible amplicons
+2023-09-13 at 16:48:34 | INFO | Added first amplicon for 44017_final: 6	1030	1
+2023-09-13 at 16:48:34 | INFO | Added overlapping amplicon for 44017_final: 846	1869	2
+2023-09-13 at 16:48:34 | INFO | Added overlapping amplicon for 44017_final: 1721	2742	1
+2023-09-13 at 16:48:34 | INFO | Added overlapping amplicon for 44017_final: 2568	3591	2
+2023-09-13 at 16:48:34 | INFO | Added overlapping amplicon for 44017_final: 3436	4454	1
+2023-09-13 at 16:48:34 | INFO | Added overlapping amplicon for 44017_final: 4282	5304	2
+2023-09-13 at 16:48:34 | INFO | Added overlapping amplicon for 44017_final: 5147	6172	1
+2023-09-13 at 16:48:34 | INFO | Added overlapping amplicon for 44017_final: 5992	7014	2
+2023-09-13 at 16:48:35 | INFO | Added overlapping amplicon for 44017_final: 6863	7884	1
+2023-09-13 at 16:48:35 | INFO | Added overlapping amplicon for 44017_final: 7727	8738	2
+2023-09-13 at 16:48:35 | INFO | Added overlapping amplicon for 44017_final: 8578	9605	1
+2023-09-13 at 16:48:35 | INFO | Added overlapping amplicon for 44017_final: 9447	10469	2
+2023-09-13 at 16:48:35 | INFO | Added overlapping amplicon for 44017_final: 9959	10959	1
+2023-09-13 at 16:48:35 | INFO | Writting output files

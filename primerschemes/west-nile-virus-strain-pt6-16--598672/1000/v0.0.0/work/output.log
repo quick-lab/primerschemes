@@ -1,0 +1,19 @@
+2023-09-13 at 16:43:04 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:43:05 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/25/488aa20a2084f0b3f439adfc6f2fe3/west-nile-virus-strain-pt6-16--598672/work/mismatch.db
+2023-09-13 at 16:43:05 | INFO | Read in MSA: 598672_final	seqs:1	cols:10979
+2023-09-13 at 16:43:07 | INFO | 598672_final: digested to 5055 FKmers and 5204 RKmers
+2023-09-13 at 16:44:32 | INFO | 598672_final: Generated 437899 possible amplicons
+2023-09-13 at 16:44:32 | INFO | Added first amplicon for 598672_final: 1	1023	1
+2023-09-13 at 16:44:32 | INFO | Added overlapping amplicon for 598672_final: 879	1886	2
+2023-09-13 at 16:44:32 | INFO | Added overlapping amplicon for 598672_final: 1711	2738	1
+2023-09-13 at 16:44:32 | INFO | Added overlapping amplicon for 598672_final: 2581	3601	2
+2023-09-13 at 16:44:32 | INFO | Added overlapping amplicon for 598672_final: 3455	4478	1
+2023-09-13 at 16:44:32 | INFO | Added overlapping amplicon for 598672_final: 4327	5350	2
+2023-09-13 at 16:44:32 | INFO | Added overlapping amplicon for 598672_final: 5190	6215	1
+2023-09-13 at 16:44:32 | INFO | Added overlapping amplicon for 598672_final: 6066	7099	2
+2023-09-13 at 16:44:32 | INFO | Added overlapping amplicon for 598672_final: 6941	7967	1
+2023-09-13 at 16:44:32 | INFO | Added overlapping amplicon for 598672_final: 7814	8836	2
+2023-09-13 at 16:44:32 | INFO | Added overlapping amplicon for 598672_final: 8691	9712	1
+2023-09-13 at 16:44:33 | INFO | Added overlapping amplicon for 598672_final: 9556	10578	2
+2023-09-13 at 16:44:33 | INFO | Added overlapping amplicon for 598672_final: 9928	10950	1
+2023-09-13 at 16:44:33 | INFO | Writting output files

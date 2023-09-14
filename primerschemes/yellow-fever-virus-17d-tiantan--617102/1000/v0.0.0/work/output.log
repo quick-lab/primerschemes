@@ -1,0 +1,19 @@
+2023-09-13 at 16:45:04 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:45:05 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/77/c56bd33bd746c36ffe683640e55bca/yellow-fever-virus-17d-tiantan--617102/work/mismatch.db
+2023-09-13 at 16:45:05 | INFO | Read in MSA: 617102_final	seqs:1	cols:10862
+2023-09-13 at 16:45:06 | INFO | 617102_final: digested to 5288 FKmers and 5582 RKmers
+2023-09-13 at 16:46:28 | INFO | 617102_final: Generated 494648 possible amplicons
+2023-09-13 at 16:46:28 | INFO | Added first amplicon for 617102_final: 0	1023	1
+2023-09-13 at 16:46:28 | INFO | Added overlapping amplicon for 617102_final: 869	1888	2
+2023-09-13 at 16:46:28 | INFO | Added overlapping amplicon for 617102_final: 1735	2761	1
+2023-09-13 at 16:46:28 | INFO | Added overlapping amplicon for 617102_final: 2596	3619	2
+2023-09-13 at 16:46:28 | INFO | Added overlapping amplicon for 617102_final: 3458	4480	1
+2023-09-13 at 16:46:28 | INFO | Added overlapping amplicon for 617102_final: 4283	5296	2
+2023-09-13 at 16:46:28 | INFO | Added overlapping amplicon for 617102_final: 5148	6172	1
+2023-09-13 at 16:46:28 | INFO | Added overlapping amplicon for 617102_final: 6009	7034	2
+2023-09-13 at 16:46:28 | INFO | Added overlapping amplicon for 617102_final: 6852	7873	1
+2023-09-13 at 16:46:29 | INFO | Added overlapping amplicon for 617102_final: 7722	8741	2
+2023-09-13 at 16:46:29 | INFO | Added overlapping amplicon for 617102_final: 8590	9614	1
+2023-09-13 at 16:46:29 | INFO | Added overlapping amplicon for 617102_final: 9464	10495	2
+2023-09-13 at 16:46:29 | INFO | Added overlapping amplicon for 617102_final: 9835	10861	1
+2023-09-13 at 16:46:29 | INFO | Writting output files

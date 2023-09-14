@@ -1,0 +1,21 @@
+2023-09-13 at 16:54:46 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:54:47 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/0c/69ba5b12282684b55edacecd139d16/kyasanur-forest-disease-virus--33743/work/mismatch.db
+2023-09-13 at 16:54:47 | INFO | Read in MSA: 33743_final	seqs:9	cols:10776
+2023-09-13 at 16:54:49 | INFO | 33743_final: digested to 1732 FKmers and 1861 RKmers
+2023-09-13 at 16:54:54 | INFO | 33743_final: Generated 55772 possible amplicons
+2023-09-13 at 16:54:54 | INFO | Added first amplicon for 33743_final: 40	1061	1
+2023-09-13 at 16:54:54 | INFO | Added overlapping amplicon for 33743_final: 840	1843	2
+2023-09-13 at 16:54:54 | INFO | Added overlapping amplicon for 33743_final: 1565	2514	1
+2023-09-13 at 16:54:54 | INFO | Added overlapping amplicon for 33743_final: 2192	3148	2
+2023-09-13 at 16:54:54 | INFO | Added overlapping amplicon for 33743_final: 2856	3838	1
+2023-09-13 at 16:54:54 | INFO | Added overlapping amplicon for 33743_final: 3589	4597	2
+2023-09-13 at 16:54:54 | INFO | Added overlapping amplicon for 33743_final: 4311	5182	1
+2023-09-13 at 16:54:54 | INFO | Added overlapping amplicon for 33743_final: 4947	5956	2
+2023-09-13 at 16:54:54 | INFO | Added overlapping amplicon for 33743_final: 5749	6693	1
+2023-09-13 at 16:54:54 | INFO | Added overlapping amplicon for 33743_final: 6390	7387	2
+2023-09-13 at 16:54:54 | INFO | Added overlapping amplicon for 33743_final: 7087	8114	1
+2023-09-13 at 16:54:54 | INFO | Added overlapping amplicon for 33743_final: 7884	8849	2
+2023-09-13 at 16:54:54 | INFO | Added overlapping amplicon for 33743_final: 8556	9532	1
+2023-09-13 at 16:54:54 | INFO | Added overlapping amplicon for 33743_final: 9378	10347	2
+2023-09-13 at 16:54:54 | INFO | Added overlapping amplicon for 33743_final: 9793	10767	1
+2023-09-13 at 16:54:54 | INFO | Writting output files

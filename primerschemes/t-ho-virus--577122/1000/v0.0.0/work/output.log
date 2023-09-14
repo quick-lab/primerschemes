@@ -1,0 +1,19 @@
+2023-09-13 at 16:45:04 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:45:05 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/5d/c4b66059d41f2f65dd2879219f2408/t-ho-virus--577122/work/mismatch.db
+2023-09-13 at 16:45:05 | INFO | Read in MSA: 577122_final	seqs:1	cols:10937
+2023-09-13 at 16:45:06 | INFO | 577122_final: digested to 5496 FKmers and 5917 RKmers
+2023-09-13 at 16:46:38 | INFO | 577122_final: Generated 557650 possible amplicons
+2023-09-13 at 16:46:38 | INFO | Added first amplicon for 577122_final: 0	1019	1
+2023-09-13 at 16:46:38 | INFO | Added overlapping amplicon for 577122_final: 872	1898	2
+2023-09-13 at 16:46:38 | INFO | Added overlapping amplicon for 577122_final: 1749	2773	1
+2023-09-13 at 16:46:39 | INFO | Added overlapping amplicon for 577122_final: 2597	3617	2
+2023-09-13 at 16:46:39 | INFO | Added overlapping amplicon for 577122_final: 3455	4477	1
+2023-09-13 at 16:46:39 | INFO | Added overlapping amplicon for 577122_final: 4332	5353	2
+2023-09-13 at 16:46:39 | INFO | Added overlapping amplicon for 577122_final: 5204	6226	1
+2023-09-13 at 16:46:39 | INFO | Added overlapping amplicon for 577122_final: 6079	7103	2
+2023-09-13 at 16:46:39 | INFO | Added overlapping amplicon for 577122_final: 6909	7935	1
+2023-09-13 at 16:46:39 | INFO | Added overlapping amplicon for 577122_final: 7787	8809	2
+2023-09-13 at 16:46:39 | INFO | Added overlapping amplicon for 577122_final: 8663	9689	1
+2023-09-13 at 16:46:39 | INFO | Added overlapping amplicon for 577122_final: 9536	10571	2
+2023-09-13 at 16:46:40 | INFO | Added overlapping amplicon for 577122_final: 9937	10935	1
+2023-09-13 at 16:46:40 | INFO | Writting output files

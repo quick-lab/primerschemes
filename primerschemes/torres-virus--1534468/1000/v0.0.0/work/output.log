@@ -1,0 +1,19 @@
+2023-09-13 at 16:44:37 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:44:37 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/e6/bfd233e0eba791c553d72fc0b5d5b6/torres-virus--1534468/work/mismatch.db
+2023-09-13 at 16:44:37 | INFO | Read in MSA: 1534468_final	seqs:1	cols:10735
+2023-09-13 at 16:44:38 | INFO | 1534468_final: digested to 5634 FKmers and 5953 RKmers
+2023-09-13 at 16:46:10 | INFO | 1534468_final: Generated 580631 possible amplicons
+2023-09-13 at 16:46:10 | INFO | Added first amplicon for 1534468_final: 4	1029	1
+2023-09-13 at 16:46:10 | INFO | Added overlapping amplicon for 1534468_final: 869	1891	2
+2023-09-13 at 16:46:10 | INFO | Added overlapping amplicon for 1534468_final: 1714	2743	1
+2023-09-13 at 16:46:10 | INFO | Added overlapping amplicon for 1534468_final: 2591	3615	2
+2023-09-13 at 16:46:10 | INFO | Added overlapping amplicon for 1534468_final: 3463	4492	1
+2023-09-13 at 16:46:10 | INFO | Added overlapping amplicon for 1534468_final: 4335	5360	2
+2023-09-13 at 16:46:10 | INFO | Added overlapping amplicon for 1534468_final: 5148	6154	1
+2023-09-13 at 16:46:11 | INFO | Added overlapping amplicon for 1534468_final: 5996	7022	2
+2023-09-13 at 16:46:11 | INFO | Added overlapping amplicon for 1534468_final: 6848	7851	1
+2023-09-13 at 16:46:11 | INFO | Added overlapping amplicon for 1534468_final: 7681	8703	2
+2023-09-13 at 16:46:11 | INFO | Added overlapping amplicon for 1534468_final: 8542	9570	1
+2023-09-13 at 16:46:11 | INFO | Added overlapping amplicon for 1534468_final: 9415	10439	2
+2023-09-13 at 16:46:11 | INFO | Added overlapping amplicon for 1534468_final: 9709	10734	1
+2023-09-13 at 16:46:11 | INFO | Writting output files

@@ -1,0 +1,19 @@
+2023-09-13 at 16:49:20 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:49:21 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/db/5ed13ee767b9294f246ceddec19a4c/chaoyang-virus--631267/work/mismatch.db
+2023-09-13 at 16:49:21 | INFO | Read in MSA: 631267_final	seqs:3	cols:10733
+2023-09-13 at 16:49:23 | INFO | 631267_final: digested to 5110 FKmers and 5524 RKmers
+2023-09-13 at 16:50:52 | INFO | 631267_final: Generated 487265 possible amplicons
+2023-09-13 at 16:50:52 | INFO | Added first amplicon for 631267_final: 0	1024	1
+2023-09-13 at 16:50:52 | INFO | Added overlapping amplicon for 631267_final: 868	1889	2
+2023-09-13 at 16:50:53 | INFO | Added overlapping amplicon for 631267_final: 1731	2749	1
+2023-09-13 at 16:50:53 | INFO | Added overlapping amplicon for 631267_final: 2579	3575	2
+2023-09-13 at 16:50:53 | INFO | Added overlapping amplicon for 631267_final: 3378	4403	1
+2023-09-13 at 16:50:53 | INFO | Added overlapping amplicon for 631267_final: 4239	5256	2
+2023-09-13 at 16:50:53 | INFO | Added overlapping amplicon for 631267_final: 5104	6119	1
+2023-09-13 at 16:50:53 | INFO | Added overlapping amplicon for 631267_final: 5944	6971	2
+2023-09-13 at 16:50:53 | INFO | Added overlapping amplicon for 631267_final: 6800	7826	1
+2023-09-13 at 16:50:53 | INFO | Added overlapping amplicon for 631267_final: 7670	8675	2
+2023-09-13 at 16:50:53 | INFO | Added overlapping amplicon for 631267_final: 8516	9538	1
+2023-09-13 at 16:50:53 | INFO | Added overlapping amplicon for 631267_final: 9333	10355	2
+2023-09-13 at 16:50:53 | INFO | Added overlapping amplicon for 631267_final: 9697	10723	1
+2023-09-13 at 16:50:53 | INFO | Writting output files

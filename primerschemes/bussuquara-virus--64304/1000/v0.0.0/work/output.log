@@ -1,0 +1,19 @@
+2023-09-13 at 16:48:02 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:48:02 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/c0/d190f939f5ccc9221683139f20b870/bussuquara-virus--64304/work/mismatch.db
+2023-09-13 at 16:48:02 | INFO | Read in MSA: 64304_final	seqs:1	cols:10815
+2023-09-13 at 16:48:04 | INFO | 64304_final: digested to 5157 FKmers and 5597 RKmers
+2023-09-13 at 16:49:24 | INFO | 64304_final: Generated 491863 possible amplicons
+2023-09-13 at 16:49:24 | INFO | Added first amplicon for 64304_final: 0	1025	1
+2023-09-13 at 16:49:24 | INFO | Added overlapping amplicon for 64304_final: 861	1889	2
+2023-09-13 at 16:49:24 | INFO | Added overlapping amplicon for 64304_final: 1731	2753	1
+2023-09-13 at 16:49:24 | INFO | Added overlapping amplicon for 64304_final: 2604	3609	2
+2023-09-13 at 16:49:24 | INFO | Added overlapping amplicon for 64304_final: 3465	4491	1
+2023-09-13 at 16:49:24 | INFO | Added overlapping amplicon for 64304_final: 4341	5363	2
+2023-09-13 at 16:49:24 | INFO | Added overlapping amplicon for 64304_final: 5211	6233	1
+2023-09-13 at 16:49:24 | INFO | Added overlapping amplicon for 64304_final: 6088	7120	2
+2023-09-13 at 16:49:25 | INFO | Added overlapping amplicon for 64304_final: 6946	7965	1
+2023-09-13 at 16:49:25 | INFO | Added overlapping amplicon for 64304_final: 7821	8848	2
+2023-09-13 at 16:49:25 | INFO | Added overlapping amplicon for 64304_final: 8695	9718	1
+2023-09-13 at 16:49:25 | INFO | Added overlapping amplicon for 64304_final: 9556	10576	2
+2023-09-13 at 16:49:25 | INFO | Added overlapping amplicon for 64304_final: 9806	10814	1
+2023-09-13 at 16:49:25 | INFO | Writting output files

@@ -1,0 +1,19 @@
+2023-09-13 at 16:50:29 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:50:29 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/b5/d449ec4310f38b64958c397a92511c/ntaya-virus--64292/work/mismatch.db
+2023-09-13 at 16:50:29 | INFO | Read in MSA: 64292_final	seqs:2	cols:10943
+2023-09-13 at 16:50:31 | INFO | 64292_final: digested to 5717 FKmers and 6137 RKmers
+2023-09-13 at 16:52:24 | INFO | 64292_final: Generated 600825 possible amplicons
+2023-09-13 at 16:52:24 | INFO | Added first amplicon for 64292_final: 6	1034	1
+2023-09-13 at 16:52:24 | INFO | Added overlapping amplicon for 64292_final: 876	1905	2
+2023-09-13 at 16:52:24 | INFO | Added overlapping amplicon for 64292_final: 1719	2740	1
+2023-09-13 at 16:52:24 | INFO | Added overlapping amplicon for 64292_final: 2589	3610	2
+2023-09-13 at 16:52:24 | INFO | Added overlapping amplicon for 64292_final: 3461	4489	1
+2023-09-13 at 16:52:25 | INFO | Added overlapping amplicon for 64292_final: 4337	5360	2
+2023-09-13 at 16:52:25 | INFO | Added overlapping amplicon for 64292_final: 5202	6224	1
+2023-09-13 at 16:52:25 | INFO | Added overlapping amplicon for 64292_final: 6064	7091	2
+2023-09-13 at 16:52:25 | INFO | Added overlapping amplicon for 64292_final: 6931	7958	1
+2023-09-13 at 16:52:25 | INFO | Added overlapping amplicon for 64292_final: 7797	8824	2
+2023-09-13 at 16:52:25 | INFO | Added overlapping amplicon for 64292_final: 8675	9702	1
+2023-09-13 at 16:52:25 | INFO | Added overlapping amplicon for 64292_final: 9520	10541	2
+2023-09-13 at 16:52:25 | INFO | Added overlapping amplicon for 64292_final: 9932	10941	1
+2023-09-13 at 16:52:25 | INFO | Writting output files

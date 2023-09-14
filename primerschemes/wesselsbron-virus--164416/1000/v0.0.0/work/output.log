@@ -1,0 +1,19 @@
+2023-09-13 at 16:50:00 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:50:01 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/b1/dd5685d96d3c91ea1ec47a280e4858/wesselsbron-virus--164416/work/mismatch.db
+2023-09-13 at 16:50:01 | INFO | Read in MSA: 164416_final	seqs:7	cols:10814
+2023-09-13 at 16:50:05 | INFO | 164416_final: digested to 4038 FKmers and 4526 RKmers
+2023-09-13 at 16:51:05 | INFO | 164416_final: Generated 309841 possible amplicons
+2023-09-13 at 16:51:05 | INFO | Added first amplicon for 164416_final: 0	1021	1
+2023-09-13 at 16:51:05 | INFO | Added overlapping amplicon for 164416_final: 735	1758	2
+2023-09-13 at 16:51:05 | INFO | Added overlapping amplicon for 164416_final: 1608	2633	1
+2023-09-13 at 16:51:05 | INFO | Added overlapping amplicon for 164416_final: 2475	3498	2
+2023-09-13 at 16:51:05 | INFO | Added overlapping amplicon for 164416_final: 3316	4338	1
+2023-09-13 at 16:51:05 | INFO | Added overlapping amplicon for 164416_final: 4164	5189	2
+2023-09-13 at 16:51:05 | INFO | Added overlapping amplicon for 164416_final: 5043	6070	1
+2023-09-13 at 16:51:05 | INFO | Added overlapping amplicon for 164416_final: 5860	6876	2
+2023-09-13 at 16:51:05 | INFO | Added overlapping amplicon for 164416_final: 6700	7704	1
+2023-09-13 at 16:51:05 | INFO | Added overlapping amplicon for 164416_final: 7542	8564	2
+2023-09-13 at 16:51:05 | INFO | Added overlapping amplicon for 164416_final: 8338	9357	1
+2023-09-13 at 16:51:05 | INFO | Added overlapping amplicon for 164416_final: 9141	10165	2
+2023-09-13 at 16:51:05 | INFO | Added overlapping amplicon for 164416_final: 9850	10789	1
+2023-09-13 at 16:51:05 | INFO | Writting output files

@@ -1,0 +1,20 @@
+2023-09-13 at 16:55:52 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:55:54 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/00/c774f13d861cb63cc503af12328d98/powassan-virus--11083/work/mismatch.db
+2023-09-13 at 16:55:54 | INFO | Read in MSA: 11083_final	seqs:11	cols:10842
+2023-09-13 at 16:55:59 | INFO | 11083_final: digested to 1620 FKmers and 1804 RKmers
+2023-09-13 at 16:56:09 | INFO | 11083_final: Generated 45634 possible amplicons
+2023-09-13 at 16:56:09 | INFO | Added first amplicon for 11083_final: 74	1096	1
+2023-09-13 at 16:56:09 | INFO | Added overlapping amplicon for 11083_final: 943	1945	2
+2023-09-13 at 16:56:09 | INFO | Added overlapping amplicon for 11083_final: 1692	2701	1
+2023-09-13 at 16:56:09 | INFO | Added overlapping amplicon for 11083_final: 2410	3336	2
+2023-09-13 at 16:56:09 | INFO | Added overlapping amplicon for 11083_final: 3102	4096	1
+2023-09-13 at 16:56:09 | INFO | Added overlapping amplicon for 11083_final: 3894	4911	2
+2023-09-13 at 16:56:09 | INFO | Added overlapping amplicon for 11083_final: 4726	5754	1
+2023-09-13 at 16:56:09 | INFO | Added overlapping amplicon for 11083_final: 5571	6542	2
+2023-09-13 at 16:56:09 | INFO | Added overlapping amplicon for 11083_final: 6348	7368	1
+2023-09-13 at 16:56:09 | INFO | Added overlapping amplicon for 11083_final: 7035	8054	2
+2023-09-13 at 16:56:09 | INFO | Added overlapping amplicon for 11083_final: 7667	8691	1
+2023-09-13 at 16:56:09 | INFO | Added overlapping amplicon for 11083_final: 8488	9514	2
+2023-09-13 at 16:56:09 | INFO | Added overlapping amplicon for 11083_final: 9296	10298	1
+2023-09-13 at 16:56:10 | INFO | Added overlapping amplicon for 11083_final: 9824	10719	2
+2023-09-13 at 16:56:10 | INFO | Writting output files

@@ -1,0 +1,20 @@
+2023-09-13 at 16:55:54 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:55:56 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/b7/76c0a892821595056dcc98bd86a475/louping-ill-virus--11086/work/mismatch.db
+2023-09-13 at 16:55:56 | INFO | Read in MSA: 11086_final	seqs:19	cols:10888
+2023-09-13 at 16:56:04 | INFO | 11086_final: digested to 1295 FKmers and 1449 RKmers
+2023-09-13 at 16:56:17 | INFO | 11086_final: Generated 26727 possible amplicons
+2023-09-13 at 16:56:17 | INFO | Added first amplicon for 11086_final: 78	1013	1
+2023-09-13 at 16:56:17 | INFO | Added overlapping amplicon for 11086_final: 836	1830	2
+2023-09-13 at 16:56:17 | INFO | Added overlapping amplicon for 11086_final: 1676	2665	1
+2023-09-13 at 16:56:17 | INFO | Added overlapping amplicon for 11086_final: 2473	3390	2
+2023-09-13 at 16:56:17 | INFO | Added overlapping amplicon for 11086_final: 3167	4188	1
+2023-09-13 at 16:56:17 | INFO | Added overlapping amplicon for 11086_final: 3899	4908	2
+2023-09-13 at 16:56:17 | INFO | Added overlapping amplicon for 11086_final: 4748	5735	1
+2023-09-13 at 16:56:17 | INFO | Added overlapping amplicon for 11086_final: 5510	6442	2
+2023-09-13 at 16:56:17 | INFO | Added overlapping amplicon for 11086_final: 6193	7195	1
+2023-09-13 at 16:56:17 | INFO | Added overlapping amplicon for 11086_final: 6895	7908	2
+2023-09-13 at 16:56:18 | INFO | Added walking amplicon for 11086_final: 7796	8718	1
+2023-09-13 at 16:56:18 | INFO | Added overlapping amplicon for 11086_final: 8550	9573	2
+2023-09-13 at 16:56:18 | INFO | Added overlapping amplicon for 11086_final: 9109	10105	1
+2023-09-13 at 16:56:18 | INFO | Added overlapping amplicon for 11086_final: 9947	10874	2
+2023-09-13 at 16:56:18 | INFO | Writting output files

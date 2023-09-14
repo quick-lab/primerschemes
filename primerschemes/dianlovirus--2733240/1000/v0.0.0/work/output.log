@@ -1,0 +1,27 @@
+2023-09-13 at 16:45:31 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:45:32 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/e3/54b756d64c67dc867b2b7459d92544/dianlovirus--2733240/work/mismatch.db
+2023-09-13 at 16:45:32 | INFO | Read in MSA: 2733240_final	seqs:1	cols:18300
+2023-09-13 at 16:45:35 | INFO | 2733240_final: digested to 9916 FKmers and 10164 RKmers
+2023-09-13 at 16:48:45 | INFO | 2733240_final: Generated 1034170 possible amplicons
+2023-09-13 at 16:48:45 | INFO | Added first amplicon for 2733240_final: 60	1086	1
+2023-09-13 at 16:48:45 | INFO | Added overlapping amplicon for 2733240_final: 937	1963	2
+2023-09-13 at 16:48:46 | INFO | Added overlapping amplicon for 2733240_final: 1807	2833	1
+2023-09-13 at 16:48:46 | INFO | Added overlapping amplicon for 2733240_final: 2671	3696	2
+2023-09-13 at 16:48:46 | INFO | Added overlapping amplicon for 2733240_final: 3547	4568	1
+2023-09-13 at 16:48:46 | INFO | Added overlapping amplicon for 2733240_final: 4340	5373	2
+2023-09-13 at 16:48:46 | INFO | Added overlapping amplicon for 2733240_final: 5217	6240	1
+2023-09-13 at 16:48:46 | INFO | Added overlapping amplicon for 2733240_final: 6031	7062	2
+2023-09-13 at 16:48:46 | INFO | Added overlapping amplicon for 2733240_final: 6893	7924	1
+2023-09-13 at 16:48:46 | INFO | Added overlapping amplicon for 2733240_final: 7765	8790	2
+2023-09-13 at 16:48:46 | INFO | Added overlapping amplicon for 2733240_final: 8637	9667	1
+2023-09-13 at 16:48:46 | INFO | Added overlapping amplicon for 2733240_final: 9469	10500	2
+2023-09-13 at 16:48:47 | INFO | Added overlapping amplicon for 2733240_final: 10337	11368	1
+2023-09-13 at 16:48:47 | INFO | Added overlapping amplicon for 2733240_final: 11209	12232	2
+2023-09-13 at 16:48:47 | INFO | Added overlapping amplicon for 2733240_final: 12042	13076	1
+2023-09-13 at 16:48:47 | INFO | Added overlapping amplicon for 2733240_final: 12912	13939	2
+2023-09-13 at 16:48:47 | INFO | Added overlapping amplicon for 2733240_final: 13763	14785	1
+2023-09-13 at 16:48:47 | INFO | Added overlapping amplicon for 2733240_final: 14607	15638	2
+2023-09-13 at 16:48:47 | INFO | Added overlapping amplicon for 2733240_final: 15467	16496	1
+2023-09-13 at 16:48:47 | INFO | Added overlapping amplicon for 2733240_final: 16265	17292	2
+2023-09-13 at 16:48:48 | INFO | Added overlapping amplicon for 2733240_final: 17132	18166	1
+2023-09-13 at 16:48:48 | INFO | Writting output files
