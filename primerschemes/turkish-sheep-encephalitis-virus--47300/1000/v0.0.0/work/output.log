@@ -1,0 +1,18 @@
+2023-09-13 at 16:46:21 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:46:21 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/7f/4e7552f0166a7efb72258618f5c6cc/turkish-sheep-encephalitis-virus--47300/work/mismatch.db
+2023-09-13 at 16:46:21 | INFO | Read in MSA: 47300_final	seqs:1	cols:10245
+2023-09-13 at 16:46:22 | INFO | 47300_final: digested to 3601 FKmers and 3690 RKmers
+2023-09-13 at 16:46:59 | INFO | 47300_final: Generated 230606 possible amplicons
+2023-09-13 at 16:46:59 | INFO | Added first amplicon for 47300_final: 42	1055	1
+2023-09-13 at 16:46:59 | INFO | Added overlapping amplicon for 47300_final: 895	1919	2
+2023-09-13 at 16:46:59 | INFO | Added overlapping amplicon for 47300_final: 1774	2797	1
+2023-09-13 at 16:46:59 | INFO | Added overlapping amplicon for 47300_final: 2625	3646	2
+2023-09-13 at 16:46:59 | INFO | Added overlapping amplicon for 47300_final: 3475	4494	1
+2023-09-13 at 16:46:59 | INFO | Added overlapping amplicon for 47300_final: 4331	5353	2
+2023-09-13 at 16:47:00 | INFO | Added overlapping amplicon for 47300_final: 5205	6221	1
+2023-09-13 at 16:47:00 | INFO | Added overlapping amplicon for 47300_final: 6043	7055	2
+2023-09-13 at 16:47:00 | INFO | Added overlapping amplicon for 47300_final: 6911	7934	1
+2023-09-13 at 16:47:00 | INFO | Added overlapping amplicon for 47300_final: 7761	8766	2
+2023-09-13 at 16:47:00 | INFO | Added overlapping amplicon for 47300_final: 8605	9629	1
+2023-09-13 at 16:47:00 | INFO | Added overlapping amplicon for 47300_final: 9172	10196	2
+2023-09-13 at 16:47:00 | INFO | Writting output files

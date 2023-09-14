@@ -1,0 +1,18 @@
+2023-09-13 at 16:50:41 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:50:41 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/e8/0d96ba9cdcde079beb06ff891b439e/phnom-penh-bat-virus--64894/work/mismatch.db
+2023-09-13 at 16:50:41 | INFO | Read in MSA: 64894_final	seqs:2	cols:10131
+2023-09-13 at 16:50:44 | INFO | 64894_final: digested to 4747 FKmers and 5157 RKmers
+2023-09-13 at 16:52:03 | INFO | 64894_final: Generated 448656 possible amplicons
+2023-09-13 at 16:52:03 | INFO | Added first amplicon for 64894_final: 34	1048	1
+2023-09-13 at 16:52:03 | INFO | Added overlapping amplicon for 64894_final: 880	1904	2
+2023-09-13 at 16:52:03 | INFO | Added overlapping amplicon for 64894_final: 1721	2727	1
+2023-09-13 at 16:52:03 | INFO | Added overlapping amplicon for 64894_final: 2561	3589	2
+2023-09-13 at 16:52:03 | INFO | Added overlapping amplicon for 64894_final: 3379	4402	1
+2023-09-13 at 16:52:04 | INFO | Added overlapping amplicon for 64894_final: 4245	5268	2
+2023-09-13 at 16:52:04 | INFO | Added overlapping amplicon for 64894_final: 5085	6110	1
+2023-09-13 at 16:52:04 | INFO | Added overlapping amplicon for 64894_final: 5871	6881	2
+2023-09-13 at 16:52:04 | INFO | Added overlapping amplicon for 64894_final: 6731	7757	1
+2023-09-13 at 16:52:04 | INFO | Added overlapping amplicon for 64894_final: 7586	8613	2
+2023-09-13 at 16:52:04 | INFO | Added overlapping amplicon for 64894_final: 8452	9475	1
+2023-09-13 at 16:52:04 | INFO | Added overlapping amplicon for 64894_final: 9138	10069	2
+2023-09-13 at 16:52:04 | INFO | Writting output files

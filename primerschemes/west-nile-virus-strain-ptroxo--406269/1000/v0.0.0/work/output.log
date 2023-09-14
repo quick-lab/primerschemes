@@ -1,0 +1,19 @@
+2023-09-13 at 16:43:03 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:43:03 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/35/61c198d24e72359ced8b395321f452/west-nile-virus-strain-ptroxo--406269/work/mismatch.db
+2023-09-13 at 16:43:03 | INFO | Read in MSA: 406269_final	seqs:1	cols:10979
+2023-09-13 at 16:43:06 | INFO | 406269_final: digested to 4965 FKmers and 5200 RKmers
+2023-09-13 at 16:44:23 | INFO | 406269_final: Generated 421716 possible amplicons
+2023-09-13 at 16:44:23 | INFO | Added first amplicon for 406269_final: 1	1023	1
+2023-09-13 at 16:44:23 | INFO | Added overlapping amplicon for 406269_final: 879	1895	2
+2023-09-13 at 16:44:24 | INFO | Added overlapping amplicon for 406269_final: 1750	2768	1
+2023-09-13 at 16:44:24 | INFO | Added overlapping amplicon for 406269_final: 2624	3641	2
+2023-09-13 at 16:44:24 | INFO | Added overlapping amplicon for 406269_final: 3487	4509	1
+2023-09-13 at 16:44:24 | INFO | Added overlapping amplicon for 406269_final: 4363	5382	2
+2023-09-13 at 16:44:24 | INFO | Added overlapping amplicon for 406269_final: 5219	6241	1
+2023-09-13 at 16:44:24 | INFO | Added overlapping amplicon for 406269_final: 6094	7121	2
+2023-09-13 at 16:44:24 | INFO | Added overlapping amplicon for 406269_final: 6955	7977	1
+2023-09-13 at 16:44:24 | INFO | Added overlapping amplicon for 406269_final: 7834	8859	2
+2023-09-13 at 16:44:24 | INFO | Added overlapping amplicon for 406269_final: 8711	9733	1
+2023-09-13 at 16:44:24 | INFO | Added overlapping amplicon for 406269_final: 9572	10596	2
+2023-09-13 at 16:44:24 | INFO | Added overlapping amplicon for 406269_final: 9928	10950	1
+2023-09-13 at 16:44:24 | INFO | Writting output files

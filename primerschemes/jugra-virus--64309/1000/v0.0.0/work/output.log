@@ -1,0 +1,18 @@
+2023-09-13 at 16:48:10 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:48:11 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/fd/53296ba2c481ec6e353f2a242f45f2/jugra-virus--64309/work/mismatch.db
+2023-09-13 at 16:48:11 | INFO | Read in MSA: 64309_final	seqs:1	cols:10173
+2023-09-13 at 16:48:12 | INFO | 64309_final: digested to 5374 FKmers and 5700 RKmers
+2023-09-13 at 16:49:54 | INFO | 64309_final: Generated 548396 possible amplicons
+2023-09-13 at 16:49:54 | INFO | Added first amplicon for 64309_final: 1	1030	1
+2023-09-13 at 16:49:54 | INFO | Added overlapping amplicon for 64309_final: 874	1903	2
+2023-09-13 at 16:49:54 | INFO | Added overlapping amplicon for 64309_final: 1721	2741	1
+2023-09-13 at 16:49:55 | INFO | Added overlapping amplicon for 64309_final: 2593	3616	2
+2023-09-13 at 16:49:55 | INFO | Added overlapping amplicon for 64309_final: 3458	4481	1
+2023-09-13 at 16:49:55 | INFO | Added overlapping amplicon for 64309_final: 4336	5361	2
+2023-09-13 at 16:49:55 | INFO | Added overlapping amplicon for 64309_final: 5211	6238	1
+2023-09-13 at 16:49:55 | INFO | Added overlapping amplicon for 64309_final: 6083	7104	2
+2023-09-13 at 16:49:55 | INFO | Added overlapping amplicon for 64309_final: 6958	7980	1
+2023-09-13 at 16:49:55 | INFO | Added overlapping amplicon for 64309_final: 7826	8851	2
+2023-09-13 at 16:49:55 | INFO | Added overlapping amplicon for 64309_final: 8654	9680	1
+2023-09-13 at 16:49:55 | INFO | Added overlapping amplicon for 64309_final: 9120	10140	2
+2023-09-13 at 16:49:55 | INFO | Writting output files

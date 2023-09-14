@@ -1,0 +1,19 @@
+2023-09-13 at 16:50:17 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:50:17 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/27/c501350c0b256997db3ce69aa09c2e/saumarez-reef-virus--40012/work/mismatch.db
+2023-09-13 at 16:50:17 | INFO | Read in MSA: 40012_final	seqs:2	cols:10529
+2023-09-13 at 16:50:19 | INFO | 40012_final: digested to 2698 FKmers and 3092 RKmers
+2023-09-13 at 16:50:46 | INFO | 40012_final: Generated 138784 possible amplicons
+2023-09-13 at 16:50:46 | INFO | Added first amplicon for 40012_final: 0	978	1
+2023-09-13 at 16:50:46 | INFO | Added overlapping amplicon for 40012_final: 774	1789	2
+2023-09-13 at 16:50:46 | INFO | Added overlapping amplicon for 40012_final: 1509	2530	1
+2023-09-13 at 16:50:46 | INFO | Added overlapping amplicon for 40012_final: 2348	3227	2
+2023-09-13 at 16:50:46 | INFO | Added overlapping amplicon for 40012_final: 3012	3964	1
+2023-09-13 at 16:50:46 | INFO | Added overlapping amplicon for 40012_final: 3803	4828	2
+2023-09-13 at 16:50:46 | INFO | Added overlapping amplicon for 40012_final: 4673	5680	1
+2023-09-13 at 16:50:46 | INFO | Added overlapping amplicon for 40012_final: 5526	6547	2
+2023-09-13 at 16:50:46 | INFO | Added overlapping amplicon for 40012_final: 6231	7252	1
+2023-09-13 at 16:50:46 | INFO | Added overlapping amplicon for 40012_final: 7100	8124	2
+2023-09-13 at 16:50:46 | INFO | Added overlapping amplicon for 40012_final: 7975	8973	1
+2023-09-13 at 16:50:46 | INFO | Added overlapping amplicon for 40012_final: 8778	9795	2
+2023-09-13 at 16:50:46 | INFO | Added overlapping amplicon for 40012_final: 9509	10522	1
+2023-09-13 at 16:50:46 | INFO | Writting output files

@@ -1,0 +1,28 @@
+2023-09-13 at 16:50:03 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:50:04 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/ff/c213bebbc9e51bcc775789a5ba37e5/lake-victoria-marburgvirus-angola2005--378830/work/mismatch.db
+2023-09-13 at 16:50:04 | INFO | Read in MSA: 378830_final	seqs:8	cols:19114
+2023-09-13 at 16:50:14 | INFO | 378830_final: digested to 11100 FKmers and 11018 RKmers
+2023-09-13 at 16:53:16 | INFO | 378830_final: Generated 1240980 possible amplicons
+2023-09-13 at 16:53:16 | INFO | Added first amplicon for 378830_final: 72	1088	1
+2023-09-13 at 16:53:16 | INFO | Added overlapping amplicon for 378830_final: 937	1964	2
+2023-09-13 at 16:53:16 | INFO | Added overlapping amplicon for 378830_final: 1804	2833	1
+2023-09-13 at 16:53:17 | INFO | Added overlapping amplicon for 378830_final: 2670	3695	2
+2023-09-13 at 16:53:17 | INFO | Added overlapping amplicon for 378830_final: 3547	4582	1
+2023-09-13 at 16:53:17 | INFO | Added overlapping amplicon for 378830_final: 4416	5441	2
+2023-09-13 at 16:53:17 | INFO | Added overlapping amplicon for 378830_final: 5284	6319	1
+2023-09-13 at 16:53:17 | INFO | Added overlapping amplicon for 378830_final: 6158	7188	2
+2023-09-13 at 16:53:17 | INFO | Added overlapping amplicon for 378830_final: 7027	8053	1
+2023-09-13 at 16:53:17 | INFO | Added overlapping amplicon for 378830_final: 7904	8930	2
+2023-09-13 at 16:53:17 | INFO | Added overlapping amplicon for 378830_final: 8664	9696	1
+2023-09-13 at 16:53:17 | INFO | Added overlapping amplicon for 378830_final: 9537	10565	2
+2023-09-13 at 16:53:17 | INFO | Added overlapping amplicon for 378830_final: 10354	11375	1
+2023-09-13 at 16:53:17 | INFO | Added overlapping amplicon for 378830_final: 11213	12239	2
+2023-09-13 at 16:53:17 | INFO | Added overlapping amplicon for 378830_final: 12055	13087	1
+2023-09-13 at 16:53:17 | INFO | Added overlapping amplicon for 378830_final: 12922	13944	2
+2023-09-13 at 16:53:18 | INFO | Added overlapping amplicon for 378830_final: 13795	14821	1
+2023-09-13 at 16:53:18 | INFO | Added overlapping amplicon for 378830_final: 14652	15681	2
+2023-09-13 at 16:53:18 | INFO | Added overlapping amplicon for 378830_final: 15513	16535	1
+2023-09-13 at 16:53:18 | INFO | Added overlapping amplicon for 378830_final: 16376	17407	2
+2023-09-13 at 16:53:18 | INFO | Added overlapping amplicon for 378830_final: 17249	18276	1
+2023-09-13 at 16:53:18 | INFO | Added overlapping amplicon for 378830_final: 18071	19097	2
+2023-09-13 at 16:53:18 | INFO | Writting output files

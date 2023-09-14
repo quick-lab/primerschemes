@@ -1,0 +1,19 @@
+2023-09-13 at 16:43:04 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:43:06 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/49/cafcfe4ae532e3ffbbe6a6ca5f984e/parramatta-river-virus--1708654/work/mismatch.db
+2023-09-13 at 16:43:06 | INFO | Read in MSA: 1708654_final	seqs:1	cols:10893
+2023-09-13 at 16:43:08 | INFO | 1708654_final: digested to 5951 FKmers and 6222 RKmers
+2023-09-13 at 16:45:12 | INFO | 1708654_final: Generated 643648 possible amplicons
+2023-09-13 at 16:45:12 | INFO | Added first amplicon for 1708654_final: 0	1019	1
+2023-09-13 at 16:45:12 | INFO | Added overlapping amplicon for 1708654_final: 861	1882	2
+2023-09-13 at 16:45:12 | INFO | Added overlapping amplicon for 1708654_final: 1726	2753	1
+2023-09-13 at 16:45:12 | INFO | Added overlapping amplicon for 1708654_final: 2600	3628	2
+2023-09-13 at 16:45:12 | INFO | Added overlapping amplicon for 1708654_final: 3477	4505	1
+2023-09-13 at 16:45:13 | INFO | Added overlapping amplicon for 1708654_final: 4355	5382	2
+2023-09-13 at 16:45:13 | INFO | Added overlapping amplicon for 1708654_final: 5230	6257	1
+2023-09-13 at 16:45:13 | INFO | Added overlapping amplicon for 1708654_final: 6104	7130	2
+2023-09-13 at 16:45:13 | INFO | Added overlapping amplicon for 1708654_final: 6979	8006	1
+2023-09-13 at 16:45:13 | INFO | Added overlapping amplicon for 1708654_final: 7837	8863	2
+2023-09-13 at 16:45:13 | INFO | Added overlapping amplicon for 1708654_final: 8709	9731	1
+2023-09-13 at 16:45:13 | INFO | Added overlapping amplicon for 1708654_final: 9585	10609	2
+2023-09-13 at 16:45:13 | INFO | Added overlapping amplicon for 1708654_final: 9874	10892	1
+2023-09-13 at 16:45:13 | INFO | Writting output files

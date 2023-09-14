@@ -1,0 +1,18 @@
+2023-09-13 at 16:43:08 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:43:08 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/8e/b25cb1c66e64b8b84568f777ac42c7/palm-creek-virus--1302179/work/mismatch.db
+2023-09-13 at 16:43:08 | INFO | Read in MSA: 1302179_final	seqs:1	cols:10095
+2023-09-13 at 16:43:10 | INFO | 1302179_final: digested to 5220 FKmers and 5518 RKmers
+2023-09-13 at 16:44:57 | INFO | 1302179_final: Generated 512233 possible amplicons
+2023-09-13 at 16:44:57 | INFO | Added first amplicon for 1302179_final: 14	1041	1
+2023-09-13 at 16:44:57 | INFO | Added overlapping amplicon for 1302179_final: 890	1910	2
+2023-09-13 at 16:44:58 | INFO | Added overlapping amplicon for 1302179_final: 1763	2786	1
+2023-09-13 at 16:44:58 | INFO | Added overlapping amplicon for 1302179_final: 2636	3659	2
+2023-09-13 at 16:44:58 | INFO | Added overlapping amplicon for 1302179_final: 3493	4517	1
+2023-09-13 at 16:44:58 | INFO | Added overlapping amplicon for 1302179_final: 4364	5391	2
+2023-09-13 at 16:44:58 | INFO | Added overlapping amplicon for 1302179_final: 5219	6241	1
+2023-09-13 at 16:44:58 | INFO | Added overlapping amplicon for 1302179_final: 6089	7110	2
+2023-09-13 at 16:44:58 | INFO | Added overlapping amplicon for 1302179_final: 6961	7984	1
+2023-09-13 at 16:44:58 | INFO | Added overlapping amplicon for 1302179_final: 7840	8871	2
+2023-09-13 at 16:44:58 | INFO | Added overlapping amplicon for 1302179_final: 8712	9733	1
+2023-09-13 at 16:44:58 | INFO | Added overlapping amplicon for 1302179_final: 9071	10094	2
+2023-09-13 at 16:44:58 | INFO | Writting output files

@@ -1,0 +1,19 @@
+2023-09-13 at 16:46:38 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:46:38 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/3b/6946c98e91644067aded333888150c/west-nile-virus-sa93-01--449277/work/mismatch.db
+2023-09-13 at 16:46:38 | INFO | Read in MSA: 449277_final	seqs:1	cols:11052
+2023-09-13 at 16:46:39 | INFO | 449277_final: digested to 5222 FKmers and 5481 RKmers
+2023-09-13 at 16:47:53 | INFO | 449277_final: Generated 482421 possible amplicons
+2023-09-13 at 16:47:53 | INFO | Added first amplicon for 449277_final: 0	1008	1
+2023-09-13 at 16:47:53 | INFO | Added overlapping amplicon for 449277_final: 843	1868	2
+2023-09-13 at 16:47:53 | INFO | Added overlapping amplicon for 449277_final: 1698	2724	1
+2023-09-13 at 16:47:53 | INFO | Added overlapping amplicon for 449277_final: 2555	3575	2
+2023-09-13 at 16:47:53 | INFO | Added overlapping amplicon for 449277_final: 3432	4459	1
+2023-09-13 at 16:47:54 | INFO | Added overlapping amplicon for 449277_final: 4296	5315	2
+2023-09-13 at 16:47:54 | INFO | Added overlapping amplicon for 449277_final: 5146	6167	1
+2023-09-13 at 16:47:54 | INFO | Added overlapping amplicon for 449277_final: 6011	7033	2
+2023-09-13 at 16:47:54 | INFO | Added overlapping amplicon for 449277_final: 6867	7889	1
+2023-09-13 at 16:47:54 | INFO | Added overlapping amplicon for 449277_final: 7712	8737	2
+2023-09-13 at 16:47:54 | INFO | Added overlapping amplicon for 449277_final: 8589	9616	1
+2023-09-13 at 16:47:54 | INFO | Added overlapping amplicon for 449277_final: 9411	10447	2
+2023-09-13 at 16:47:54 | INFO | Added overlapping amplicon for 449277_final: 9974	10996	1
+2023-09-13 at 16:47:54 | INFO | Writting output files

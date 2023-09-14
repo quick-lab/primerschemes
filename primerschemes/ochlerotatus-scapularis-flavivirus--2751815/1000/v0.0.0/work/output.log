@@ -1,0 +1,18 @@
+2023-09-13 at 16:43:04 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:43:04 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/b0/f22fb4088ef08cf5d13515c8d7d95e/ochlerotatus-scapularis-flavivirus--2751815/work/mismatch.db
+2023-09-13 at 16:43:04 | INFO | Read in MSA: 2751815_final	seqs:1	cols:10449
+2023-09-13 at 16:43:07 | INFO | 2751815_final: digested to 5386 FKmers and 5666 RKmers
+2023-09-13 at 16:44:43 | INFO | 2751815_final: Generated 538079 possible amplicons
+2023-09-13 at 16:44:43 | INFO | Added first amplicon for 2751815_final: 12	1032	1
+2023-09-13 at 16:44:44 | INFO | Added overlapping amplicon for 2751815_final: 871	1892	2
+2023-09-13 at 16:44:44 | INFO | Added overlapping amplicon for 2751815_final: 1746	2772	1
+2023-09-13 at 16:44:44 | INFO | Added overlapping amplicon for 2751815_final: 2617	3639	2
+2023-09-13 at 16:44:44 | INFO | Added overlapping amplicon for 2751815_final: 3428	4455	1
+2023-09-13 at 16:44:44 | INFO | Added overlapping amplicon for 2751815_final: 4301	5326	2
+2023-09-13 at 16:44:44 | INFO | Added overlapping amplicon for 2751815_final: 5134	6156	1
+2023-09-13 at 16:44:44 | INFO | Added overlapping amplicon for 2751815_final: 5994	7015	2
+2023-09-13 at 16:44:44 | INFO | Added overlapping amplicon for 2751815_final: 6853	7877	1
+2023-09-13 at 16:44:44 | INFO | Added overlapping amplicon for 2751815_final: 7733	8758	2
+2023-09-13 at 16:44:45 | INFO | Added overlapping amplicon for 2751815_final: 8603	9628	1
+2023-09-13 at 16:44:45 | INFO | Added overlapping amplicon for 2751815_final: 9405	10426	2
+2023-09-13 at 16:44:45 | INFO | Writting output files

@@ -1,0 +1,7 @@
+2023-09-13 at 16:55:52 | INFO | Creating the Mismatch Database
+2023-09-13 at 17:08:39 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/a3/e2664293e60037910049274c20c118/filoviridae--11266/work/mismatch.db
+2023-09-13 at 17:08:40 | INFO | Read in MSA: 11266_final	seqs:40	cols:26123
+2023-09-14 at 09:39:03 | INFO | 11266_final: digested to 2 FKmers and 0 RKmers
+2023-09-14 at 09:39:03 | INFO | 11266_final: Generated 0 possible amplicons
+2023-09-14 at 09:39:03 | WARNING | No valid primers found for 11266_final
+2023-09-14 at 09:39:03 | INFO | Writting output files

@@ -1,0 +1,27 @@
+2023-09-13 at 16:45:15 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:45:15 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/5b/8e37dad2d15fdc6cbdd3aadbafded9/mengla-dianlovirus--2496529/work/mismatch.db
+2023-09-13 at 16:45:15 | INFO | Read in MSA: 2496529_final	seqs:1	cols:18300
+2023-09-13 at 16:45:19 | INFO | 2496529_final: digested to 9916 FKmers and 10164 RKmers
+2023-09-13 at 16:47:56 | INFO | 2496529_final: Generated 1034170 possible amplicons
+2023-09-13 at 16:47:56 | INFO | Added first amplicon for 2496529_final: 60	1086	1
+2023-09-13 at 16:47:57 | INFO | Added overlapping amplicon for 2496529_final: 937	1963	2
+2023-09-13 at 16:47:57 | INFO | Added overlapping amplicon for 2496529_final: 1807	2833	1
+2023-09-13 at 16:47:57 | INFO | Added overlapping amplicon for 2496529_final: 2671	3696	2
+2023-09-13 at 16:47:57 | INFO | Added overlapping amplicon for 2496529_final: 3547	4568	1
+2023-09-13 at 16:47:57 | INFO | Added overlapping amplicon for 2496529_final: 4340	5373	2
+2023-09-13 at 16:47:57 | INFO | Added overlapping amplicon for 2496529_final: 5217	6240	1
+2023-09-13 at 16:47:57 | INFO | Added overlapping amplicon for 2496529_final: 6031	7062	2
+2023-09-13 at 16:47:57 | INFO | Added overlapping amplicon for 2496529_final: 6893	7924	1
+2023-09-13 at 16:47:57 | INFO | Added overlapping amplicon for 2496529_final: 7765	8790	2
+2023-09-13 at 16:47:57 | INFO | Added overlapping amplicon for 2496529_final: 8637	9667	1
+2023-09-13 at 16:47:58 | INFO | Added overlapping amplicon for 2496529_final: 9469	10500	2
+2023-09-13 at 16:47:58 | INFO | Added overlapping amplicon for 2496529_final: 10337	11368	1
+2023-09-13 at 16:47:58 | INFO | Added overlapping amplicon for 2496529_final: 11209	12232	2
+2023-09-13 at 16:47:58 | INFO | Added overlapping amplicon for 2496529_final: 12042	13076	1
+2023-09-13 at 16:47:58 | INFO | Added overlapping amplicon for 2496529_final: 12912	13939	2
+2023-09-13 at 16:47:58 | INFO | Added overlapping amplicon for 2496529_final: 13763	14785	1
+2023-09-13 at 16:47:58 | INFO | Added overlapping amplicon for 2496529_final: 14607	15638	2
+2023-09-13 at 16:47:58 | INFO | Added overlapping amplicon for 2496529_final: 15467	16496	1
+2023-09-13 at 16:47:58 | INFO | Added overlapping amplicon for 2496529_final: 16265	17292	2
+2023-09-13 at 16:47:58 | INFO | Added overlapping amplicon for 2496529_final: 17132	18166	1
+2023-09-13 at 16:47:59 | INFO | Writting output files

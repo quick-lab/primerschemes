@@ -1,0 +1,19 @@
+2023-09-13 at 16:51:21 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:51:21 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/e2/f54318cf14955a243ea294a78e91bb/long-pine-key-virus--2045185/work/mismatch.db
+2023-09-13 at 16:51:21 | INFO | Read in MSA: 2045185_final	seqs:9	cols:10837
+2023-09-13 at 16:51:25 | INFO | 2045185_final: digested to 4100 FKmers and 4338 RKmers
+2023-09-13 at 16:52:16 | INFO | 2045185_final: Generated 297508 possible amplicons
+2023-09-13 at 16:52:16 | INFO | Added first amplicon for 2045185_final: 6	1030	1
+2023-09-13 at 16:52:16 | INFO | Added overlapping amplicon for 2045185_final: 876	1906	2
+2023-09-13 at 16:52:16 | INFO | Added overlapping amplicon for 2045185_final: 1715	2745	1
+2023-09-13 at 16:52:16 | INFO | Added overlapping amplicon for 2045185_final: 2585	3605	2
+2023-09-13 at 16:52:16 | INFO | Added overlapping amplicon for 2045185_final: 3379	4392	1
+2023-09-13 at 16:52:16 | INFO | Added overlapping amplicon for 2045185_final: 4184	5208	2
+2023-09-13 at 16:52:16 | INFO | Added overlapping amplicon for 2045185_final: 5058	6081	1
+2023-09-13 at 16:52:16 | INFO | Added overlapping amplicon for 2045185_final: 5848	6870	2
+2023-09-13 at 16:52:16 | INFO | Added overlapping amplicon for 2045185_final: 6714	7737	1
+2023-09-13 at 16:52:16 | INFO | Added overlapping amplicon for 2045185_final: 7522	8534	2
+2023-09-13 at 16:52:16 | INFO | Added overlapping amplicon for 2045185_final: 8354	9376	1
+2023-09-13 at 16:52:16 | INFO | Added overlapping amplicon for 2045185_final: 9123	10145	2
+2023-09-13 at 16:52:16 | INFO | Added overlapping amplicon for 2045185_final: 9865	10813	1
+2023-09-13 at 16:52:17 | INFO | Writting output files

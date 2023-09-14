@@ -1,0 +1,28 @@
+2023-09-13 at 16:51:01 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:51:01 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/94/cd082756c1ef023de971004aa98004/cuevavirus--1513236/work/mismatch.db
+2023-09-13 at 16:51:01 | INFO | Read in MSA: 1513236_final	seqs:2	cols:18928
+2023-09-13 at 16:51:05 | INFO | 1513236_final: digested to 10048 FKmers and 10080 RKmers
+2023-09-13 at 16:53:27 | INFO | 1513236_final: Generated 1012647 possible amplicons
+2023-09-13 at 16:53:27 | INFO | Added first amplicon for 1513236_final: 23	1048	1
+2023-09-13 at 16:53:27 | INFO | Added overlapping amplicon for 1513236_final: 885	1910	2
+2023-09-13 at 16:53:27 | INFO | Added overlapping amplicon for 1513236_final: 1745	2762	1
+2023-09-13 at 16:53:27 | INFO | Added overlapping amplicon for 1513236_final: 2616	3641	2
+2023-09-13 at 16:53:27 | INFO | Added overlapping amplicon for 1513236_final: 3460	4482	1
+2023-09-13 at 16:53:27 | INFO | Added overlapping amplicon for 1513236_final: 4336	5361	2
+2023-09-13 at 16:53:27 | INFO | Added overlapping amplicon for 1513236_final: 5204	6234	1
+2023-09-13 at 16:53:27 | INFO | Added overlapping amplicon for 1513236_final: 6080	7102	2
+2023-09-13 at 16:53:27 | INFO | Added overlapping amplicon for 1513236_final: 6929	7952	1
+2023-09-13 at 16:53:27 | INFO | Added overlapping amplicon for 1513236_final: 7783	8818	2
+2023-09-13 at 16:53:27 | INFO | Added overlapping amplicon for 1513236_final: 8610	9632	1
+2023-09-13 at 16:53:27 | INFO | Added overlapping amplicon for 1513236_final: 9468	10497	2
+2023-09-13 at 16:53:27 | INFO | Added overlapping amplicon for 1513236_final: 10330	11355	1
+2023-09-13 at 16:53:27 | INFO | Added overlapping amplicon for 1513236_final: 11182	12202	2
+2023-09-13 at 16:53:27 | INFO | Added overlapping amplicon for 1513236_final: 12053	13083	1
+2023-09-13 at 16:53:28 | INFO | Added overlapping amplicon for 1513236_final: 12905	13936	2
+2023-09-13 at 16:53:28 | INFO | Added overlapping amplicon for 1513236_final: 13777	14806	1
+2023-09-13 at 16:53:28 | INFO | Added overlapping amplicon for 1513236_final: 14648	15674	2
+2023-09-13 at 16:53:28 | INFO | Added overlapping amplicon for 1513236_final: 15495	16524	1
+2023-09-13 at 16:53:28 | INFO | Added overlapping amplicon for 1513236_final: 16363	17386	2
+2023-09-13 at 16:53:28 | INFO | Added overlapping amplicon for 1513236_final: 17233	18262	1
+2023-09-13 at 16:53:28 | INFO | Added overlapping amplicon for 1513236_final: 17851	18881	2
+2023-09-13 at 16:53:28 | INFO | Writting output files

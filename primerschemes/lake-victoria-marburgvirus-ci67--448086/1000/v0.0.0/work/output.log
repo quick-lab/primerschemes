@@ -1,0 +1,28 @@
+2023-09-13 at 16:43:04 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:43:07 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/5b/b26b51ad7dab55574ed5562f3628d0/lake-victoria-marburgvirus-ci67--448086/work/mismatch.db
+2023-09-13 at 16:43:07 | INFO | Read in MSA: 448086_final	seqs:1	cols:19112
+2023-09-13 at 16:43:13 | INFO | 448086_final: digested to 11153 FKmers and 11042 RKmers
+2023-09-13 at 16:46:43 | INFO | 448086_final: Generated 1238123 possible amplicons
+2023-09-13 at 16:46:43 | INFO | Added first amplicon for 448086_final: 95	1120	1
+2023-09-13 at 16:46:44 | INFO | Added overlapping amplicon for 448086_final: 959	1989	2
+2023-09-13 at 16:46:44 | INFO | Added overlapping amplicon for 448086_final: 1827	2857	1
+2023-09-13 at 16:46:44 | INFO | Added overlapping amplicon for 448086_final: 2694	3723	2
+2023-09-13 at 16:46:44 | INFO | Added overlapping amplicon for 448086_final: 3553	4581	1
+2023-09-13 at 16:46:44 | INFO | Added overlapping amplicon for 448086_final: 4415	5440	2
+2023-09-13 at 16:46:44 | INFO | Added overlapping amplicon for 448086_final: 5284	6319	1
+2023-09-13 at 16:46:44 | INFO | Added overlapping amplicon for 448086_final: 6160	7189	2
+2023-09-13 at 16:46:44 | INFO | Added overlapping amplicon for 448086_final: 7037	8069	1
+2023-09-13 at 16:46:44 | INFO | Added overlapping amplicon for 448086_final: 7905	8935	2
+2023-09-13 at 16:46:45 | INFO | Added overlapping amplicon for 448086_final: 8750	9776	1
+2023-09-13 at 16:46:45 | INFO | Added overlapping amplicon for 448086_final: 9600	10625	2
+2023-09-13 at 16:46:45 | INFO | Added overlapping amplicon for 448086_final: 10477	11503	1
+2023-09-13 at 16:46:45 | INFO | Added overlapping amplicon for 448086_final: 11342	12370	2
+2023-09-13 at 16:46:45 | INFO | Added overlapping amplicon for 448086_final: 12217	13239	1
+2023-09-13 at 16:46:45 | INFO | Added overlapping amplicon for 448086_final: 13066	14092	2
+2023-09-13 at 16:46:45 | INFO | Added overlapping amplicon for 448086_final: 13938	14971	1
+2023-09-13 at 16:46:45 | INFO | Added overlapping amplicon for 448086_final: 14806	15830	2
+2023-09-13 at 16:46:46 | INFO | Added overlapping amplicon for 448086_final: 15676	16701	1
+2023-09-13 at 16:46:46 | INFO | Added overlapping amplicon for 448086_final: 16538	17564	2
+2023-09-13 at 16:46:46 | INFO | Added overlapping amplicon for 448086_final: 17411	18442	1
+2023-09-13 at 16:46:46 | INFO | Added overlapping amplicon for 448086_final: 17966	18995	2
+2023-09-13 at 16:46:46 | INFO | Writting output files

@@ -1,0 +1,19 @@
+2023-09-13 at 16:49:20 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:49:21 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/2d/53ae3eb6656f8183345eaa70b632bf/langat-virus--11085/work/mismatch.db
+2023-09-13 at 16:49:21 | INFO | Read in MSA: 11085_final	seqs:5	cols:10946
+2023-09-13 at 16:49:23 | INFO | 11085_final: digested to 3141 FKmers and 3328 RKmers
+2023-09-13 at 16:49:52 | INFO | 11085_final: Generated 170376 possible amplicons
+2023-09-13 at 16:49:52 | INFO | Added first amplicon for 11085_final: 41	1056	1
+2023-09-13 at 16:49:52 | INFO | Added overlapping amplicon for 11085_final: 868	1895	2
+2023-09-13 at 16:49:52 | INFO | Added overlapping amplicon for 11085_final: 1715	2735	1
+2023-09-13 at 16:49:52 | INFO | Added overlapping amplicon for 11085_final: 2521	3542	2
+2023-09-13 at 16:49:52 | INFO | Added overlapping amplicon for 11085_final: 3373	4399	1
+2023-09-13 at 16:49:53 | INFO | Added overlapping amplicon for 11085_final: 4242	5259	2
+2023-09-13 at 16:49:53 | INFO | Added overlapping amplicon for 11085_final: 5092	6088	1
+2023-09-13 at 16:49:53 | INFO | Added overlapping amplicon for 11085_final: 5929	6954	2
+2023-09-13 at 16:49:53 | INFO | Added overlapping amplicon for 11085_final: 6790	7797	1
+2023-09-13 at 16:49:53 | INFO | Added overlapping amplicon for 11085_final: 7523	8501	2
+2023-09-13 at 16:49:53 | INFO | Added overlapping amplicon for 11085_final: 8250	9273	1
+2023-09-13 at 16:49:53 | INFO | Added overlapping amplicon for 11085_final: 9109	10132	2
+2023-09-13 at 16:49:53 | INFO | Added overlapping amplicon for 11085_final: 9943	10889	1
+2023-09-13 at 16:49:53 | INFO | Writting output files

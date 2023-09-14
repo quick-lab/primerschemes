@@ -1,0 +1,29 @@
+2023-09-13 at 16:55:48 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:55:49 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/59/1c7cc8fde35a1ca343bd7383e0ecf4/sudan-ebolavirus--186540/work/mismatch.db
+2023-09-13 at 16:55:49 | INFO | Read in MSA: 186540_final	seqs:2	cols:18875
+2023-09-13 at 16:55:54 | INFO | 186540_final: digested to 8632 FKmers and 8635 RKmers
+2023-09-13 at 16:57:33 | INFO | 186540_final: Generated 750333 possible amplicons
+2023-09-13 at 16:57:33 | INFO | Added first amplicon for 186540_final: 27	1051	1
+2023-09-13 at 16:57:33 | INFO | Added overlapping amplicon for 186540_final: 889	1897	2
+2023-09-13 at 16:57:33 | INFO | Added overlapping amplicon for 186540_final: 1750	2784	1
+2023-09-13 at 16:57:33 | INFO | Added overlapping amplicon for 186540_final: 2581	3609	2
+2023-09-13 at 16:57:33 | INFO | Added overlapping amplicon for 186540_final: 3415	4451	1
+2023-09-13 at 16:57:33 | INFO | Added overlapping amplicon for 186540_final: 4280	5268	2
+2023-09-13 at 16:57:33 | INFO | Added overlapping amplicon for 186540_final: 5119	6148	1
+2023-09-13 at 16:57:33 | INFO | Added overlapping amplicon for 186540_final: 5904	6922	2
+2023-09-13 at 16:57:33 | INFO | Added overlapping amplicon for 186540_final: 6736	7753	1
+2023-09-13 at 16:57:33 | INFO | Added overlapping amplicon for 186540_final: 7536	8563	2
+2023-09-13 at 16:57:33 | INFO | Added overlapping amplicon for 186540_final: 8375	9408	1
+2023-09-13 at 16:57:33 | INFO | Added overlapping amplicon for 186540_final: 9166	10167	2
+2023-09-13 at 16:57:34 | INFO | Added overlapping amplicon for 186540_final: 9977	10950	1
+2023-09-13 at 16:57:34 | INFO | Added overlapping amplicon for 186540_final: 10731	11754	2
+2023-09-13 at 16:57:34 | INFO | Added overlapping amplicon for 186540_final: 11596	12620	1
+2023-09-13 at 16:57:34 | INFO | Added overlapping amplicon for 186540_final: 12473	13498	2
+2023-09-13 at 16:57:34 | INFO | Added overlapping amplicon for 186540_final: 13344	14376	1
+2023-09-13 at 16:57:34 | INFO | Added overlapping amplicon for 186540_final: 14181	15206	2
+2023-09-13 at 16:57:34 | INFO | Added overlapping amplicon for 186540_final: 14937	15968	1
+2023-09-13 at 16:57:34 | INFO | Added overlapping amplicon for 186540_final: 15769	16797	2
+2023-09-13 at 16:57:34 | INFO | Added overlapping amplicon for 186540_final: 16599	17623	1
+2023-09-13 at 16:57:34 | INFO | Added overlapping amplicon for 186540_final: 17394	18330	2
+2023-09-13 at 16:57:34 | INFO | Added overlapping amplicon for 186540_final: 17850	18836	1
+2023-09-13 at 16:57:35 | INFO | Writting output files

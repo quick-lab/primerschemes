@@ -1,0 +1,29 @@
+2023-09-13 at 16:49:44 | INFO | Creating the Mismatch Database
+2023-09-13 at 16:49:45 | INFO | Created: /home/ubuntu/mnt/chris/primal-nf/work/a9/269bf79479b4a07f69c8ec969fd68b/bombali-ebolavirus--2010960/work/mismatch.db
+2023-09-13 at 16:49:45 | INFO | Read in MSA: 2010960_final	seqs:5	cols:19043
+2023-09-13 at 16:49:52 | INFO | 2010960_final: digested to 9176 FKmers and 9053 RKmers
+2023-09-13 at 16:52:12 | INFO | 2010960_final: Generated 828302 possible amplicons
+2023-09-13 at 16:52:12 | INFO | Added first amplicon for 2010960_final: 34	1056	1
+2023-09-13 at 16:52:12 | INFO | Added overlapping amplicon for 2010960_final: 910	1933	2
+2023-09-13 at 16:52:13 | INFO | Added overlapping amplicon for 2010960_final: 1749	2768	1
+2023-09-13 at 16:52:13 | INFO | Added overlapping amplicon for 2010960_final: 2617	3628	2
+2023-09-13 at 16:52:13 | INFO | Added overlapping amplicon for 2010960_final: 3474	4496	1
+2023-09-13 at 16:52:13 | INFO | Added overlapping amplicon for 2010960_final: 4348	5370	2
+2023-09-13 at 16:52:13 | INFO | Added overlapping amplicon for 2010960_final: 5208	6230	1
+2023-09-13 at 16:52:13 | INFO | Added overlapping amplicon for 2010960_final: 6078	7099	2
+2023-09-13 at 16:52:13 | INFO | Added overlapping amplicon for 2010960_final: 6927	7947	1
+2023-09-13 at 16:52:13 | INFO | Added overlapping amplicon for 2010960_final: 7774	8797	2
+2023-09-13 at 16:52:13 | INFO | Added overlapping amplicon for 2010960_final: 8613	9636	1
+2023-09-13 at 16:52:13 | INFO | Added overlapping amplicon for 2010960_final: 9401	10416	2
+2023-09-13 at 16:52:13 | INFO | Added overlapping amplicon for 2010960_final: 10263	11254	1
+2023-09-13 at 16:52:13 | INFO | Added overlapping amplicon for 2010960_final: 11038	12066	2
+2023-09-13 at 16:52:14 | INFO | Added overlapping amplicon for 2010960_final: 11885	12917	1
+2023-09-13 at 16:52:14 | INFO | Added overlapping amplicon for 2010960_final: 12748	13771	2
+2023-09-13 at 16:52:14 | INFO | Added overlapping amplicon for 2010960_final: 13562	14577	1
+2023-09-13 at 16:52:14 | INFO | Added overlapping amplicon for 2010960_final: 14421	15450	2
+2023-09-13 at 16:52:14 | INFO | Added overlapping amplicon for 2010960_final: 15251	16280	1
+2023-09-13 at 16:52:14 | INFO | Added overlapping amplicon for 2010960_final: 16072	17100	2
+2023-09-13 at 16:52:14 | INFO | Added overlapping amplicon for 2010960_final: 16931	17954	1
+2023-09-13 at 16:52:14 | INFO | Added overlapping amplicon for 2010960_final: 17693	18715	2
+2023-09-13 at 16:52:14 | INFO | Added overlapping amplicon for 2010960_final: 18014	19026	1
+2023-09-13 at 16:52:14 | INFO | Writting output files
