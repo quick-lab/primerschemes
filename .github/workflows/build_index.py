@@ -12,8 +12,8 @@ def hashfile(fname):
     return hash_md5.hexdigest()
 
 
-def get_rawlink(repo, scheme_name, length, version, file) -> str:
-    return f"https://raw.githubusercontent.com/{repo}/main/{scheme_name}/{length}/{version}/{file}"
+def get_rawlink(repo, scheme_name, length, version, file, pclass) -> str:
+    return f"https://raw.githubusercontent.com/{repo}/main/{pclass}/{scheme_name}/{length}/{version}/{file}"
 
 
 def parse_version(
@@ -32,7 +32,7 @@ def parse_version(
     return version_dict
 
 
-def parse_length(length_path, repo_url, scheme_name, length) -> dict[str:str]:
+def parse_length(length_path, repo_url, scheme_name, length, pclass) -> dict[str:str]:
     length_dict = dict()
 
     # Get all the versions
@@ -48,6 +48,7 @@ def parse_length(length_path, repo_url, scheme_name, length) -> dict[str:str]:
             scheme_name=scheme_name,
             length=length.name,
             version=version,
+            pclass=pclass,
         )
 
         # Add the version to the length dict
@@ -56,7 +57,7 @@ def parse_length(length_path, repo_url, scheme_name, length) -> dict[str:str]:
     return length_dict
 
 
-def parse_scheme(scheme_path, repo_url, scheme_name) -> dict[str:str]:
+def parse_scheme(scheme_path, repo_url, scheme_name, pclass) -> dict[str:str]:
     scheme_dict = dict()
 
     # Get all the lengths
@@ -71,6 +72,7 @@ def parse_scheme(scheme_path, repo_url, scheme_name) -> dict[str:str]:
             repo_url=repo_url,
             scheme_name=scheme_name,
             length=length,
+            pclass=pclass,
         )
 
         # Add the length to the scheme dict
@@ -83,22 +85,29 @@ def main():
     # For any Scheme, we can generate a JSON file with the following format:
     json_dict = dict()
 
-    # REPO url
-    # https://github.com/quiicl-lab/primerschemes
+    # server_url = https://github.com/
     server_url = sys.argv[1]
     repo_url = sys.argv[2]
 
-    for path in pathlib.Path(".").iterdir():
-        # Only add directories
-        if not path.is_dir() or path.name.startswith("."):
-            continue
+    # Parse panels and schemes
+    pclasses = ["primerschemes", "primerpanels"]
+    for pclass in pclasses:
+        # Create a dict to hold all the pclass data
+        pclass_dict = dict()
+        for path in pathlib.Path(pclass).iterdir():
+            # Only add directories
+            if not path.is_dir() or path.name.startswith("."):
+                continue
 
-        # Get the Scheme name
-        scheme_name = path.name
-        json_dict[scheme_name] = parse_scheme(path, repo_url, scheme_name)
+            # Get the Scheme name
+            scheme_name = path.name
+            pclass_dict[scheme_name] = parse_scheme(path, repo_url, scheme_name, pclass)
+
+        # Add the pclass to the json_dict
+        json_dict[pclass] = pclass_dict
 
     with open("index.json", "w") as f:
-        json.dump(json_dict, f, indent=4)
+        json.dump(json_dict, f, indent=4, sort_keys=True)
 
 
 if __name__ == "__main__":
