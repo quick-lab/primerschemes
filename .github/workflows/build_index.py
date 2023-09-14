@@ -17,7 +17,7 @@ def get_rawlink(repo, scheme_name, length, version, file, pclass) -> str:
 
 
 def parse_version(
-    version_path, repo_url, scheme_name, length, version
+    version_path, repo_url, scheme_name, length, version, pclass
 ) -> dict[str:str]:
     version_dict = dict()
 
@@ -25,7 +25,7 @@ def parse_version(
     for file in version_path.iterdir():
         if file.name == "primer.bed":
             version_dict["primer.bed.url"] = get_rawlink(
-                repo_url, scheme_name, length, version.name, file.name
+                repo_url, scheme_name, length, version.name, file.name, pclass
             )
             version_dict["primer.bed.md5"] = hashfile(file)
 
