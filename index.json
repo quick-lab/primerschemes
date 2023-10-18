@@ -34,6 +34,71 @@
                     "validated": true
                 }
             }
+        },
+        "sars-cov-2": {
+            "400": {
+                "v5.0.0": {
+                    "algorithmversion": "primalscheme2:1.0.0",
+                    "authors": [
+                        "artic",
+                        "quick.lab"
+                    ],
+                    "citation": "na",
+                    "config.json.md5": "28512fe735517c6746f75396522cfe8b",
+                    "config.json.url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v5.0.0/work/config.json",
+                    "primer.bed.md5": "6292814b0ec248605c72707d34dda1eb",
+                    "primer.bed.url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v5.0.0/primer.bed",
+                    "reference.fasta.md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
+                    "reference.fasta.url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v5.0.0/reference.fasta",
+                    "validated": true
+                },
+                "v5.1.0": {
+                    "algorithmversion": "primalscheme2:1.0.0",
+                    "authors": [
+                        "artic",
+                        "quick.lab"
+                    ],
+                    "citation": "na",
+                    "config.json.md5": "bf31775a14b9e89b6f35873345b1eb88",
+                    "config.json.url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v5.1.0/work/config.json",
+                    "primer.bed.md5": "4573288e3ba96b8b7886f721eecd26f2",
+                    "primer.bed.url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v5.1.0/primer.bed",
+                    "reference.fasta.md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
+                    "reference.fasta.url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v5.1.0/reference.fasta",
+                    "validated": true
+                },
+                "v5.2.0": {
+                    "algorithmversion": "primalscheme2:1.0.0",
+                    "authors": [
+                        "artic",
+                        "quick.lab"
+                    ],
+                    "citation": "na",
+                    "config.json.md5": "ba8e6c0af962ae492782c2c7025fe8f5",
+                    "config.json.url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v5.2.0/work/config.json",
+                    "primer.bed.md5": "6de462d8ffffcfb2aa37f7eeb205d94b",
+                    "primer.bed.url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v5.2.0/primer.bed",
+                    "reference.fasta.md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
+                    "reference.fasta.url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v5.2.0/reference.fasta",
+                    "validated": true
+                },
+                "v5.3.2": {
+                    "algorithmversion": "primalscheme2:1.0.0",
+                    "authors": [
+                        "artic",
+                        "quick.lab",
+                        "bccdc"
+                    ],
+                    "citation": "na",
+                    "config.json.md5": "fccf238204f6873bc83833ae345d877a",
+                    "config.json.url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v5.3.2/work/config.json",
+                    "primer.bed.md5": "722d56c381bf301aa9c5ae8721c78063",
+                    "primer.bed.url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v5.3.2/primer.bed",
+                    "reference.fasta.md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
+                    "reference.fasta.url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v5.3.2/reference.fasta",
+                    "validated": true
+                }
+            }
         }
     }
 }
