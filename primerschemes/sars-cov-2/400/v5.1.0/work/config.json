@@ -1,0 +1,12 @@
+{
+    "algorithmversion": "primalscheme2:1.0.0",
+    "ampliconsize": 400,
+    "authors": [
+        "artic",
+        "quick.lab"
+    ],
+    "citation": "na",
+    "schemename": "sars-cov-2",
+    "schemeversion": "v5.1.0",
+    "validated": false
+}
