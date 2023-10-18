@@ -1,4 +1,24 @@
 {
     "primerpanels": {},
-    "primerschemes": {}
+    "primerschemes": {
+        "hbv": {
+            "500": {
+                "v1.1.0": {
+                    "algorithmversion": "primal-digest:1.1.3",
+                    "authors": [
+                        "artic",
+                        "quick.lab"
+                    ],
+                    "citation": "na",
+                    "config.json.md5": "fcdec08e6eda5d94fcee23d478520aca",
+                    "config.json.url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/hbv/500/v1.1.0/work/config.json",
+                    "primer.bed.md5": "d7a9d4f57c80044e46b5ba1d69981e23",
+                    "primer.bed.url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/hbv/500/v1.1.0/primer.bed",
+                    "reference.fasta.md5": "7612eab3e2389215206ae17187da1791",
+                    "reference.fasta.url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/hbv/500/v1.1.0/reference.fasta",
+                    "validated": false
+                }
+            }
+        }
+    }
 }
