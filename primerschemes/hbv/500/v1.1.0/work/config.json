@@ -53,5 +53,5 @@
     "reference.fasta.md5": "7612eab3e2389215206ae17187da1791",
     "schemename": "hbv",
     "schemeversion": "v1.1.0",
-    "validated": false
+    "validated": true
 }
