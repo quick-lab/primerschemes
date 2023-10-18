@@ -49,7 +49,7 @@
     "primer_tm_max": 62.5,
     "primer_tm_min": 59.5,
     "reducekmers": false,
-    "referance.fasta.md5": "7612eab3e2389215206ae17187da1791",
+    "reference.fasta.md5": "7612eab3e2389215206ae17187da1791",
     "schemename": "hbv",
     "schemeversion": "v1.0.0",
     "validated": true
