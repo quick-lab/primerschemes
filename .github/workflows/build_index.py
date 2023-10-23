@@ -4,6 +4,13 @@ import sys
 import hashlib
 
 
+"""
+Version Schema
+
+
+"""
+
+
 def hashfile(fname):
     hash_md5 = hashlib.md5()
     with open(fname, "rb") as f:
@@ -12,7 +19,7 @@ def hashfile(fname):
     return hash_md5.hexdigest()
 
 
-def get_rawlink(repo, scheme_name, length, version, file, pclass) -> str:
+def create_rawlink(repo, scheme_name, length, version, file, pclass) -> str:
     return f"https://raw.githubusercontent.com/{repo}/main/{pclass}/{scheme_name}/{length}/{version}/{file}"
 
 
@@ -21,13 +28,46 @@ def parse_version(
 ) -> dict[str:str]:
     version_dict = dict()
 
-    # Get the raw link for the primer.bed file
-    for file in version_path.iterdir():
-        if file.name == "primer.bed":
-            version_dict["primer.bed.url"] = get_rawlink(
-                repo_url, scheme_name, length, version.name, file.name, pclass
-            )
-            version_dict["primer.bed.md5"] = hashfile(file)
+    # Add the primer.bed file
+    primerbed = version_path / "primer.bed"
+    version_dict["primer.bed.url"] = create_rawlink(
+        repo_url, scheme_name, length, version.name, primerbed.name, pclass
+    )
+    version_dict["primer.bed.md5"] = hashfile(primerbed)
+
+    # Add the reference.fasta file
+    reference = version_path / "reference.fasta"
+    version_dict["reference.fasta.url"] = create_rawlink(
+        repo_url, scheme_name, length, version.name, reference.name, pclass
+    )
+    version_dict["reference.fasta.md5"] = hashfile(reference)
+
+    # Add the config.json file
+    config = version_path / "work/config.json"
+    version_dict["config.json.url"] = create_rawlink(
+        repo_url, scheme_name, length, version.name, "work/config.json", pclass
+    )
+    version_dict["config.json.md5"] = hashfile(config)
+
+    # Read in the config.json file
+    with open(config) as f:
+        config_dict = json.load(f)
+
+    # Grab config.json fields
+    version_dict["algorithmversion"] = config_dict["algorithmversion"]
+    version_dict["validated"] = config_dict["validated"]
+    version_dict["authors"] = config_dict["authors"]
+    version_dict["citation"] = config_dict["citation"]
+
+    # Check the hashes in the config.json file match the generated hashes
+    if version_dict["primer.bed.md5"] != config_dict["primer.bed.md5"]:
+        raise ValueError(
+            f"Hash mismatch for {version_dict['primer.bed.url']}. Expected {version_dict['primer.bed.md5']} but got {config_dict['primer.bed.md5']}"
+        )
+    if version_dict["reference.fasta.md5"] != config_dict["reference.fasta.md5"]:
+        raise ValueError(
+            f"Hash mismatch for {version_dict['reference.fasta.url']}. Expected {version_dict['reference.fasta.md5']} but got {config_dict['reference.fasta.md5']}"
+        )
 
     return version_dict
 
