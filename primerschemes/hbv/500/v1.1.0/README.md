@@ -1,8 +1,29 @@
-# hbv 500 v1.1.0
+# hbv 500bp v1.1.0
 
-### Scheme Overview
+## Overviews
 
-![Alt text](work/NC_003977.2.png 'NC_003977.2.png')
+![NC_003977.2.png](work/NC_003977.2.png)
+
+## Details
+
+```json
+{
+    "algorithmversion": "1.1.3",
+    "ampliconsize": 500,
+    "authors": [
+        "quick lab",
+        "artic network"
+    ],
+    "citations": [],
+    "primer.bed.md5": "dd96ade2e5c59377808368cc116a8361",
+    "reference.fasta.md5": "7612eab3e2389215206ae17187da1791",
+    "schemename": "hbv",
+    "schemeversion": "v1.1.0",
+    "status": "draft"
+}
+```
+
+
 
 ------------------------------------------------------------------------
 

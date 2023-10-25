@@ -1,0 +1,188 @@
+2023-10-18 at 11:44:57 | INFO | Creating the Mismatch Database
+2023-10-18 at 11:45:16 | INFO | Created: /Users/kentcg/schemes/hbv/hbv-500-c-t/work/mismatch.db
+2023-10-18 at 11:45:18 | INFO | Read in MSA: all.align	seqs:2001	cols:4005
+2023-10-18 at 11:46:45 | INFO | all.align: digested to 634 FKmers and 548 RKmers
+2023-10-18 at 11:46:47 | INFO | all.align: Generated 7359 possible amplicons
+2023-10-18 at 11:46:47 | INFO | Added first amplicon for all.align: 34	609	1
+2023-10-18 at 11:46:47 | INFO | Added overlapping amplicon for all.align: 459	1023	2
+2023-10-18 at 11:46:47 | INFO | Added overlapping amplicon for all.align: 876	1412	1
+2023-10-18 at 11:46:47 | INFO | Added overlapping amplicon for all.align: 1173	1704	2
+2023-10-18 at 11:46:47 | INFO | Added overlapping amplicon for all.align: 1579	2138	1
+2023-10-18 at 11:46:47 | INFO | Added overlapping amplicon for all.align: 2018	2568	2
+2023-10-18 at 11:46:47 | INFO | Added overlapping amplicon for all.align: 2411	2974	1
+2023-10-18 at 11:46:48 | INFO | Added circular amplicon for all.align: 2814	272	2
+2023-10-18 at 11:46:48 | INFO | Writting output files
+2023-10-18 at 11:48:46 | INFO | Creating the Mismatch Database
+2023-10-18 at 11:49:05 | INFO | Created: /Users/kentcg/schemes/hbv/hbv-500-c-t/work/mismatch.db
+2023-10-18 at 11:49:07 | INFO | Read in MSA: all.align	seqs:2001	cols:4005
+2023-10-18 at 11:50:34 | INFO | all.align: digested to 634 FKmers and 548 RKmers
+2023-10-18 at 11:50:36 | INFO | all.align: Generated 7359 possible amplicons
+2023-10-18 at 11:50:36 | INFO | Added first amplicon for all.align: 34	609	1
+2023-10-18 at 11:50:36 | INFO | Added overlapping amplicon for all.align: 459	1023	2
+2023-10-18 at 11:50:36 | INFO | Added overlapping amplicon for all.align: 876	1412	1
+2023-10-18 at 11:50:36 | INFO | Added overlapping amplicon for all.align: 1173	1704	2
+2023-10-18 at 11:50:36 | INFO | Added overlapping amplicon for all.align: 1579	2138	1
+2023-10-18 at 11:50:36 | INFO | Added overlapping amplicon for all.align: 2018	2568	2
+2023-10-18 at 11:50:36 | INFO | Added overlapping amplicon for all.align: 2411	2974	1
+2023-10-18 at 11:50:37 | INFO | Added circular amplicon for all.align: 2814	272	2
+2023-10-18 at 11:50:37 | INFO | Writting output files
+2023-10-18 at 11:51:52 | INFO | Creating the Mismatch Database
+2023-10-18 at 11:52:12 | INFO | Created: /Users/kentcg/schemes/hbv/hbv-500-c-t/work/mismatch.db
+2023-10-18 at 11:52:14 | INFO | Read in MSA: all.align	seqs:2001	cols:4005
+2023-10-18 at 11:53:42 | INFO | all.align: digested to 634 FKmers and 548 RKmers
+2023-10-18 at 11:53:43 | INFO | all.align: Generated 7359 possible amplicons
+2023-10-18 at 11:53:43 | INFO | Added first amplicon for all.align: 34	609	1
+2023-10-18 at 11:53:44 | INFO | Added overlapping amplicon for all.align: 459	1023	2
+2023-10-18 at 11:53:44 | INFO | Added overlapping amplicon for all.align: 876	1412	1
+2023-10-18 at 11:53:44 | INFO | Added overlapping amplicon for all.align: 1173	1704	2
+2023-10-18 at 11:53:44 | INFO | Added overlapping amplicon for all.align: 1579	2138	1
+2023-10-18 at 11:53:44 | INFO | Added overlapping amplicon for all.align: 2018	2568	2
+2023-10-18 at 11:53:44 | INFO | Added overlapping amplicon for all.align: 2411	2974	1
+2023-10-18 at 11:53:44 | INFO | Added circular amplicon for all.align: 2814	272	2
+2023-10-18 at 11:53:44 | INFO | Writting output files
+2023-10-18 at 11:54:17 | INFO | Creating the Mismatch Database
+2023-10-18 at 11:54:37 | INFO | Created: /Users/kentcg/schemes/hbv/hbv-500-c-t/work/mismatch.db
+2023-10-18 at 11:54:39 | INFO | Read in MSA: all.align	seqs:2001	cols:4005
+2023-10-18 at 11:56:06 | INFO | all.align: digested to 634 FKmers and 548 RKmers
+2023-10-18 at 11:56:08 | INFO | all.align: Generated 7359 possible amplicons
+2023-10-18 at 11:56:08 | INFO | Added first amplicon for all.align: 34	585	1
+2023-10-18 at 11:56:08 | INFO | Added overlapping amplicon for all.align: 459	1023	2
+2023-10-18 at 11:56:08 | INFO | Added overlapping amplicon for all.align: 876	1412	1
+2023-10-18 at 11:56:08 | INFO | Added overlapping amplicon for all.align: 1173	1704	2
+2023-10-18 at 11:56:08 | INFO | Added overlapping amplicon for all.align: 1579	2138	1
+2023-10-18 at 11:56:08 | INFO | Added overlapping amplicon for all.align: 2018	2568	2
+2023-10-18 at 11:56:08 | INFO | Added overlapping amplicon for all.align: 2411	2974	1
+2023-10-18 at 11:56:09 | INFO | Added circular amplicon for all.align: 2814	272	2
+2023-10-18 at 11:56:09 | INFO | Writting output files
+2023-10-18 at 11:57:15 | INFO | Creating the Mismatch Database
+2023-10-18 at 11:57:34 | INFO | Created: /Users/kentcg/schemes/hbv/hbv-500-c-t/work/mismatch.db
+2023-10-18 at 11:57:36 | INFO | Read in MSA: all.align	seqs:2001	cols:4005
+2023-10-18 at 11:59:04 | INFO | all.align: digested to 634 FKmers and 548 RKmers
+2023-10-18 at 11:59:05 | INFO | all.align: Generated 7359 possible amplicons
+2023-10-18 at 11:59:05 | INFO | Added first amplicon for all.align: 34	609	1
+2023-10-18 at 11:59:05 | INFO | Added overlapping amplicon for all.align: 459	1023	2
+2023-10-18 at 11:59:05 | INFO | Added overlapping amplicon for all.align: 876	1412	1
+2023-10-18 at 11:59:05 | INFO | Added overlapping amplicon for all.align: 1173	1704	2
+2023-10-18 at 11:59:05 | INFO | Added overlapping amplicon for all.align: 1579	2138	1
+2023-10-18 at 11:59:05 | INFO | Added overlapping amplicon for all.align: 2018	2568	2
+2023-10-18 at 11:59:05 | INFO | Added overlapping amplicon for all.align: 2411	2974	1
+2023-10-18 at 11:59:06 | INFO | Added circular amplicon for all.align: 2814	272	2
+2023-10-18 at 11:59:06 | INFO | Writting output files
+2023-10-18 at 12:02:34 | INFO | Creating the Mismatch Database
+2023-10-18 at 12:02:53 | INFO | Created: /Users/kentcg/schemes/hbv/hbv-500-c-t/work/mismatch.db
+2023-10-18 at 12:02:55 | INFO | Read in MSA: all.align	seqs:2001	cols:4005
+2023-10-18 at 12:04:22 | INFO | all.align: digested to 634 FKmers and 548 RKmers
+2023-10-18 at 12:04:24 | INFO | all.align: Generated 7359 possible amplicons
+2023-10-18 at 12:04:24 | INFO | Added first amplicon for all.align: 34	609	1
+2023-10-18 at 12:04:24 | INFO | Added overlapping amplicon for all.align: 459	1023	2
+2023-10-18 at 12:04:24 | INFO | Added overlapping amplicon for all.align: 876	1412	1
+2023-10-18 at 12:04:24 | INFO | Added overlapping amplicon for all.align: 1173	1704	2
+2023-10-18 at 12:04:24 | INFO | Added overlapping amplicon for all.align: 1579	2138	1
+2023-10-18 at 12:04:24 | INFO | Added overlapping amplicon for all.align: 2018	2568	2
+2023-10-18 at 12:04:24 | INFO | Added overlapping amplicon for all.align: 2411	2974	1
+2023-10-18 at 12:04:25 | INFO | Added circular amplicon for all.align: 2814	272	2
+2023-10-18 at 12:04:25 | INFO | Writting output files
+2023-10-18 at 12:16:08 | INFO | Creating the Mismatch Database
+2023-10-18 at 12:16:27 | INFO | Created: /Users/kentcg/schemes/hbv/hbv-500-c-t/work/mismatch.db
+2023-10-18 at 12:16:29 | INFO | Read in MSA: all.align	seqs:2001	cols:4005
+2023-10-18 at 12:17:56 | INFO | all.align: digested to 634 FKmers and 548 RKmers
+2023-10-18 at 12:17:58 | INFO | all.align: Generated 7359 possible amplicons
+2023-10-18 at 12:17:58 | INFO | Added first amplicon for all.align: 34	609	1
+2023-10-18 at 12:17:58 | INFO | Added overlapping amplicon for all.align: 459	1023	2
+2023-10-18 at 12:17:58 | INFO | Added overlapping amplicon for all.align: 876	1412	1
+2023-10-18 at 12:17:58 | INFO | Added overlapping amplicon for all.align: 1173	1704	2
+2023-10-18 at 12:17:58 | INFO | Added overlapping amplicon for all.align: 1579	2138	1
+2023-10-18 at 12:17:58 | INFO | Added overlapping amplicon for all.align: 2018	2568	2
+2023-10-18 at 12:17:58 | INFO | Added overlapping amplicon for all.align: 2411	2974	1
+2023-10-18 at 12:17:59 | INFO | Added circular amplicon for all.align: 2814	272	2
+2023-10-18 at 12:17:59 | INFO | Writting output files
+2023-10-18 at 12:19:55 | INFO | Creating the Mismatch Database
+2023-10-18 at 12:20:14 | INFO | Created: /Users/kentcg/schemes/hbv/hbv-500-c-t/work/mismatch.db
+2023-10-18 at 12:20:16 | INFO | Read in MSA: all.align	seqs:2001	cols:4005
+2023-10-18 at 12:21:44 | INFO | all.align: digested to 634 FKmers and 548 RKmers
+2023-10-18 at 12:21:46 | INFO | all.align: Generated 7359 possible amplicons
+2023-10-18 at 12:21:46 | INFO | Added first amplicon for all.align: 34	609	1
+2023-10-18 at 12:21:46 | INFO | Added overlapping amplicon for all.align: 459	1023	2
+2023-10-18 at 12:21:46 | INFO | Added overlapping amplicon for all.align: 876	1412	1
+2023-10-18 at 12:21:46 | INFO | Added overlapping amplicon for all.align: 1173	1704	2
+2023-10-18 at 12:21:46 | INFO | Added overlapping amplicon for all.align: 1579	2138	1
+2023-10-18 at 12:21:46 | INFO | Added overlapping amplicon for all.align: 2018	2568	2
+2023-10-18 at 12:21:46 | INFO | Added overlapping amplicon for all.align: 2411	2974	1
+2023-10-18 at 12:21:47 | INFO | Added circular amplicon for all.align: 2814	272	2
+2023-10-18 at 12:21:47 | INFO | Writting output files
+2023-10-18 at 12:29:44 | INFO | Creating the Mismatch Database
+2023-10-18 at 12:30:04 | INFO | Created: /Users/kentcg/schemes/hbv/hbv-500-c-t/work/mismatch.db
+2023-10-18 at 12:30:05 | INFO | Read in MSA: all.align	seqs:2001	cols:4005
+2023-10-18 at 12:31:34 | INFO | all.align: digested to 634 FKmers and 548 RKmers
+2023-10-18 at 12:31:36 | INFO | all.align: Generated 7359 possible amplicons
+2023-10-18 at 12:31:36 | INFO | Added first amplicon for all.align: 34	609	1
+2023-10-18 at 12:31:36 | INFO | Added overlapping amplicon for all.align: 459	1023	2
+2023-10-18 at 12:31:36 | INFO | Added overlapping amplicon for all.align: 876	1412	1
+2023-10-18 at 12:31:36 | INFO | Added overlapping amplicon for all.align: 1173	1704	2
+2023-10-18 at 12:31:36 | INFO | Added overlapping amplicon for all.align: 1579	2138	1
+2023-10-18 at 12:31:36 | INFO | Added overlapping amplicon for all.align: 2018	2568	2
+2023-10-18 at 12:31:36 | INFO | Added overlapping amplicon for all.align: 2411	2974	1
+2023-10-18 at 12:31:36 | INFO | Added circular amplicon for all.align: 2814	272	2
+2023-10-18 at 12:31:36 | INFO | Writting output files
+2023-10-18 at 12:33:59 | INFO | Creating the Mismatch Database
+2023-10-18 at 12:34:18 | INFO | Created: /Users/kentcg/schemes/hbv/hbv-500-c-t/work/mismatch.db
+2023-10-18 at 12:34:20 | INFO | Read in MSA: all.align	seqs:2001	cols:4005
+2023-10-18 at 12:35:53 | INFO | all.align: digested to 634 FKmers and 548 RKmers
+2023-10-18 at 12:35:55 | INFO | all.align: Generated 7359 possible amplicons
+2023-10-18 at 12:35:55 | INFO | Added first amplicon for all.align: 34	609	1
+2023-10-18 at 12:35:55 | INFO | Added overlapping amplicon for all.align: 459	1023	2
+2023-10-18 at 12:35:55 | INFO | Added overlapping amplicon for all.align: 876	1412	1
+2023-10-18 at 12:35:55 | INFO | Added overlapping amplicon for all.align: 1173	1704	2
+2023-10-18 at 12:35:55 | INFO | Added overlapping amplicon for all.align: 1579	2138	1
+2023-10-18 at 12:35:55 | INFO | Added overlapping amplicon for all.align: 2018	2568	2
+2023-10-18 at 12:35:55 | INFO | Added overlapping amplicon for all.align: 2411	2974	1
+2023-10-18 at 12:35:56 | INFO | Added circular amplicon for all.align: 2814	272	2
+2023-10-18 at 12:35:56 | INFO | Writting output files
+2023-10-18 at 12:36:46 | INFO | Creating the Mismatch Database
+2023-10-18 at 12:37:06 | INFO | Created: /Users/kentcg/schemes/hbv/hbv-500-c-t/work/mismatch.db
+2023-10-18 at 12:37:08 | INFO | Read in MSA: all.align	seqs:2001	cols:4005
+2023-10-18 at 12:37:20 | INFO | Creating the Mismatch Database
+2023-10-18 at 12:37:40 | INFO | Created: /Users/kentcg/schemes/hbv/hbv-500-c-t/work/mismatch.db
+2023-10-18 at 12:37:42 | INFO | Read in MSA: all.align	seqs:2001	cols:4005
+2023-10-18 at 12:39:10 | INFO | all.align: digested to 634 FKmers and 548 RKmers
+2023-10-18 at 12:39:12 | INFO | all.align: Generated 7359 possible amplicons
+2023-10-18 at 12:39:12 | INFO | Added first amplicon for all.align: 34	609	1
+2023-10-18 at 12:39:12 | INFO | Added overlapping amplicon for all.align: 459	1023	2
+2023-10-18 at 12:39:12 | INFO | Added overlapping amplicon for all.align: 876	1412	1
+2023-10-18 at 12:39:12 | INFO | Added overlapping amplicon for all.align: 1173	1704	2
+2023-10-18 at 12:39:12 | INFO | Added overlapping amplicon for all.align: 1579	2138	1
+2023-10-18 at 12:39:12 | INFO | Added overlapping amplicon for all.align: 2018	2568	2
+2023-10-18 at 12:39:12 | INFO | Added overlapping amplicon for all.align: 2411	2974	1
+2023-10-18 at 12:39:12 | INFO | Added circular amplicon for all.align: 2814	272	2
+2023-10-18 at 12:39:12 | INFO | Writting output files
+2023-10-18 at 12:39:24 | INFO | Creating the Mismatch Database
+2023-10-18 at 12:39:44 | INFO | Created: /Users/kentcg/schemes/hbv/hbv-500-c-t/work/mismatch.db
+2023-10-18 at 12:39:46 | INFO | Read in MSA: all.align	seqs:2001	cols:4005
+2023-10-18 at 12:41:13 | INFO | all.align: digested to 634 FKmers and 548 RKmers
+2023-10-18 at 12:41:15 | INFO | all.align: Generated 7359 possible amplicons
+2023-10-18 at 12:41:15 | INFO | Added first amplicon for all.align: 34	585	1
+2023-10-18 at 12:41:15 | INFO | Added overlapping amplicon for all.align: 459	1023	2
+2023-10-18 at 12:41:15 | INFO | Added overlapping amplicon for all.align: 876	1412	1
+2023-10-18 at 12:41:15 | INFO | Added overlapping amplicon for all.align: 1173	1704	2
+2023-10-18 at 12:41:15 | INFO | Added overlapping amplicon for all.align: 1579	2138	1
+2023-10-18 at 12:41:15 | INFO | Added overlapping amplicon for all.align: 2018	2568	2
+2023-10-18 at 12:41:15 | INFO | Added overlapping amplicon for all.align: 2411	2974	1
+2023-10-18 at 12:41:15 | INFO | Added circular amplicon for all.align: 2814	272	2
+2023-10-18 at 12:41:15 | INFO | Writting output files
+2023-10-18 at 12:42:28 | INFO | Creating the Mismatch Database
+2023-10-18 at 12:42:48 | INFO | Created: /Users/kentcg/schemes/hbv/hbv-500-c-t/work/mismatch.db
+2023-10-18 at 12:42:50 | INFO | Read in MSA: all.align	seqs:2001	cols:4005
+2023-10-18 at 12:58:06 | INFO | Creating the Mismatch Database
+2023-10-18 at 12:58:26 | INFO | Created: /Users/kentcg/schemes/hbv/hbv-500-c-t/work/mismatch.db
+2023-10-18 at 12:58:28 | INFO | Read in MSA: all.align	seqs:2001	cols:4005
+2023-10-18 at 12:59:55 | INFO | all.align: digested to 634 FKmers and 548 RKmers
+2023-10-18 at 12:59:57 | INFO | all.align: Generated 7359 possible amplicons
+2023-10-18 at 12:59:57 | INFO | Added first amplicon for all.align: 34	609	1
+2023-10-18 at 12:59:57 | INFO | Added overlapping amplicon for all.align: 459	1023	2
+2023-10-18 at 12:59:57 | INFO | Added overlapping amplicon for all.align: 876	1412	1
+2023-10-18 at 12:59:57 | INFO | Added overlapping amplicon for all.align: 1173	1704	2
+2023-10-18 at 12:59:57 | INFO | Added overlapping amplicon for all.align: 1579	2138	1
+2023-10-18 at 12:59:57 | INFO | Added overlapping amplicon for all.align: 2018	2568	2
+2023-10-18 at 12:59:57 | INFO | Added overlapping amplicon for all.align: 2412	2974	1
+2023-10-18 at 12:59:58 | INFO | Added circular amplicon for all.align: 2814	272	2
+2023-10-18 at 12:59:58 | INFO | Writting output files
