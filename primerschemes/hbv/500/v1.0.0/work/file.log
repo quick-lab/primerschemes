@@ -1,0 +1,26 @@
+2023-10-11 at 16:29:48 | INFO | Creating the Mismatch Database
+2023-10-11 at 16:30:07 | INFO | Created: /Users/kentcg/schemes/hbv/hbv-500/work/mismatch.db
+2023-10-11 at 16:30:09 | INFO | Read in MSA: all.align	seqs:2001	cols:4005
+2023-10-11 at 16:31:35 | INFO | all.align: digested to 634 FKmers and 548 RKmers
+2023-10-11 at 16:31:36 | INFO | all.align: Generated 7359 possible amplicons
+2023-10-11 at 16:31:36 | INFO | Added first amplicon for all.align: 34	609	1
+2023-10-11 at 16:31:36 | INFO | Added overlapping amplicon for all.align: 459	1023	2
+2023-10-11 at 16:31:36 | INFO | Added overlapping amplicon for all.align: 876	1412	1
+2023-10-11 at 16:31:36 | INFO | Added overlapping amplicon for all.align: 1173	1704	2
+2023-10-11 at 16:31:36 | INFO | Added overlapping amplicon for all.align: 1579	2138	1
+2023-10-11 at 16:31:36 | INFO | Added overlapping amplicon for all.align: 2018	2568	2
+2023-10-11 at 16:31:36 | INFO | Added overlapping amplicon for all.align: 2411	2974	1
+2023-10-11 at 16:31:36 | INFO | Writting output files
+2023-10-16 at 15:24:37 | INFO | Creating the Mismatch Database
+2023-10-16 at 15:24:56 | INFO | Created: /Users/kentcg/schemes/hbv/hbv-500/work/mismatch.db
+2023-10-16 at 15:24:58 | INFO | Read in MSA: all.align	seqs:2001	cols:4005
+2023-10-16 at 15:26:26 | INFO | all.align: digested to 634 FKmers and 548 RKmers
+2023-10-16 at 15:26:27 | INFO | all.align: Generated 7359 possible amplicons
+2023-10-16 at 15:26:27 | INFO | Added first amplicon for all.align: 34	609	1
+2023-10-16 at 15:26:27 | INFO | Added overlapping amplicon for all.align: 459	1023	2
+2023-10-16 at 15:26:27 | INFO | Added overlapping amplicon for all.align: 876	1412	1
+2023-10-16 at 15:26:27 | INFO | Added overlapping amplicon for all.align: 1173	1704	2
+2023-10-16 at 15:26:27 | INFO | Added overlapping amplicon for all.align: 1579	2138	1
+2023-10-16 at 15:26:27 | INFO | Added overlapping amplicon for all.align: 2018	2568	2
+2023-10-16 at 15:26:27 | INFO | Added overlapping amplicon for all.align: 2411	2974	1
+2023-10-16 at 15:26:27 | INFO | Writting output files
