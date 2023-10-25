@@ -1,0 +1,14 @@
+{
+    "algorithmversion": "primaldigest:1.1.3",
+    "ampliconsize": 500,
+    "authors": [
+        "quick lab",
+        "artic network"
+    ],
+    "citations": [],
+    "primer.bed.md5": "dd96ade2e5c59377808368cc116a8361",
+    "reference.fasta.md5": "7612eab3e2389215206ae17187da1791",
+    "schemename": "hbv",
+    "schemeversion": "v1.1.0",
+    "status": "draft"
+}
