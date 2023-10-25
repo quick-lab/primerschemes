@@ -2,11 +2,20 @@ import pathlib
 import json
 import sys
 import hashlib
-
+from enum import Enum
+import itertools
 
 """
 Version Schema
 
+requires an info.json in the version directory
+{
+    "ampliconsize": 100,
+    "schemeversion": "v1.0.0",
+    "schemename": "scheme_name",
+    "primer.bed.md5": "md5",
+    "reference.fasta.md5": "md5",
+}
 
 """
 
@@ -27,6 +36,16 @@ def parse_version(
     version_path, repo_url, scheme_name, length, version, pclass
 ) -> dict[str:str]:
     version_dict = dict()
+
+    # Read in the info.json file
+    with open(version_path / "info.json") as f:
+        info_dict = json.load(f)
+
+    # Grab index.json fields
+    version_dict["algorithmversion"] = info_dict["algorithmversion"]
+    version_dict["status"] = info_dict["status"]
+    version_dict["authors"] = info_dict["authors"]
+    version_dict["citations"] = info_dict["citations"]
 
     # Add the primer.bed file
     primerbed = version_path / "primer.bed"
@@ -49,24 +68,14 @@ def parse_version(
     )
     version_dict["config.json.md5"] = hashfile(config)
 
-    # Read in the config.json file
-    with open(config) as f:
-        config_dict = json.load(f)
-
-    # Grab config.json fields
-    version_dict["algorithmversion"] = config_dict["algorithmversion"]
-    version_dict["validated"] = config_dict["validated"]
-    version_dict["authors"] = config_dict["authors"]
-    version_dict["citation"] = config_dict["citation"]
-
     # Check the hashes in the config.json file match the generated hashes
-    if version_dict["primer.bed.md5"] != config_dict["primer.bed.md5"]:
+    if version_dict["primer.bed.md5"] != info_dict["primer.bed.md5"]:
         raise ValueError(
-            f"Hash mismatch for {version_dict['primer.bed.url']}. Expected {version_dict['primer.bed.md5']} but got {config_dict['primer.bed.md5']}"
+            f"Hash mismatch for {version_dict['primer.bed.url']}. Expected {version_dict['primer.bed.md5']} but got {info_dict['primer.bed.md5']}"
         )
-    if version_dict["reference.fasta.md5"] != config_dict["reference.fasta.md5"]:
+    if version_dict["reference.fasta.md5"] != info_dict["reference.fasta.md5"]:
         raise ValueError(
-            f"Hash mismatch for {version_dict['reference.fasta.url']}. Expected {version_dict['reference.fasta.md5']} but got {config_dict['reference.fasta.md5']}"
+            f"Hash mismatch for {version_dict['reference.fasta.url']}. Expected {version_dict['reference.fasta.md5']} but got {info_dict['reference.fasta.md5']}"
         )
 
     return version_dict
@@ -121,14 +130,54 @@ def parse_scheme(scheme_path, repo_url, scheme_name, pclass) -> dict[str:str]:
     return scheme_dict
 
 
-def main():
+def traverse_json(json_dict):
+    """Depth first search of the json_dict"""
+    for pclass, pclass_dict in json_dict.items():
+        for scheme_name, scheme_dict in pclass_dict.items():
+            for length, length_dict in scheme_dict.items():
+                for version, _version_dict in length_dict.items():
+                    yield (pclass, scheme_name, length, version)
+
+
+def check_consistency(existing_json, new_json):
+    """
+    Checks that paths contained in both existing_json and new_json have the same hashes (files unaltered)
+    """
+    # Find all paths
+    existing_paths: set[tuple[str]] = {x for x in traverse_json(existing_json)}
+    # Find all new paths
+    new_paths = {x for x in traverse_json(new_json)}
+
+    # Find all the paths that are in both
+    intersection = existing_paths & new_paths
+
+    for path in intersection:
+        # Check that the reference hashes are the same
+        existing_ref_hash = existing_json[path[0]][path[1]][path[2]][path[3]][
+            "reference.fasta.md5"
+        ]
+        new_ref_hash = new_json[path[0]][path[1]][path[2]][path[3]][
+            "reference.fasta.md5"
+        ]
+        if existing_ref_hash != new_ref_hash:
+            raise ValueError(
+                f"Hash changed for {path[0]}/{path[1]}/{path[2]}/{path[3]}/reference.fasta. Expected {existing_ref_hash} but got {new_ref_hash}"
+            )
+
+        # Check that the primer.bed hashes are the same
+        existing_bed_hash = existing_json[path[0]][path[1]][path[2]][path[3]][
+            "primer.bed.md5"
+        ]
+        new_bed_hash = new_json[path[0]][path[1]][path[2]][path[3]]["primer.bed.md5"]
+        if existing_ref_hash != new_ref_hash:
+            raise ValueError(
+                f"Hash changed for {path[0]}/{path[1]}/{path[2]}/{path[3]}/primer.bed. Expected {existing_bed_hash} but got {new_bed_hash}"
+            )
+
+
+def create_index(server_url, repo_url):
     # For any Scheme, we can generate a JSON file with the following format:
     json_dict = dict()
-
-    # server_url = https://github.com/
-    server_url = sys.argv[1]
-    repo_url = sys.argv[2]
-
     # Parse panels and schemes
     pclasses = ["primerschemes", "primerpanels"]
     for pclass in pclasses:
@@ -146,9 +195,20 @@ def main():
         # Add the pclass to the json_dict
         json_dict[pclass] = pclass_dict
 
+    # Read in the existing index.json file
+    with open("index.json") as f:
+        existing_json_dict = json.load(f)
+
+    # Check persistence of existing files
+    check_consistency(existing_json_dict, json_dict)
+
     with open("index.json", "w") as f:
         json.dump(json_dict, f, indent=4, sort_keys=True)
 
+    return True
+
 
 if __name__ == "__main__":
-    main()
+    server_url = sys.argv[1]
+    repo_url = sys.argv[2]
+    create_index(server_url, repo_url)
