@@ -19,7 +19,7 @@
                     "status": "draft"
                 },
                 "v1.1.0": {
-                    "algorithmversion": "1.1.3",
+                    "algorithmversion": "primaldigest:1.1.3",
                     "authors": [
                         "quick lab",
                         "artic network"
