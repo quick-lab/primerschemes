@@ -10,6 +10,7 @@
                         "artic network"
                     ],
                     "citations": [],
+
                     "info_json_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/hbv/500/v1.0.0/info.json",
                     "license": "CC-BY-4.0",
                     "primer_bed_md5": "f1874f2b2332dff4b4cd6f0075f128dd",
@@ -20,6 +21,14 @@
                     "species": [
                         10407
                     ],
+
+                    "config.json.md5": "4137d7ad6f0cc949be434fdb3480eef9",
+                    "config.json.url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hbv/500/v1.0.0/work/config.json",
+                    "primer.bed.md5": "f1874f2b2332dff4b4cd6f0075f128dd",
+                    "primer.bed.url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hbv/500/v1.0.0/primer.bed",
+                    "reference.fasta.md5": "7612eab3e2389215206ae17187da1791",
+                    "reference.fasta.url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hbv/500/v1.0.0/reference.fasta",
+
                     "status": "draft"
                 },
                 "v1.1.0": {
@@ -29,6 +38,7 @@
                         "artic network"
                     ],
                     "citations": [],
+
                     "info_json_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/hbv/500/v1.1.0/info.json",
                     "license": "CC-BY-4.0",
                     "primer_bed_md5": "dd96ade2e5c59377808368cc116a8361",
@@ -39,6 +49,14 @@
                     "species": [
                         10407
                     ],
+
+                    "config.json.md5": "6c9ffb3f43cff3f19a484c58de623b2d",
+                    "config.json.url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hbv/500/v1.1.0/work/config.json",
+                    "primer.bed.md5": "dd96ade2e5c59377808368cc116a8361",
+                    "primer.bed.url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hbv/500/v1.1.0/primer.bed",
+                    "reference.fasta.md5": "7612eab3e2389215206ae17187da1791",
+                    "reference.fasta.url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hbv/500/v1.1.0/reference.fasta",
+
                     "status": "draft"
                 }
             }
@@ -51,6 +69,7 @@
                         "quick lab",
                         "artic network"
                     ],
+
                     "citations": [
                         "https://doi.org/10.1038/nprot.2017.066"
                     ],
@@ -64,6 +83,7 @@
                     "species": [
                         2697049
                     ],
+
                     "status": "deprecated"
                 },
                 "v2.0.0": {
@@ -85,6 +105,7 @@
                     "species": [
                         2697049
                     ],
+
                     "status": "deprecated"
                 },
                 "v3.0.0": {
@@ -106,6 +127,7 @@
                     "species": [
                         2697049
                     ],
+
                     "status": "deprecated"
                 },
                 "v4.0.0": {
@@ -115,6 +137,7 @@
                         "artic network"
                     ],
                     "citations": [],
+
                     "info_json_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v4.0.0/info.json",
                     "license": "CC-BY-4.0",
                     "primer_bed_md5": "6c42c61f304702adc6c550ad0941ed6f",
@@ -125,6 +148,7 @@
                     "species": [
                         2697049
                     ],
+
                     "status": "deprecated"
                 },
                 "v4.1.0": {
@@ -133,6 +157,7 @@
                         "quick lab",
                         "artic network"
                     ],
+
                     "citations": [
                         "https://doi.org/10.1038/nprot.2017.066"
                     ],
@@ -146,6 +171,7 @@
                     "species": [
                         2697049
                     ],
+
                     "status": "deprecated"
                 },
                 "v5.0.0": {
@@ -155,6 +181,7 @@
                         "artic network"
                     ],
                     "citations": [],
+
                     "info_json_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v5.0.0/info.json",
                     "license": "CC-BY-4.0",
                     "primer_bed_md5": "6292814b0ec248605c72707d34dda1eb",
@@ -165,7 +192,7 @@
                     "species": [
                         2697049
                     ],
-                    "status": "deprecated"
+     "status": "deprecated"
                 },
                 "v5.2.0": {
                     "algorithmversion": "primalscheme2:1.0.0",
@@ -174,6 +201,7 @@
                         "quick lab"
                     ],
                     "citations": [],
+
                     "info_json_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v5.2.0/info.json",
                     "license": "CC-BY-4.0",
                     "primer_bed_md5": "6de462d8ffffcfb2aa37f7eeb205d94b",
@@ -184,6 +212,7 @@
                     "species": [
                         2697049
                     ],
+
                     "status": "deprecated"
                 },
                 "v5.3.2": {
@@ -194,6 +223,7 @@
                         "bccdc"
                     ],
                     "citations": [],
+
                     "info_json_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v5.3.2/info.json",
                     "license": "CC-BY-4.0",
                     "primer_bed_md5": "722d56c381bf301aa9c5ae8721c78063",
@@ -204,6 +234,7 @@
                     "species": [
                         2697049
                     ],
+
                     "status": "validated"
                 }
             }
