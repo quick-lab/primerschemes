@@ -56,11 +56,11 @@ def parse_version(
     # Check the hashes in the config.json file match the generated hashes
     if version_dict["primer_bed_md5"] != info_dict["primer_bed_md5"]:
         raise ValueError(
-            f"Hash mismatch for {version_dict['primer.bed.url']}. Expected {version_dict['primer_bed_md5']} but got {info_dict['primer_bed_md5']}"
+            f"Hash mismatch for {version_dict['primer_bed_md5']}. Expected {version_dict['primer_bed_md5']} but got {info_dict['primer_bed_md5']}"
         )
     if version_dict["reference_fasta_md5"] != info_dict["reference_fasta_md5"]:
         raise ValueError(
-            f"Hash mismatch for {version_dict['reference.fasta.url']}. Expected {version_dict['reference_fasta_md5']} but got {info_dict['reference_fasta_md5']}"
+            f"Hash mismatch for {version_dict['reference_fasta_md5']}. Expected {version_dict['reference_fasta_md5']} but got {info_dict['reference_fasta_md5']}"
         )
 
     return version_dict
