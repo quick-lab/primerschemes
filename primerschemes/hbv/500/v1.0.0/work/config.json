@@ -31,7 +31,7 @@
     "npools": 2,
     "plot": true,
     "primaldigest_version": "1.1.2",
-    "primer.bed.md5": "f1874f2b2332dff4b4cd6f0075f128dd",
+    "primer_bed_md5": "f1874f2b2332dff4b4cd6f0075f128dd",
     "primer_gc_max": 55,
     "primer_gc_min": 30,
     "primer_hairpin_th_max": 47.0,

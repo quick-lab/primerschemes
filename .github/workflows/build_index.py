@@ -2,22 +2,6 @@ import pathlib
 import json
 import sys
 import hashlib
-from enum import Enum
-import itertools
-
-"""
-Version Schema
-
-requires an info.json in the version directory
-{
-    "ampliconsize": 100,
-    "schemeversion": "v1.0.0",
-    "schemename": "scheme_name",
-    "primer.bed.md5": "md5",
-    "reference.fasta.md5": "md5",
-}
-
-"""
 
 
 def hashfile(fname):
@@ -46,36 +30,37 @@ def parse_version(
     version_dict["status"] = info_dict["status"]
     version_dict["authors"] = info_dict["authors"]
     version_dict["citations"] = info_dict["citations"]
+    version_dict["species"] = info_dict["species"]
+    version_dict["license"] = info_dict["license"]
+    version_dict["primerclass"] = info_dict["primerclass"]
 
     # Add the primer.bed file
     primerbed = version_path / "primer.bed"
-    version_dict["primer.bed.url"] = create_rawlink(
+    version_dict["primer_bed_url"] = create_rawlink(
         repo_url, scheme_name, length, version.name, primerbed.name, pclass
     )
-    version_dict["primer.bed.md5"] = hashfile(primerbed)
+    version_dict["primer_bed_md5"] = hashfile(primerbed)
 
     # Add the reference.fasta file
     reference = version_path / "reference.fasta"
-    version_dict["reference.fasta.url"] = create_rawlink(
+    version_dict["reference_fasta_url"] = create_rawlink(
         repo_url, scheme_name, length, version.name, reference.name, pclass
     )
-    version_dict["reference.fasta.md5"] = hashfile(reference)
+    version_dict["reference_fasta_md5"] = hashfile(reference)
 
-    # Add the config.json file
-    config = version_path / "work/config.json"
-    version_dict["config.json.url"] = create_rawlink(
-        repo_url, scheme_name, length, version.name, "work/config.json", pclass
+    # Add the info.json file url
+    version_dict["info_json_url"] = create_rawlink(
+        repo_url, scheme_name, length, version.name, "info.json", pclass
     )
-    version_dict["config.json.md5"] = hashfile(config)
 
     # Check the hashes in the config.json file match the generated hashes
-    if version_dict["primer.bed.md5"] != info_dict["primer.bed.md5"]:
+    if version_dict["primer_bed_md5"] != info_dict["primer_bed_md5"]:
         raise ValueError(
-            f"Hash mismatch for {version_dict['primer.bed.url']}. Expected {version_dict['primer.bed.md5']} but got {info_dict['primer.bed.md5']}"
+            f"Hash mismatch for {version_dict['primer.bed.url']}. Expected {version_dict['primer_bed_md5']} but got {info_dict['primer_bed_md5']}"
         )
-    if version_dict["reference.fasta.md5"] != info_dict["reference.fasta.md5"]:
+    if version_dict["reference_fasta_md5"] != info_dict["reference_fasta_md5"]:
         raise ValueError(
-            f"Hash mismatch for {version_dict['reference.fasta.url']}. Expected {version_dict['reference.fasta.md5']} but got {info_dict['reference.fasta.md5']}"
+            f"Hash mismatch for {version_dict['reference.fasta.url']}. Expected {version_dict['reference_fasta_md5']} but got {info_dict['reference_fasta_md5']}"
         )
 
     return version_dict
@@ -154,10 +139,10 @@ def check_consistency(existing_json, new_json):
     for path in intersection:
         # Check that the reference hashes are the same
         existing_ref_hash = existing_json[path[0]][path[1]][path[2]][path[3]][
-            "reference.fasta.md5"
+            "reference_fasta_md5"
         ]
         new_ref_hash = new_json[path[0]][path[1]][path[2]][path[3]][
-            "reference.fasta.md5"
+            "reference_fasta_md5"
         ]
         if existing_ref_hash != new_ref_hash:
             raise ValueError(
@@ -166,9 +151,9 @@ def check_consistency(existing_json, new_json):
 
         # Check that the primer.bed hashes are the same
         existing_bed_hash = existing_json[path[0]][path[1]][path[2]][path[3]][
-            "primer.bed.md5"
+            "primer_bed_md5"
         ]
-        new_bed_hash = new_json[path[0]][path[1]][path[2]][path[3]]["primer.bed.md5"]
+        new_bed_hash = new_json[path[0]][path[1]][path[2]][path[3]]["primer_bed_md5"]
         if existing_ref_hash != new_ref_hash:
             raise ValueError(
                 f"Hash changed for {path[0]}/{path[1]}/{path[2]}/{path[3]}/primer.bed. Expected {existing_bed_hash} but got {new_bed_hash}"
