@@ -1,30 +1,36 @@
 # sars-cov-2 400bp v4.1.0
 
+## Description
+
+Schemes generated for the SARs-CoV-2 Outbreak
+
 ## Overviews
 
 ## Details
 
 ```json
 {
-    "algorithmversion": "primalscheme1:1.0.0",
     "ampliconsize": 400,
+    "schemeversion": "v4.1.0",
+    "schemename": "sars-cov-2",
+    "primer_bed_md5": "98ffdb9c0e31f2c1c819c7a4d2c8a048",
+    "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
+    "status": "deprecated",
+    "citations": [
+        "https://doi.org/10.1038/nprot.2017.066"
+    ],
     "authors": [
         "quick lab",
         "artic network"
     ],
-    "citations": [],
-    "primer.bed.md5": "98ffdb9c0e31f2c1c819c7a4d2c8a048",
-    "reference.fasta.md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
-    "schemename": "sars-cov-2",
-    "schemeversion": "v4.1.0",
-    "status": "deprecated"
+    "algorithmversion": "primalscheme1:1.0.0",
+    "species": [
+        2697049
+    ],
+    "license": "CC-BY-4.0",
+    "primerclass": "primerschemes",
+    "infoschema": "v1.0.0",
+    "description": "Schemes generated for the SARs-CoV-2 Outbreak"
 }
 ```
 
-
-
-------------------------------------------------------------------------
-
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) 
-
-![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)

@@ -6,8 +6,8 @@
         "quick.lab"
     ],
     "citation": "na",
-    "primer.bed.md5": "6de462d8ffffcfb2aa37f7eeb205d94b",
-    "reference.fasta.md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
+    "primer_bed_md5": "6de462d8ffffcfb2aa37f7eeb205d94b",
+    "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
     "schemename": "sars-cov-2",
     "schemeversion": "v5.2.0",
     "validated": true
