@@ -10,12 +10,16 @@
                         "artic network"
                     ],
                     "citations": [],
-                    "config.json.md5": "4137d7ad6f0cc949be434fdb3480eef9",
-                    "config.json.url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/hbv/500/v1.0.0/work/config.json",
+                    "info_json_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/hbv/500/v1.0.0/info.json",
+                    "license": "CC-BY-4.0",
                     "primer_bed_md5": "f1874f2b2332dff4b4cd6f0075f128dd",
                     "primer_bed_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/hbv/500/v1.0.0/primer.bed",
+                    "primerclass": "primerschemes",
                     "reference_fasta_md5": "7612eab3e2389215206ae17187da1791",
                     "reference_fasta_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/hbv/500/v1.0.0/reference.fasta",
+                    "species": [
+                        10407
+                    ],
                     "status": "draft"
                 },
                 "v1.1.0": {
@@ -25,12 +29,16 @@
                         "artic network"
                     ],
                     "citations": [],
-                    "config.json.md5": "6c9ffb3f43cff3f19a484c58de623b2d",
-                    "config.json.url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/hbv/500/v1.1.0/work/config.json",
+                    "info_json_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/hbv/500/v1.1.0/info.json",
+                    "license": "CC-BY-4.0",
                     "primer_bed_md5": "dd96ade2e5c59377808368cc116a8361",
                     "primer_bed_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/hbv/500/v1.1.0/primer.bed",
+                    "primerclass": "primerschemes",
                     "reference_fasta_md5": "7612eab3e2389215206ae17187da1791",
                     "reference_fasta_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/hbv/500/v1.1.0/reference.fasta",
+                    "species": [
+                        10407
+                    ],
                     "status": "draft"
                 }
             }
@@ -43,13 +51,19 @@
                         "quick lab",
                         "artic network"
                     ],
-                    "citations": [],
-                    "config.json.md5": "8770bbec9c990777ba37e29ab3faaf24",
-                    "config.json.url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v1.0.0/work/config.json",
+                    "citations": [
+                        "https://doi.org/10.1038/nprot.2017.066"
+                    ],
+                    "info_json_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v1.0.0/info.json",
+                    "license": "CC-BY-4.0",
                     "primer_bed_md5": "907d8d0e3efecd82e07120eda2b70d89",
                     "primer_bed_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v1.0.0/primer.bed",
+                    "primerclass": "primerschemes",
                     "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
                     "reference_fasta_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v1.0.0/reference.fasta",
+                    "species": [
+                        2697049
+                    ],
                     "status": "deprecated"
                 },
                 "v2.0.0": {
@@ -58,28 +72,40 @@
                         "quick lab",
                         "artic network"
                     ],
-                    "citations": [],
-                    "config.json.md5": "3ec0f600db89844c0740f3579878db0a",
-                    "config.json.url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v2.0.0/work/config.json",
+                    "citations": [
+                        "https://doi.org/10.1038/nprot.2017.066"
+                    ],
+                    "info_json_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v2.0.0/info.json",
+                    "license": "CC-BY-4.0",
                     "primer_bed_md5": "c9916963e43951541e8a11274e0ac0df",
                     "primer_bed_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v2.0.0/primer.bed",
+                    "primerclass": "primerschemes",
                     "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
                     "reference_fasta_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v2.0.0/reference.fasta",
+                    "species": [
+                        2697049
+                    ],
                     "status": "deprecated"
                 },
                 "v3.0.0": {
                     "algorithmversion": "primalscheme1:1.0.0",
                     "authors": [
-                        "quick lab",
-                        "artic network"
+                        "artic network",
+                        "quick lab"
                     ],
-                    "citations": [],
-                    "config.json.md5": "65df78e6cddf16490e059c968ef6360b",
-                    "config.json.url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v3.0.0/work/config.json",
+                    "citations": [
+                        "https://doi.org/10.1038/nprot.2017.066"
+                    ],
+                    "info_json_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v3.0.0/info.json",
+                    "license": "CC-BY-4.0",
                     "primer_bed_md5": "03e1c3eecc21bdb66a4bec990e0225cc",
                     "primer_bed_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v3.0.0/primer.bed",
+                    "primerclass": "primerschemes",
                     "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
                     "reference_fasta_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v3.0.0/reference.fasta",
+                    "species": [
+                        2697049
+                    ],
                     "status": "deprecated"
                 },
                 "v4.0.0": {
@@ -89,12 +115,16 @@
                         "artic network"
                     ],
                     "citations": [],
-                    "config.json.md5": "808f4d8539869329a3a0c6fedb059235",
-                    "config.json.url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v4.0.0/work/config.json",
+                    "info_json_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v4.0.0/info.json",
+                    "license": "CC-BY-4.0",
                     "primer_bed_md5": "6c42c61f304702adc6c550ad0941ed6f",
                     "primer_bed_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v4.0.0/primer.bed",
+                    "primerclass": "primerschemes",
                     "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
                     "reference_fasta_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v4.0.0/reference.fasta",
+                    "species": [
+                        2697049
+                    ],
                     "status": "deprecated"
                 },
                 "v4.1.0": {
@@ -103,13 +133,19 @@
                         "quick lab",
                         "artic network"
                     ],
-                    "citations": [],
-                    "config.json.md5": "467c9c6db43dd814090094113f46a979",
-                    "config.json.url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v4.1.0/work/config.json",
+                    "citations": [
+                        "https://doi.org/10.1038/nprot.2017.066"
+                    ],
+                    "info_json_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v4.1.0/info.json",
+                    "license": "CC-BY-4.0",
                     "primer_bed_md5": "98ffdb9c0e31f2c1c819c7a4d2c8a048",
                     "primer_bed_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v4.1.0/primer.bed",
+                    "primerclass": "primerschemes",
                     "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
                     "reference_fasta_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v4.1.0/reference.fasta",
+                    "species": [
+                        2697049
+                    ],
                     "status": "deprecated"
                 },
                 "v5.0.0": {
@@ -119,43 +155,55 @@
                         "artic network"
                     ],
                     "citations": [],
-                    "config.json.md5": "28512fe735517c6746f75396522cfe8b",
-                    "config.json.url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v5.0.0/work/config.json",
+                    "info_json_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v5.0.0/info.json",
+                    "license": "CC-BY-4.0",
                     "primer_bed_md5": "6292814b0ec248605c72707d34dda1eb",
                     "primer_bed_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v5.0.0/primer.bed",
+                    "primerclass": "primerschemes",
                     "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
                     "reference_fasta_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v5.0.0/reference.fasta",
+                    "species": [
+                        2697049
+                    ],
                     "status": "deprecated"
                 },
                 "v5.2.0": {
                     "algorithmversion": "primalscheme2:1.0.0",
                     "authors": [
-                        "quick lab",
-                        "artic network"
+                        "artic network",
+                        "quick lab"
                     ],
                     "citations": [],
-                    "config.json.md5": "ba8e6c0af962ae492782c2c7025fe8f5",
-                    "config.json.url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v5.2.0/work/config.json",
+                    "info_json_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v5.2.0/info.json",
+                    "license": "CC-BY-4.0",
                     "primer_bed_md5": "6de462d8ffffcfb2aa37f7eeb205d94b",
                     "primer_bed_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v5.2.0/primer.bed",
+                    "primerclass": "primerschemes",
                     "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
                     "reference_fasta_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v5.2.0/reference.fasta",
+                    "species": [
+                        2697049
+                    ],
                     "status": "deprecated"
                 },
                 "v5.3.2": {
                     "algorithmversion": "primalscheme2:1.0.0",
                     "authors": [
-                        "quick lab",
                         "artic network",
+                        "quick lab",
                         "bccdc"
                     ],
                     "citations": [],
-                    "config.json.md5": "fccf238204f6873bc83833ae345d877a",
-                    "config.json.url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v5.3.2/work/config.json",
+                    "info_json_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v5.3.2/info.json",
+                    "license": "CC-BY-4.0",
                     "primer_bed_md5": "722d56c381bf301aa9c5ae8721c78063",
                     "primer_bed_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v5.3.2/primer.bed",
+                    "primerclass": "primerschemes",
                     "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
                     "reference_fasta_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v5.3.2/reference.fasta",
+                    "species": [
+                        2697049
+                    ],
                     "status": "validated"
                 }
             }
