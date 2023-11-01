@@ -5,6 +5,7 @@
             "500": {
                 "v1.0.0": {
                     "algorithmversion": "primaldigest:1.1.2",
+                    "ampliconsize": 500,
                     "authors": [
                         "quick lab",
                         "artic network"
@@ -17,6 +18,8 @@
                     "primerclass": "primerschemes",
                     "reference_fasta_md5": "7612eab3e2389215206ae17187da1791",
                     "reference_fasta_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/hbv/500/v1.0.0/reference.fasta",
+                    "schemename": "hbv",
+                    "schemeversion": "v1.0.0",
                     "species": [
                         10407
                     ],
@@ -24,6 +27,7 @@
                 },
                 "v1.1.0": {
                     "algorithmversion": "primaldigest:1.1.3",
+                    "ampliconsize": 500,
                     "authors": [
                         "quick lab",
                         "artic network"
@@ -36,6 +40,8 @@
                     "primerclass": "primerschemes",
                     "reference_fasta_md5": "7612eab3e2389215206ae17187da1791",
                     "reference_fasta_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/hbv/500/v1.1.0/reference.fasta",
+                    "schemename": "hbv",
+                    "schemeversion": "v1.1.0",
                     "species": [
                         10407
                     ],
@@ -47,6 +53,7 @@
             "400": {
                 "v1.0.0": {
                     "algorithmversion": "primalscheme1:1.0.0",
+                    "ampliconsize": 400,
                     "authors": [
                         "quick lab",
                         "artic network"
@@ -61,6 +68,8 @@
                     "primerclass": "primerschemes",
                     "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
                     "reference_fasta_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v1.0.0/reference.fasta",
+                    "schemename": "sars-cov-2",
+                    "schemeversion": "v1.0.0",
                     "species": [
                         2697049
                     ],
@@ -68,6 +77,7 @@
                 },
                 "v2.0.0": {
                     "algorithmversion": "primalscheme1:1.0.0",
+                    "ampliconsize": 400,
                     "authors": [
                         "quick lab",
                         "artic network"
@@ -82,6 +92,8 @@
                     "primerclass": "primerschemes",
                     "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
                     "reference_fasta_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v2.0.0/reference.fasta",
+                    "schemename": "sars-cov-2",
+                    "schemeversion": "v2.0.0",
                     "species": [
                         2697049
                     ],
@@ -89,6 +101,7 @@
                 },
                 "v3.0.0": {
                     "algorithmversion": "primalscheme1:1.0.0",
+                    "ampliconsize": 400,
                     "authors": [
                         "artic network",
                         "quick lab"
@@ -103,6 +116,8 @@
                     "primerclass": "primerschemes",
                     "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
                     "reference_fasta_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v3.0.0/reference.fasta",
+                    "schemename": "sars-cov-2",
+                    "schemeversion": "v3.0.0",
                     "species": [
                         2697049
                     ],
@@ -110,6 +125,7 @@
                 },
                 "v4.0.0": {
                     "algorithmversion": "primalscheme1:1.0.0",
+                    "ampliconsize": 400,
                     "authors": [
                         "quick lab",
                         "artic network"
@@ -122,6 +138,8 @@
                     "primerclass": "primerschemes",
                     "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
                     "reference_fasta_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v4.0.0/reference.fasta",
+                    "schemename": "sars-cov-2",
+                    "schemeversion": "v4.0.0",
                     "species": [
                         2697049
                     ],
@@ -129,6 +147,7 @@
                 },
                 "v4.1.0": {
                     "algorithmversion": "primalscheme1:1.0.0",
+                    "ampliconsize": 400,
                     "authors": [
                         "quick lab",
                         "artic network"
@@ -143,6 +162,8 @@
                     "primerclass": "primerschemes",
                     "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
                     "reference_fasta_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v4.1.0/reference.fasta",
+                    "schemename": "sars-cov-2",
+                    "schemeversion": "v4.1.0",
                     "species": [
                         2697049
                     ],
@@ -150,6 +171,7 @@
                 },
                 "v5.0.0": {
                     "algorithmversion": "primalscheme2:1.0.0",
+                    "ampliconsize": 400,
                     "authors": [
                         "quick lab",
                         "artic network"
@@ -162,6 +184,8 @@
                     "primerclass": "primerschemes",
                     "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
                     "reference_fasta_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v5.0.0/reference.fasta",
+                    "schemename": "sars-cov-2",
+                    "schemeversion": "v5.0.0",
                     "species": [
                         2697049
                     ],
@@ -169,6 +193,7 @@
                 },
                 "v5.2.0": {
                     "algorithmversion": "primalscheme2:1.0.0",
+                    "ampliconsize": 400,
                     "authors": [
                         "artic network",
                         "quick lab"
@@ -181,6 +206,8 @@
                     "primerclass": "primerschemes",
                     "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
                     "reference_fasta_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v5.2.0/reference.fasta",
+                    "schemename": "sars-cov-2",
+                    "schemeversion": "v5.2.0",
                     "species": [
                         2697049
                     ],
@@ -188,6 +215,7 @@
                 },
                 "v5.3.2": {
                     "algorithmversion": "primalscheme2:1.0.0",
+                    "ampliconsize": 400,
                     "authors": [
                         "artic network",
                         "quick lab",
@@ -201,6 +229,8 @@
                     "primerclass": "primerschemes",
                     "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
                     "reference_fasta_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/sars-cov-2/400/v5.3.2/reference.fasta",
+                    "schemename": "sars-cov-2",
+                    "schemeversion": "v5.3.2",
                     "species": [
                         2697049
                     ],
