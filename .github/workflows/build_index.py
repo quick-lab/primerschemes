@@ -33,7 +33,11 @@ def parse_version(
     version_dict["species"] = info_dict["species"]
     version_dict["license"] = info_dict["license"]
     version_dict["primerclass"] = info_dict["primerclass"]
+    version_dict["schemename"] = info_dict["schemename"]
+    version_dict["schemeversion"] = info_dict["schemeversion"]
+    version_dict["ampliconsize"] = info_dict["ampliconsize"]
 
+    
     # Add the primer.bed file
     primerbed = version_path / "primer.bed"
     version_dict["primer_bed_url"] = create_rawlink(
