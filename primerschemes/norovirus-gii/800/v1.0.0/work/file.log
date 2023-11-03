@@ -1,0 +1,16 @@
+2023-11-03 at 09:50:40 | INFO | Creating the Mismatch Database
+2023-11-03 at 09:51:38 | INFO | Created: /Users/kentcg/schemes/Norovirus/gii/gii-800-0.02-v2/work/mismatch.db
+2023-11-03 at 09:51:40 | WARNING | WARNING: Having a '/' in the chromname NC_044932.1/1-7525 will cause issues with figure generation bedfile output. Parsing chromname NC_044932.1/1-7525 -> NC_044932.1
+2023-11-03 at 09:51:40 | INFO | Read in MSA: gii.align.mod	seqs:2832	cols:8522
+2023-11-03 at 10:04:07 | INFO | gii.align.mod: digested to 632 FKmers and 558 RKmers
+2023-11-03 at 10:04:08 | INFO | gii.align.mod: Generated 6587 possible amplicons
+2023-11-03 at 10:04:08 | INFO | Added first amplicon for gii.align.mod: 60	931	1
+2023-11-03 at 10:04:08 | INFO | Added overlapping amplicon for gii.align.mod: 845	1757	2
+2023-11-03 at 10:04:08 | INFO | Added overlapping amplicon for gii.align.mod: 1345	2248	1
+2023-11-03 at 10:04:08 | INFO | Added overlapping amplicon for gii.align.mod: 2157	3056	2
+2023-11-03 at 10:04:08 | INFO | Added overlapping amplicon for gii.align.mod: 2929	3837	1
+2023-11-03 at 10:04:09 | INFO | Added overlapping amplicon for gii.align.mod: 3737	4595	2
+2023-11-03 at 10:04:09 | INFO | Added overlapping amplicon for gii.align.mod: 4330	5096	1
+2023-11-03 at 10:04:09 | INFO | Added overlapping amplicon for gii.align.mod: 4936	5833	2
+2023-11-03 at 10:04:09 | INFO | Added overlapping amplicon for gii.align.mod: 5688	6584	1
+2023-11-03 at 10:04:09 | INFO | Writting output files
