@@ -58,6 +58,32 @@
                         "artic network"
                     ],
                     "citations": [],
+                    "info_json_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/norovirus-gii/800/v1.0.0/info.json",
+                    "license": "CC BY-SA 4.0",
+                    "primer_bed_md5": "3191ec8a80f14a5688d561fe2cf77e34",
+                    "primer_bed_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/norovirus-gii/800/v1.0.0/primer.bed",
+                    "primerclass": "primerschemes",
+                    "reference_fasta_md5": "88cba0415494cd9837e2523051cb636f",
+                    "reference_fasta_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/norovirus-gii/800/v1.0.0/reference.fasta",
+                    "schemename": "norovirus-gii",
+                    "schemeversion": "v1.0.0",
+                    "species": [
+                        122929
+                    ],
+                    "status": "draft"
+                }
+            }
+        },
+        "norovirus-gii": {
+            "800": {
+                "v1.0.0": {
+                    "algorithmversion": "primaldigest:1.2.2",
+                    "ampliconsize": 800,
+                    "authors": [
+                        "quick lab",
+                        "artic network"
+                    ],
+                    "citations": [],
                     "info_json_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/norovirus-gii/800/v1.0.0/info.json",
                     "license": "CC BY-SA 4.0",
                     "primer_bed_md5": "3191ec8a80f14a5688d561fe2cf77e34",
