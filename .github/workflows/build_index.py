@@ -37,7 +37,6 @@ def parse_version(
     version_dict["schemeversion"] = info_dict["schemeversion"]
     version_dict["ampliconsize"] = info_dict["ampliconsize"]
 
-    
     # Add the primer.bed file
     primerbed = version_path / "primer.bed"
     version_dict["primer_bed_url"] = create_rawlink(
@@ -168,7 +167,9 @@ def create_index(server_url, repo_url):
     # For any Scheme, we can generate a JSON file with the following format:
     json_dict = dict()
     # Parse panels and schemes
-    pclasses = ["primerschemes", "primerpanels"]
+    pclasses = [
+        "primerschemes",
+    ]
     for pclass in pclasses:
         # Create a dict to hold all the pclass data
         pclass_dict = dict()
