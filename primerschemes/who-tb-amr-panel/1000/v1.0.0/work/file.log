@@ -1,0 +1,154 @@
+2023-11-01 at 16:58:49 | INFO | Creating the Mismatch Database
+2023-11-01 at 16:59:08 | INFO | Created: /Users/kentcg/schemes/tb/all_snps_1000_14/work/mismatch.db
+2023-11-01 at 16:59:08 | INFO | Mapped (1388) regions. Failed to map (0) regions
+2023-11-01 at 16:59:17 | INFO | Read in MSA: NC_000962.3.fasta	seqs:1	cols:4411532
+2023-11-01 at 16:59:36 | INFO | NC_000962.3: regions digested to 30392 FKmers and 30859 RKmers
+2023-11-01 at 17:01:04 | INFO | NC_000962.3: Generated 4363092 possible amplicons
+2023-11-01 at 17:01:17 | INFO | Added amplicon (1) for NC_000962.3.fasta: 2288272	2289291
+2023-11-01 at 17:01:22 | INFO | Added amplicon (2) for NC_000962.3.fasta: 4407337	4408355
+2023-11-01 at 17:01:27 | INFO | Added amplicon (3) for NC_000962.3.fasta: 4326556	4327556
+2023-11-01 at 17:01:32 | INFO | Added amplicon (4) for NC_000962.3.fasta: 760369	761388
+2023-11-01 at 17:01:37 | INFO | Added amplicon (5) for NC_000962.3.fasta: 4325409	4326392
+2023-11-01 at 17:01:42 | INFO | Added amplicon (6) for NC_000962.3.fasta: 2154299	2155316
+2023-11-01 at 17:01:46 | INFO | Added amplicon (7) for NC_000962.3.fasta: 2155320	2156339
+2023-11-01 at 17:01:51 | INFO | Added amplicon (8) for NC_000962.3.fasta: 1917882	1918902
+2023-11-01 at 17:01:56 | INFO | Added amplicon (9) for NC_000962.3.fasta: 2153329	2154298
+2023-11-01 at 17:02:01 | INFO | Added amplicon (10) for NC_000962.3.fasta: 6679	7699
+2023-11-01 at 17:02:07 | INFO | Added amplicon (11) for NC_000962.3.fasta: 4247150	4248169
+2023-11-01 at 17:02:12 | INFO | Added amplicon (12) for NC_000962.3.fasta: 780841	781863
+2023-11-01 at 17:02:17 | INFO | Added amplicon (13) for NC_000962.3.fasta: 1472292	1473312
+2023-11-01 at 17:02:22 | INFO | Added amplicon (14) for NC_000962.3.fasta: 5650	6670
+2023-11-01 at 17:02:27 | INFO | Added amplicon (15) for NC_000962.3.fasta: 4245888	4246905
+2023-11-01 at 17:02:33 | INFO | Added amplicon (16) for NC_000962.3.fasta: 2714709	2715729
+2023-11-01 at 17:02:38 | INFO | Added amplicon (17) for NC_000962.3.fasta: 764370	765389
+2023-11-01 at 17:02:43 | INFO | Added amplicon (18) for NC_000962.3.fasta: 1673881	1674904
+2023-11-01 at 17:02:47 | INFO | Added amplicon (19) for NC_000962.3.fasta: 4242591	4243564
+2023-11-01 at 17:02:52 | INFO | Added amplicon (20) for NC_000962.3.fasta: 8703	9724
+2023-11-01 at 17:02:57 | INFO | Added amplicon (21) for NC_000962.3.fasta: 1416175	1417195
+2023-11-01 at 17:03:01 | INFO | Added amplicon (22) for NC_000962.3.fasta: 800482	801506
+2023-11-01 at 17:03:06 | INFO | Added amplicon (23) for NC_000962.3.fasta: 3986311	3987329
+2023-11-01 at 17:03:10 | INFO | Added amplicon (24) for NC_000962.3.fasta: 4238519	4239539
+2023-11-01 at 17:03:14 | INFO | Added amplicon (25) for NC_000962.3.fasta: 4268377	4269397
+2023-11-01 at 17:03:18 | INFO | Added amplicon (26) for NC_000962.3.fasta: 763221	764241
+2023-11-01 at 17:03:23 | INFO | Added amplicon (27) for NC_000962.3.fasta: 4240737	4241757
+2023-11-01 at 17:03:27 | INFO | Added amplicon (28) for NC_000962.3.fasta: 759349	760368
+2023-11-01 at 17:03:31 | INFO | Added amplicon (29) for NC_000962.3.fasta: 4248795	4249814
+2023-11-01 at 17:03:36 | INFO | Added amplicon (30) for NC_000962.3.fasta: 7704	8689
+2023-11-01 at 17:03:44 | INFO | Added amplicon (31) for NC_000962.3.fasta: 615141	616158
+2023-11-01 at 17:03:48 | INFO | Added amplicon (32) for NC_000962.3.fasta: 762059	763080
+2023-11-01 at 17:03:52 | INFO | Added amplicon (33) for NC_000962.3.fasta: 1501271	1502292
+2023-11-01 at 17:03:56 | INFO | Added amplicon (34) for NC_000962.3.fasta: 2101420	2102439
+2023-11-01 at 17:04:00 | INFO | Added amplicon (35) for NC_000962.3.fasta: 3836065	3837089
+2023-11-01 at 17:04:04 | INFO | Added amplicon (36) for NC_000962.3.fasta: 4244306	4245326
+2023-11-01 at 17:04:08 | INFO | Added amplicon (37) for NC_000962.3.fasta: 4239565	4240583
+2023-11-01 at 17:04:12 | INFO | Added amplicon (38) for NC_000962.3.fasta: 1834046	1835066
+2023-11-01 at 17:04:22 | INFO | Added amplicon (39) for NC_000962.3.fasta: 403194	404214
+2023-11-01 at 17:04:26 | INFO | Added amplicon (40) for NC_000962.3.fasta: 1880827	1881848
+2023-11-01 at 17:04:29 | INFO | Added amplicon (41) for NC_000962.3.fasta: 2873954	2874979
+2023-11-01 at 17:04:33 | INFO | Added amplicon (42) for NC_000962.3.fasta: 3020701	3021726
+2023-11-01 at 17:04:37 | INFO | Added amplicon (43) for NC_000962.3.fasta: 106998	108019
+2023-11-01 at 17:04:40 | INFO | Added amplicon (44) for NC_000962.3.fasta: 782659	783679
+2023-11-01 at 17:04:44 | INFO | Added amplicon (45) for NC_000962.3.fasta: 890796	891820
+2023-11-01 at 17:04:48 | INFO | Added amplicon (46) for NC_000962.3.fasta: 930763	931783
+2023-11-01 at 17:04:51 | INFO | Added amplicon (47) for NC_000962.3.fasta: 2725778	2726797
+2023-11-01 at 17:04:55 | INFO | Added amplicon (48) for NC_000962.3.fasta: 3216478	3217500
+2023-11-01 at 17:04:59 | INFO | Added amplicon (49) for NC_000962.3.fasta: 3469832	3470856
+2023-11-01 at 17:05:02 | INFO | Added amplicon (50) for NC_000962.3.fasta: 3569646	3570666
+2023-11-01 at 17:05:06 | INFO | Added amplicon (51) for NC_000962.3.fasta: 4124417	4125436
+2023-11-01 at 17:05:09 | INFO | Added amplicon (52) for NC_000962.3.fasta: 61800	62823
+2023-11-01 at 17:05:13 | INFO | Added amplicon (53) for NC_000962.3.fasta: 346055	347075
+2023-11-01 at 17:05:17 | INFO | Added amplicon (54) for NC_000962.3.fasta: 354441	355462
+2023-11-01 at 17:05:20 | INFO | Added amplicon (55) for NC_000962.3.fasta: 497354	498374
+2023-11-01 at 17:05:24 | INFO | Added amplicon (56) for NC_000962.3.fasta: 540641	541665
+2023-11-01 at 17:05:28 | INFO | Added amplicon (57) for NC_000962.3.fasta: 766115	767138
+2023-11-01 at 17:05:31 | INFO | Added amplicon (58) for NC_000962.3.fasta: 874329	875352
+2023-11-01 at 17:05:35 | INFO | Added amplicon (59) for NC_000962.3.fasta: 1131861	1132880
+2023-11-01 at 17:05:39 | INFO | Added amplicon (60) for NC_000962.3.fasta: 1237127	1238147
+2023-11-01 at 17:05:42 | INFO | Added amplicon (61) for NC_000962.3.fasta: 1487757	1488777
+2023-11-01 at 17:05:46 | INFO | Added amplicon (62) for NC_000962.3.fasta: 1815669	1816688
+2023-11-01 at 17:05:50 | INFO | Added amplicon (63) for NC_000962.3.fasta: 2622333	2623356
+2023-11-01 at 17:05:53 | INFO | Added amplicon (64) for NC_000962.3.fasta: 3478563	3479583
+2023-11-01 at 17:05:57 | INFO | Added amplicon (65) for NC_000962.3.fasta: 3513042	3514064
+2023-11-01 at 17:06:01 | INFO | Added amplicon (66) for NC_000962.3.fasta: 3721755	3722777
+2023-11-01 at 17:06:05 | INFO | Added amplicon (67) for NC_000962.3.fasta: 4397736	4398756
+2023-11-01 at 17:06:08 | INFO | Added amplicon (68) for NC_000962.3.fasta: 514195	515217
+2023-11-01 at 17:06:12 | INFO | Added amplicon (69) for NC_000962.3.fasta: 1084756	1085774
+2023-11-01 at 17:06:16 | INFO | Added amplicon (70) for NC_000962.3.fasta: 1137449	1138467
+2023-11-01 at 17:06:19 | INFO | Added amplicon (71) for NC_000962.3.fasta: 1455059	1456080
+2023-11-01 at 17:06:23 | INFO | Added amplicon (72) for NC_000962.3.fasta: 1758339	1759363
+2023-11-01 at 17:06:27 | INFO | Added amplicon (73) for NC_000962.3.fasta: 1849197	1850218
+2023-11-01 at 17:06:31 | INFO | Added amplicon (74) for NC_000962.3.fasta: 2410864	2411883
+2023-11-01 at 17:06:34 | INFO | Added amplicon (75) for NC_000962.3.fasta: 2504100	2505119
+2023-11-01 at 17:06:38 | INFO | Added amplicon (76) for NC_000962.3.fasta: 2518545	2519567
+2023-11-01 at 17:06:42 | INFO | Added amplicon (77) for NC_000962.3.fasta: 2875070	2876090
+2023-11-01 at 17:06:45 | INFO | Added amplicon (78) for NC_000962.3.fasta: 3976938	3977960
+2023-11-01 at 17:06:49 | INFO | Added amplicon (79) for NC_000962.3.fasta: 4151302	4152319
+2023-11-01 at 17:06:53 | INFO | Added amplicon (80) for NC_000962.3.fasta: 4228238	4229258
+2023-11-01 at 17:06:56 | INFO | Added amplicon (81) for NC_000962.3.fasta: 4307427	4308450
+2023-11-01 at 17:07:00 | INFO | Added amplicon (82) for NC_000962.3.fasta: 4315724	4316749
+2023-11-01 at 17:07:04 | INFO | Added amplicon (83) for NC_000962.3.fasta: 4403432	4404451
+2023-11-01 at 17:07:07 | INFO | Added amplicon (84) for NC_000962.3.fasta: 1490360	1491381
+2023-11-01 at 17:07:11 | INFO | Added amplicon (85) for NC_000962.3.fasta: 2102635	2103655
+2023-11-01 at 17:07:15 | INFO | Added amplicon (86) for NC_000962.3.fasta: 2693693	2694710
+2023-11-01 at 17:07:19 | INFO | Added amplicon (87) for NC_000962.3.fasta: 3272695	3273715
+2023-11-01 at 17:07:22 | INFO | Added amplicon (88) for NC_000962.3.fasta: 3388133	3389150
+2023-11-01 at 17:07:26 | INFO | Added amplicon (89) for NC_000962.3.fasta: 3465441	3466461
+2023-11-01 at 17:07:30 | INFO | Added amplicon (90) for NC_000962.3.fasta: 3514374	3515391
+2023-11-01 at 17:07:34 | INFO | Added amplicon (91) for NC_000962.3.fasta: 796912	797930
+2023-11-01 at 17:07:38 | INFO | Added amplicon (92) for NC_000962.3.fasta: 2830698	2831717
+2023-11-01 at 17:07:42 | INFO | Added amplicon (93) for NC_000962.3.fasta: 4237380	4238395
+2023-11-01 at 17:07:46 | INFO | Added amplicon (94) for NC_000962.3.fasta: 1719188	1720201
+2023-11-01 at 17:07:50 | INFO | Added amplicon (95) for NC_000962.3.fasta: 4327665	4328675
+2023-11-01 at 17:07:54 | INFO | Added amplicon (96) for NC_000962.3.fasta: 1799218	1800230
+2023-11-01 at 17:08:04 | INFO | Added amplicon (97) for NC_000962.3.fasta: 1881989	1882980
+2023-11-01 at 17:08:12 | INFO | Added amplicon (98) for NC_000962.3.fasta: 4259483	4260462
+2023-11-01 at 17:08:41 | INFO | Added amplicon (99) for NC_000962.3.fasta: 4765	5641
+2023-11-01 at 17:09:55 | INFO | Added amplicon (100) for NC_000962.3.fasta: 4241766	4242300
+2023-11-01 at 17:10:02 | INFO | Added amplicon (101) for NC_000962.3.fasta: 4243672	4244167
+2023-11-01 at 17:10:29 | INFO | Added amplicon (102) for NC_000962.3.fasta: 761485	762011
+2023-11-01 at 17:10:29 | INFO | Added amplicon (103) for NC_000962.3.fasta: 4245358	4245886
+2023-11-01 at 17:10:32 | INFO | Added amplicon (104) for NC_000962.3.fasta: 4248258	4248708
+2023-11-01 at 17:10:36 | INFO | No more valid amplicons for NC_000962.3.fasta
+2023-11-01 at 17:10:36 | INFO | All primerpairs added
+2023-11-01 at 17:10:36 | INFO | Finished creating the panel. 104 amplicons created
+2023-11-01 at 17:10:36 | INFO | NC_000962.3.fasta: 104 amplicons
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 1350 covered regions, 38 not covered regions
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4246930:4246931 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326439:4326440 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 1473329:1473330 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 1473329:1473330 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326452:4326455 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326419:4326421 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326399:4326402 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326505:4326555 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326426:4326428 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326426:4326428 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326463:4326465 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326531:4326533 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326480:4326483 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326444:4326445 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326426:4326427 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326439:4326441 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326455:4326459 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326455:4326456 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326418:4326419 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326413:4326415 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326412:4326413 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326401:4326405 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326547:4326549 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326536:4326538 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326534:4326536 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326515:4326549 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326500:4326501 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326435:4326438 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326474:4326524 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326444:4326445 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326441:4326445 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326412:4326417 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326534:4326536 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326529:4326530 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326396:4326399 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326444:4326446 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 4326505:4326506 not covered
+2023-11-01 at 17:10:36 | INFO | NC_000962.3: 1473329:1473330 not covered
+2023-11-01 at 17:10:36 | INFO | Writing outputs...
