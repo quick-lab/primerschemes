@@ -273,13 +273,13 @@
                         "quick lab"
                     ],
                     "citations": [],
-                    "info_json_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/who-tb-amr-panel/1000/v1.0.0/info.json",
+                    "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/who-tb-amr-panel/1000/v1.0.0/info.json",
                     "license": "CC BY-SA 4.0",
                     "primer_bed_md5": "5de2031db0062acbc75b2ad7d3de40f4",
-                    "primer_bed_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/who-tb-amr-panel/1000/v1.0.0/primer.bed",
+                    "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/who-tb-amr-panel/1000/v1.0.0/primer.bed",
                     "primerclass": "primerpanels",
                     "reference_fasta_md5": "77cabd2a9f46614628d15371081ab4a1",
-                    "reference_fasta_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/who-tb-amr-panel/1000/v1.0.0/reference.fasta",
+                    "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/who-tb-amr-panel/1000/v1.0.0/reference.fasta",
                     "schemename": "who-tb-amr-panel",
                     "schemeversion": "v1.0.0",
                     "species": [
