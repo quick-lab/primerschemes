@@ -58,13 +58,13 @@
                         "artic network"
                     ],
                     "citations": [],
-                    "info_json_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/mers-cov/400/v1.0.0/info.json",
+                    "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/mers-cov/400/v1.0.0/info.json",
                     "license": "CC BY-SA 4.0",
                     "primer_bed_md5": "6853274c2b5b338e7616c99bacef63aa",
-                    "primer_bed_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/mers-cov/400/v1.0.0/primer.bed",
+                    "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/mers-cov/400/v1.0.0/primer.bed",
                     "primerclass": "primerschemes",
                     "reference_fasta_md5": "957cb36597491259c943120c55ca57d9",
-                    "reference_fasta_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/mers-cov/400/v1.0.0/reference.fasta",
+                    "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/mers-cov/400/v1.0.0/reference.fasta",
                     "schemename": "mers-cov",
                     "schemeversion": "v1.0.0",
                     "species": [
