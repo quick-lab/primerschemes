@@ -1,6 +1,8 @@
 # primerschemes
 
-Central repo for newly generated PrimerSchemes and PrimalPanels
+Central machine readable repo for newly generated PrimerSchemes and PrimalPanels
+
+For a user navigable version please go [here](link)
 
 
 ## New formats
