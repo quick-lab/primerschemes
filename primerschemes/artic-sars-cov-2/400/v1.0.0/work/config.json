@@ -1,0 +1,14 @@
+{
+    "algorithmversion": "primalscheme1:1.0.0",
+    "ampliconsize": 400,
+    "authors": [
+        "artic",
+        "quick.lab"
+    ],
+    "citation": "na",
+    "primer_bed_md5": "907d8d0e3efecd82e07120eda2b70d89",
+    "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
+    "schemename": "artic-sars-cov-2",
+    "schemeversion": "v1.0.0",
+    "validated": true
+}

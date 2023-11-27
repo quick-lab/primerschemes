@@ -1,0 +1,30 @@
+2023-11-17 at 15:10:38 | INFO | Creating the Mismatch Database
+2023-11-17 at 15:11:11 | INFO | Created: 1000-200ol-bt/work/mismatch.db
+2023-11-17 at 15:11:13 | WARNING | WARNING: Having a '/' in the chromname NC_001498.1/115894 will cause issues with figure generation bedfile output. Parsing chromname NC_001498.1/115894 -> NC_001498.1
+2023-11-17 at 15:11:13 | INFO | Read in MSA: measles_input.align	seqs:881	cols:15942
+2023-11-17 at 15:12:58 | INFO | measles_input.align: digested to 4569 FKmers and 4782 RKmers
+2023-11-17 at 15:13:10 | INFO | measles_input.align: Generated 246726 possible amplicons
+2023-11-17 at 15:13:10 | INFO | Added first amplicon for measles_input.align: 1	1126	1
+2023-11-17 at 15:13:10 | INFO | Added overlapping amplicon for measles_input.align: 851	1937	2
+2023-11-17 at 15:13:10 | INFO | Added overlapping amplicon for measles_input.align: 1621	2719	1
+2023-11-17 at 15:13:10 | INFO | Added overlapping amplicon for measles_input.align: 2375	3493	2
+2023-11-17 at 15:13:10 | INFO | Added overlapping amplicon for measles_input.align: 3234	4360	1
+2023-11-17 at 15:14:57 | INFO | Could not backtrack for measles_input.align
+2023-11-17 at 15:14:57 | INFO | Added walking amplicon for measles_input.align: 4199	5326	2
+2023-11-17 at 15:14:58 | INFO | Backtracking allowed overlapping amplicon to be added for measles_input.align: 4423	5548	1
+2023-11-17 at 15:15:00 | INFO | Could not backtrack for measles_input.align
+2023-11-17 at 15:15:00 | INFO | Added walking amplicon for measles_input.align: 5432	6515	2
+2023-11-17 at 15:15:00 | INFO | Added overlapping amplicon for measles_input.align: 6258	7379	1
+2023-11-17 at 15:15:00 | INFO | Added overlapping amplicon for measles_input.align: 7040	8139	2
+2023-11-17 at 15:15:00 | INFO | Added overlapping amplicon for measles_input.align: 7855	8931	1
+2023-11-17 at 15:15:00 | INFO | Added overlapping amplicon for measles_input.align: 8563	9677	2
+2023-11-17 at 15:15:00 | INFO | Added overlapping amplicon for measles_input.align: 9422	10519	1
+2023-11-17 at 15:15:00 | INFO | Added overlapping amplicon for measles_input.align: 10258	11365	2
+2023-11-17 at 15:15:00 | INFO | Added overlapping amplicon for measles_input.align: 10992	12103	1
+2023-11-17 at 15:15:00 | INFO | Added overlapping amplicon for measles_input.align: 11799	12909	2
+2023-11-17 at 15:15:00 | INFO | Added overlapping amplicon for measles_input.align: 12511	13624	1
+2023-11-17 at 15:15:00 | INFO | Added overlapping amplicon for measles_input.align: 13333	14445	2
+2023-11-17 at 15:15:00 | INFO | Added overlapping amplicon for measles_input.align: 14154	15253	1
+2023-11-17 at 15:15:00 | INFO | Added overlapping amplicon for measles_input.align: 14666	15774	2
+2023-11-17 at 15:15:34 | INFO | Could not backtrack for measles_input.align
+2023-11-17 at 15:15:34 | INFO | Writting output files
