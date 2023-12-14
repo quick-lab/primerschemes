@@ -289,6 +289,32 @@
                 }
             }
         },
+        "pan-measles": {
+            "1000": {
+                "v1.0.0": {
+                    "algorithmversion": "primaldigest:1.2.2",
+                    "ampliconsize": 1000,
+                    "authors": [
+                        "artic network",
+                        "quick lab"
+                    ],
+                    "citations": [],
+                    "info_json_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/pan-measles/1000/v1.0.0/info.json",
+                    "license": "CC BY-SA 4.0",
+                    "primer_bed_md5": "0be34569ff26f64d1c4b801661f90c9f",
+                    "primer_bed_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/pan-measles/1000/v1.0.0/primer.bed",
+                    "primerclass": "primerschemes",
+                    "reference_fasta_md5": "64a52bcc7c18986db1c11813db518390",
+                    "reference_fasta_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes/main/primerschemes/pan-measles/1000/v1.0.0/reference.fasta",
+                    "schemename": "pan-measles",
+                    "schemeversion": "v1.0.0",
+                    "species": [
+                        11234
+                    ],
+                    "status": "draft"
+                }
+            }
+        },
         "who-tb-amr-panel": {
             "1000": {
                 "v1.0.0": {
