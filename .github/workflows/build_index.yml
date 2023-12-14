@@ -19,14 +19,10 @@ jobs:
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v3
-    - uses: actions/setup-python@v5
-      with:
-        python-version: '3.11'
-        cache: 'pip'
-    - run: pip install primal-page
+
     # Runs commands using the runners shell
-    - name: Run the build index command
-      run: primal-page build-index --gitserver ${{github.server_url}} --gitaccount ${{github.repository}}
+    - name: Run the build index script
+      run: pip install primal-page && primal-page build-index --gitserver ${{github.server_url}} --gitaccount ${{github.repository}}
     - name: Commit files  # transfer the new html files back into the repository
       run: |
         git config --local user.name  ${{ github.actor }}        
