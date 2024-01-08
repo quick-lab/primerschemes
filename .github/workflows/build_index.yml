@@ -22,7 +22,7 @@ jobs:
 
     # Runs commands using the runners shell
     - name: Run the build index script
-      run: python ./.github/workflows/build_index.py ${{github.server_url}} ${{github.repository}}
+      run: pip install primal-page && primal-page build-index --gitserver ${{github.server_url}} --gitaccount ${{github.repository}} --git-commit-sha ${{github.sha}}
     - name: Commit files  # transfer the new html files back into the repository
       run: |
         git config --local user.name  ${{ github.actor }}        
