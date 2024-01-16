@@ -3,7 +3,7 @@
     "schemeversion": "v1.0.0",
     "schemename": "norovirus-gii",
     "primer_bed_md5": "3191ec8a80f14a5688d561fe2cf77e34",
-    "reference_fasta_md5": "88cba0415494cd9837e2523051cb636f",
+    "reference_fasta_md5": "d128fe1bf5abe0d68f0f33ecccd4b79e",
     "status": "draft",
     "citations": [],
     "authors": [
@@ -17,5 +17,7 @@
     "license": "CC BY-SA 4.0",
     "primerclass": "primerschemes",
     "infoschema": "v1.0.0",
-    "description": "A scheme designed for pan Norovirus gii"
+    "articbedversion": "v3.0",
+    "description": "A scheme designed for pan Norovirus gii",
+    "derivedfrom": null
 }

@@ -20,8 +20,8 @@ Schemes generated for the SARs-CoV-2 Outbreak
         "https://doi.org/10.1038/nprot.2017.066"
     ],
     "authors": [
-        "quick lab",
-        "artic network"
+        "artic network",
+        "quick lab"
     ],
     "algorithmversion": "primalscheme1:1.0.0",
     "species": [
@@ -30,7 +30,9 @@ Schemes generated for the SARs-CoV-2 Outbreak
     "license": "CC-BY-4.0",
     "primerclass": "primerschemes",
     "infoschema": "v1.0.0",
-    "description": "Schemes generated for the SARs-CoV-2 Outbreak"
+    "articbedversion": "v2.0",
+    "description": "Schemes generated for the SARs-CoV-2 Outbreak",
+    "derivedfrom": null
 }
 ```
 
