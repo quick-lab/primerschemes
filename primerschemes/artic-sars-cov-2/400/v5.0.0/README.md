@@ -13,8 +13,8 @@ Schemes generated for the SARs-CoV-2 Outbreak
     "ampliconsize": 400,
     "schemeversion": "v5.0.0",
     "schemename": "artic-sars-cov-2",
-    "primer_bed_md5": "6292814b0ec248605c72707d34dda1eb",
-    "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
+    "primer_bed_md5": "409cd97bae3cf62207311f6e2f52f841",
+    "reference_fasta_md5": "92ed86bf00cf94f9daef6acc81a8e48e",
     "status": "deprecated",
     "citations": [],
     "authors": [
@@ -28,7 +28,9 @@ Schemes generated for the SARs-CoV-2 Outbreak
     "license": "CC-BY-4.0",
     "primerclass": "primerschemes",
     "infoschema": "v1.0.0",
-    "description": "Schemes generated for the SARs-CoV-2 Outbreak"
+    "articbedversion": "v3.0",
+    "description": "Schemes generated for the SARs-CoV-2 Outbreak",
+    "derivedfrom": null
 }
 ```
 

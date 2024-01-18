@@ -2,13 +2,13 @@
     "ampliconsize": 400,
     "schemeversion": "v5.3.2",
     "schemename": "artic-sars-cov-2",
-    "primer_bed_md5": "722d56c381bf301aa9c5ae8721c78063",
-    "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
+    "primer_bed_md5": "fe65441b1a9c08dc3a5e638d8c13a140",
+    "reference_fasta_md5": "92ed86bf00cf94f9daef6acc81a8e48e",
     "status": "validated",
     "citations": [],
     "authors": [
-        "artic network",
         "quick lab",
+        "artic network",
         "bccdc"
     ],
     "algorithmversion": "primalscheme2:1.0.0",
@@ -18,5 +18,7 @@
     "license": "CC-BY-4.0",
     "primerclass": "primerschemes",
     "infoschema": "v1.0.0",
-    "description": "Schemes generated for the SARs-CoV-2 Outbreak"
+    "articbedversion": "v3.0",
+    "description": "Schemes generated for the SARs-CoV-2 Outbreak",
+    "derivedfrom": null
 }

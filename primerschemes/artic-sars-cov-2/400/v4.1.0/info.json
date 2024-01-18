@@ -2,15 +2,15 @@
     "ampliconsize": 400,
     "schemeversion": "v4.1.0",
     "schemename": "artic-sars-cov-2",
-    "primer_bed_md5": "98ffdb9c0e31f2c1c819c7a4d2c8a048",
-    "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
+    "primer_bed_md5": "019a9aa7d924344ef344316bb9a9172a",
+    "reference_fasta_md5": "92ed86bf00cf94f9daef6acc81a8e48e",
     "status": "deprecated",
     "citations": [
         "https://doi.org/10.1038/nprot.2017.066"
     ],
     "authors": [
-        "quick lab",
-        "artic network"
+        "artic network",
+        "quick lab"
     ],
     "algorithmversion": "primalscheme1:1.0.0",
     "species": [
@@ -19,5 +19,7 @@
     "license": "CC-BY-4.0",
     "primerclass": "primerschemes",
     "infoschema": "v1.0.0",
-    "description": "Schemes generated for the SARs-CoV-2 Outbreak"
+    "articbedversion": "v2.0",
+    "description": "Schemes generated for the SARs-CoV-2 Outbreak",
+    "derivedfrom": null
 }
