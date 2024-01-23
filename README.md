@@ -2,7 +2,7 @@
 
 Central machine readable repo for newly generated PrimerSchemes and PrimalPanels
 
-For a user navigable version please go [here](link)
+For a user navigable version please go [here](https://quick-lab.github.io/primal-dir/)
 
 
 ## New formats
