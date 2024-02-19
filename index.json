@@ -1,5 +1,5 @@
 {
-    "github-commit-sha": "48480d95627759082f39fdcb5176e217fd4fdec8",
+    "github-commit-sha": "0caad3108e06fb9417e0f234c987efcf028a8c22",
     "primerschemes": {
         "artic-pan-ebola": {
             "1000": {
@@ -285,13 +285,13 @@
                         "Quick Lab"
                     ],
                     "citations": [],
-                    "info_json_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes-fork/main/primerschemes/hbv/600/v2.0.0/info.json",
+                    "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hbv/600/v2.0.0/info.json",
                     "license": "CC BY-SA 4.0",
                     "primer_bed_md5": "cc26865ef9128cce73cfa2c0919790ec",
-                    "primer_bed_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes-fork/main/primerschemes/hbv/600/v2.0.0/primer.bed",
+                    "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hbv/600/v2.0.0/primer.bed",
                     "primerclass": "primerschemes",
                     "reference_fasta_md5": "b0c81b63db38a860016236b68977f38e",
-                    "reference_fasta_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes-fork/main/primerschemes/hbv/600/v2.0.0/reference.fasta",
+                    "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hbv/600/v2.0.0/reference.fasta",
                     "schemename": "hbv",
                     "schemeversion": "v2.0.0",
                     "species": [
