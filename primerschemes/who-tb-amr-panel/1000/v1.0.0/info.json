@@ -4,7 +4,7 @@
     "schemename": "who-tb-amr-panel",
     "primer_bed_md5": "5de2031db0062acbc75b2ad7d3de40f4",
     "reference_fasta_md5": "864e27657ef9b0e70182b6de7234c440",
-    "status": "draft",
+    "status": "tested",
     "citations": [],
     "authors": [
         "quick lab",
