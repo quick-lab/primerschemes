@@ -17,12 +17,12 @@ A 800bp high overlap scheme for HBV. Using phylogenetic downsampling to reduce b
     "schemename": "hbv",
     "primer_bed_md5": "cc26865ef9128cce73cfa2c0919790ec",
     "reference_fasta_md5": "b0c81b63db38a860016236b68977f38e",
-    "status": "draft",
+    "status": "tested",
     "citations": [],
     "authors": [
-        "Chris Kent",
+        "Quick Lab",
         "Dr Sheila Lumley",
-        "Quick Lab"
+        "Chris Kent"
     ],
     "algorithmversion": "primalscheme3:1.1.3",
     "species": [
