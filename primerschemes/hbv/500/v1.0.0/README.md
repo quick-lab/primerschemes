@@ -17,7 +17,7 @@ Schemes generated for the Hepatitis B virus (hbv)
     "schemename": "hbv",
     "primer_bed_md5": "f1874f2b2332dff4b4cd6f0075f128dd",
     "reference_fasta_md5": "ba8c5fbd0d52e6d682ee6062bc517ad9",
-    "status": "draft",
+    "status": "deprecated",
     "citations": [],
     "authors": [
         "artic network",
