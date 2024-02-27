@@ -17,7 +17,7 @@ A panel containing ~1200 mutations in WHO/UCN/GTB/PCI/2021.7, alongside 60 typin
     "schemename": "who-tb-amr-panel",
     "primer_bed_md5": "5de2031db0062acbc75b2ad7d3de40f4",
     "reference_fasta_md5": "864e27657ef9b0e70182b6de7234c440",
-    "status": "tested",
+    "status": "draft",
     "citations": [],
     "authors": [
         "quick lab",
