@@ -27,10 +27,16 @@ Schemes generated for the SARs-CoV-2 Outbreak
     ],
     "license": "CC-BY-4.0",
     "primerclass": "primerschemes",
-    "infoschema": "v1.0.0",
+    "infoschema": "v1.3.0",
     "articbedversion": "v2.0",
     "description": "Schemes generated for the SARs-CoV-2 Outbreak",
-    "derivedfrom": null
+    "derivedfrom": null,
+    "collections": [
+        "QUICK-LAB",
+        "WASTE-WATER",
+        "WHOLE-GENOME",
+        "ARTIC"
+    ]
 }
 ```
 

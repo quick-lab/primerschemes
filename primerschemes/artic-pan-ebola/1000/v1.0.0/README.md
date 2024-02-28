@@ -16,8 +16,8 @@
     "status": "draft",
     "citations": [],
     "authors": [
-        "quick-lab",
-        "artic"
+        "artic",
+        "quick-lab"
     ],
     "algorithmversion": "primalscheme3:1.1.0",
     "species": [
@@ -25,10 +25,16 @@
     ],
     "license": "CC BY-SA 4.0",
     "primerclass": "primerschemes",
-    "infoschema": "v1.1.0",
+    "infoschema": "v1.3.0",
     "articbedversion": "v3.0",
     "description": null,
-    "derivedfrom": null
+    "derivedfrom": null,
+    "collections": [
+        "CLINAL-ISOLATES",
+        "WHOLE-GENOME",
+        "QUICK-LAB",
+        "ARTIC"
+    ]
 }
 ```
 

@@ -17,11 +17,11 @@ Schemes generated for the Hepatitis B virus (hbv)
     "schemename": "hbv",
     "primer_bed_md5": "f1874f2b2332dff4b4cd6f0075f128dd",
     "reference_fasta_md5": "ba8c5fbd0d52e6d682ee6062bc517ad9",
-    "status": "draft",
+    "status": "deprecated",
     "citations": [],
     "authors": [
-        "artic network",
-        "quick lab"
+        "quick lab",
+        "artic network"
     ],
     "algorithmversion": "primaldigest:1.1.2",
     "species": [
@@ -29,10 +29,14 @@ Schemes generated for the Hepatitis B virus (hbv)
     ],
     "license": "CC-BY-4.0",
     "primerclass": "primerschemes",
-    "infoschema": "v1.0.0",
+    "infoschema": "v1.3.0",
     "articbedversion": "v3.0",
     "description": "Schemes generated for the Hepatitis B virus (hbv)",
-    "derivedfrom": null
+    "derivedfrom": null,
+    "collections": [
+        "QUICK-LAB",
+        "WHOLE-GENOME"
+    ]
 }
 ```
 

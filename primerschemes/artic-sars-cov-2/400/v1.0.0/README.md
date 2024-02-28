@@ -13,15 +13,15 @@ Schemes generated for the SARs-CoV-2 Outbreak
     "ampliconsize": 400,
     "schemeversion": "v1.0.0",
     "schemename": "artic-sars-cov-2",
-    "primer_bed_md5": "907d8d0e3efecd82e07120eda2b70d89",
-    "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
+    "primer_bed_md5": "578f9cb933e01de0f3e9921cec14e5dc",
+    "reference_fasta_md5": "92ed86bf00cf94f9daef6acc81a8e48e",
     "status": "deprecated",
     "citations": [
         "https://doi.org/10.1038/nprot.2017.066"
     ],
     "authors": [
-        "artic network",
-        "quick lab"
+        "quick lab",
+        "artic network"
     ],
     "algorithmversion": "primalscheme1:1.0.0",
     "species": [
@@ -29,10 +29,16 @@ Schemes generated for the SARs-CoV-2 Outbreak
     ],
     "license": "CC-BY-4.0",
     "primerclass": "primerschemes",
-    "infoschema": "v1.0.0",
+    "infoschema": "v1.3.0",
     "articbedversion": "v2.0",
     "description": "Schemes generated for the SARs-CoV-2 Outbreak",
-    "derivedfrom": null
+    "derivedfrom": null,
+    "collections": [
+        "WHOLE-GENOME",
+        "QUICK-LAB",
+        "ARTIC",
+        "WASTE-WATER"
+    ]
 }
 ```
 
