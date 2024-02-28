@@ -18,8 +18,8 @@ Schemes generated for the SARs-CoV-2 Outbreak
     "status": "deprecated",
     "citations": [],
     "authors": [
-        "artic network",
-        "quick lab"
+        "quick lab",
+        "artic network"
     ],
     "algorithmversion": "primalscheme2:1.0.0",
     "species": [
@@ -27,10 +27,16 @@ Schemes generated for the SARs-CoV-2 Outbreak
     ],
     "license": "CC-BY-4.0",
     "primerclass": "primerschemes",
-    "infoschema": "v1.0.0",
+    "infoschema": "v1.3.0",
     "articbedversion": "v3.0",
     "description": "Schemes generated for the SARs-CoV-2 Outbreak",
-    "derivedfrom": null
+    "derivedfrom": null,
+    "collections": [
+        "WASTE-WATER",
+        "ARTIC",
+        "QUICK-LAB",
+        "WHOLE-GENOME"
+    ]
 }
 ```
 
