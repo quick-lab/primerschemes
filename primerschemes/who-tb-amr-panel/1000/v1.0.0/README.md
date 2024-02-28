@@ -29,10 +29,15 @@ A panel containing ~1200 mutations in WHO/UCN/GTB/PCI/2021.7, alongside 60 typin
     ],
     "license": "CC BY-SA 4.0",
     "primerclass": "primerschemes",
-    "infoschema": "v1.1.0",
+    "infoschema": "v1.3.0",
     "articbedversion": "v3.0",
     "description": "A panel containing ~1200 mutations in WHO/UCN/GTB/PCI/2021.7, alongside 60 typing snps described in DOI: 10.1038/ncomms5812",
-    "derivedfrom": null
+    "derivedfrom": null,
+    "collections": [
+        "MODJADJI",
+        "PANEL",
+        "QUICK-LAB"
+    ]
 }
 ```
 

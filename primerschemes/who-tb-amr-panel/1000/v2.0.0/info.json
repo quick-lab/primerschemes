@@ -7,8 +7,8 @@
     "status": "draft",
     "citations": [],
     "authors": [
-        "Quick lab",
-        "Chris Kent"
+        "Chris Kent",
+        "Quick lab"
     ],
     "algorithmversion": "primalscheme3:1.1.2",
     "species": [
@@ -16,8 +16,13 @@
     ],
     "license": "CC BY-SA 4.0",
     "primerclass": "primerschemes",
-    "infoschema": "v1.2.0",
+    "infoschema": "v1.3.0",
     "articbedversion": "v3.0",
     "description": "An updated version of who-tb-amr-panel/1000/v1.0.0, with 60 aditional amplicions to cover WHO-UCN-TB-2023 Mutations and the Freschi 2020 typing snps",
-    "derivedfrom": "who-tb-amr-panel/1000/v1.0.0"
+    "derivedfrom": "who-tb-amr-panel/1000/v1.0.0",
+    "collections": [
+        "QUICK-LAB",
+        "PANEL",
+        "MODJADJI"
+    ]
 }
