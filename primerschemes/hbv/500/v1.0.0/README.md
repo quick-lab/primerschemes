@@ -20,8 +20,8 @@ Schemes generated for the Hepatitis B virus (hbv)
     "status": "deprecated",
     "citations": [],
     "authors": [
-        "artic network",
-        "quick lab"
+        "quick lab",
+        "artic network"
     ],
     "algorithmversion": "primaldigest:1.1.2",
     "species": [
@@ -29,10 +29,14 @@ Schemes generated for the Hepatitis B virus (hbv)
     ],
     "license": "CC-BY-4.0",
     "primerclass": "primerschemes",
-    "infoschema": "v1.0.0",
+    "infoschema": "v1.3.0",
     "articbedversion": "v3.0",
     "description": "Schemes generated for the Hepatitis B virus (hbv)",
-    "derivedfrom": null
+    "derivedfrom": null,
+    "collections": [
+        "QUICK-LAB",
+        "WHOLE-GENOME"
+    ]
 }
 ```
 

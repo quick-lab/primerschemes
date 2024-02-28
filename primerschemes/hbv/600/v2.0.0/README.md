@@ -30,10 +30,14 @@ A 800bp high overlap scheme for HBV. Using phylogenetic downsampling to reduce b
     ],
     "license": "CC BY-SA 4.0",
     "primerclass": "primerschemes",
-    "infoschema": "v1.2.0",
+    "infoschema": "v1.3.0",
     "articbedversion": "v3.0",
     "description": "A 800bp high overlap scheme for HBV. Using phylogenetic downsampling to reduce bias in under represented HBV Clades",
-    "derivedfrom": null
+    "derivedfrom": null,
+    "collections": [
+        "QUICK-LAB",
+        "WHOLE-GENOME"
+    ]
 }
 ```
 
