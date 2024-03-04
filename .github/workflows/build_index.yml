@@ -5,6 +5,10 @@ name: Build index
 on:
   push:
     branches: ['main']
+    paths:
+      - ".github/workflows/build_index.yml"
+      - "primerschemes/**"
+      - "index.json"
   
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
