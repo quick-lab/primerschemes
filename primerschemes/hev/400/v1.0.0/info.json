@@ -18,11 +18,11 @@
     "primerclass": "primerschemes",
     "infoschema": "v1.3.0",
     "articbedversion": "v3.0",
-    "description": "A full genome scheme designed for the Hepatitis E virus",
+    "description": "A full genome scheme designed for the Hepatitis E virus. Utilising phylogenic downsampling to reduce representation bias",
     "derivedfrom": null,
     "collections": [
-        "WASTE-WATER",
         "QUICK-LAB",
+        "WASTE-WATER",
         "WHOLE-GENOME"
     ]
 }
