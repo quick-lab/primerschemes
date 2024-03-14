@@ -1,5 +1,5 @@
 {
-    "github-commit-sha": "124367a0243d03d5b3bb57dd9e8c328f9e6759c7",
+    "github-commit-sha": "b4d20f6fe0f1fd61dfa48b0df24cd0e07252afd4",
     "primerschemes": {
         "artic-measles": {
             "400": {
@@ -412,13 +412,13 @@
                         "QUICK-LAB",
                         "WHOLE-GENOME"
                     ],
-                    "info_json_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes-fork/main/primerschemes/hbv/600/v2.1.0/info.json",
+                    "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hbv/600/v2.1.0/info.json",
                     "license": "CC BY-SA 4.0",
                     "primer_bed_md5": "5af354939e06acc830f7f340720a94b1",
-                    "primer_bed_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes-fork/main/primerschemes/hbv/600/v2.1.0/primer.bed",
+                    "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hbv/600/v2.1.0/primer.bed",
                     "primerclass": "primerschemes",
                     "reference_fasta_md5": "b0c81b63db38a860016236b68977f38e",
-                    "reference_fasta_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes-fork/main/primerschemes/hbv/600/v2.1.0/reference.fasta",
+                    "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hbv/600/v2.1.0/reference.fasta",
                     "schemename": "hbv",
                     "schemeversion": "v2.1.0",
                     "species": [
