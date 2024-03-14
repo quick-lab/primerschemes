@@ -1,5 +1,5 @@
 {
-    "github-commit-sha": "37262064a37de3ca1a5498088ba154119d2ecd90",
+    "github-commit-sha": "124367a0243d03d5b3bb57dd9e8c328f9e6759c7",
     "primerschemes": {
         "artic-measles": {
             "400": {
@@ -13,10 +13,10 @@
                     ],
                     "citations": [],
                     "collections": [
-                        "WHOLE-GENOME",
-                        "ARTIC",
                         "WASTE-WATER",
-                        "QUICK-LAB"
+                        "QUICK-LAB",
+                        "WHOLE-GENOME",
+                        "ARTIC"
                     ],
                     "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-measles/400/v1.0.0/info.json",
                     "license": "CC BY-SA 4.0",
@@ -30,7 +30,7 @@
                     "species": [
                         11234
                     ],
-                    "status": "draft"
+                    "status": "tested"
                 }
             }
         },
@@ -375,14 +375,14 @@
                     "ampliconsize": 600,
                     "articbedversion": "v3.0",
                     "authors": [
-                        "Quick Lab",
                         "Dr Sheila Lumley",
-                        "Chris Kent"
+                        "Chris Kent",
+                        "Quick Lab"
                     ],
                     "citations": [],
                     "collections": [
-                        "QUICK-LAB",
-                        "WHOLE-GENOME"
+                        "WHOLE-GENOME",
+                        "QUICK-LAB"
                     ],
                     "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hbv/600/v2.0.0/info.json",
                     "license": "CC BY-SA 4.0",
@@ -397,6 +397,34 @@
                         10407
                     ],
                     "status": "tested"
+                },
+                "v2.1.0": {
+                    "algorithmversion": "primalscheme3:1.1.4",
+                    "ampliconsize": 600,
+                    "articbedversion": "v3.0",
+                    "authors": [
+                        "Chris Kent c.g.kent@bham.ac.uk",
+                        "Dr Sheila Lumley sheila.lumley@trinity.ox.ac.uk",
+                        "Quick Lab"
+                    ],
+                    "citations": [],
+                    "collections": [
+                        "QUICK-LAB",
+                        "WHOLE-GENOME"
+                    ],
+                    "info_json_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes-fork/main/primerschemes/hbv/600/v2.1.0/info.json",
+                    "license": "CC BY-SA 4.0",
+                    "primer_bed_md5": "5af354939e06acc830f7f340720a94b1",
+                    "primer_bed_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes-fork/main/primerschemes/hbv/600/v2.1.0/primer.bed",
+                    "primerclass": "primerschemes",
+                    "reference_fasta_md5": "b0c81b63db38a860016236b68977f38e",
+                    "reference_fasta_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes-fork/main/primerschemes/hbv/600/v2.1.0/reference.fasta",
+                    "schemename": "hbv",
+                    "schemeversion": "v2.1.0",
+                    "species": [
+                        10407
+                    ],
+                    "status": "draft"
                 }
             }
         },
@@ -490,7 +518,7 @@
                     "species": [
                         122929
                     ],
-                    "status": "draft"
+                    "status": "tested"
                 }
             }
         },
