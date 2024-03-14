@@ -1,5 +1,5 @@
 {
-    "github-commit-sha": "8b0bc333565fdb4de318b11130957a2e03581505",
+    "github-commit-sha": "1fd00c0855d9a226e743546150653a2febfb2e27",
     "primerschemes": {
         "artic-measles": {
             "400": {
@@ -397,6 +397,38 @@
                         10407
                     ],
                     "status": "tested"
+                }
+            }
+        },
+        "hev": {
+            "400": {
+                "v1.0.0": {
+                    "algorithmversion": "primalscheme3:1.1.4",
+                    "ampliconsize": 400,
+                    "articbedversion": "v3.0",
+                    "authors": [
+                        "artic network",
+                        "quick lab"
+                    ],
+                    "citations": [],
+                    "collections": [
+                        "QUICK-LAB",
+                        "WASTE-WATER",
+                        "WHOLE-GENOME"
+                    ],
+                    "info_json_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes-fork/main/primerschemes/hev/400/v1.0.0/info.json",
+                    "license": "CC BY-SA 4.0",
+                    "primer_bed_md5": "ade0aa4af6881675ffc2203377550bec",
+                    "primer_bed_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes-fork/main/primerschemes/hev/400/v1.0.0/primer.bed",
+                    "primerclass": "primerschemes",
+                    "reference_fasta_md5": "fd028d0c1bda3584965792fb57cec0a5",
+                    "reference_fasta_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes-fork/main/primerschemes/hev/400/v1.0.0/reference.fasta",
+                    "schemename": "hev",
+                    "schemeversion": "v1.0.0",
+                    "species": [
+                        291484
+                    ],
+                    "status": "draft"
                 }
             }
         },
