@@ -17,7 +17,7 @@ A pan Measles morbillivirus scheme. All full length genomes have been downloaded
     "schemename": "artic-measles",
     "primer_bed_md5": "b8b903356d4c6bd4dc03af04f3a18222",
     "reference_fasta_md5": "2c3dd74742a333dffb50bcfbd158bfbd",
-    "status": "draft",
+    "status": "tested",
     "citations": [],
     "authors": [
         "Chris Kent",
@@ -34,10 +34,10 @@ A pan Measles morbillivirus scheme. All full length genomes have been downloaded
     "description": "A pan Measles morbillivirus scheme. All full length genomes have been downloaded and phylogenicly downsampled to 0.95 RTL.",
     "derivedfrom": null,
     "collections": [
-        "WHOLE-GENOME",
-        "ARTIC",
         "WASTE-WATER",
-        "QUICK-LAB"
+        "QUICK-LAB",
+        "WHOLE-GENOME",
+        "ARTIC"
     ]
 }
 ```
