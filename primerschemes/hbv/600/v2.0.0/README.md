@@ -2,7 +2,7 @@
 
 ## Description
 
-A 800bp high overlap scheme for HBV. Using phylogenetic downsampling to reduce bias in under represented HBV Clades
+A 600bp high overlap scheme for HBV. Using phylogenetic downsampling to reduce bias in under represented HBV Clades
 
 ## Overviews
 
@@ -20,9 +20,9 @@ A 800bp high overlap scheme for HBV. Using phylogenetic downsampling to reduce b
     "status": "tested",
     "citations": [],
     "authors": [
-        "Quick Lab",
         "Dr Sheila Lumley",
-        "Chris Kent"
+        "Chris Kent",
+        "Quick Lab"
     ],
     "algorithmversion": "primalscheme3:1.1.3",
     "species": [
@@ -32,11 +32,11 @@ A 800bp high overlap scheme for HBV. Using phylogenetic downsampling to reduce b
     "primerclass": "primerschemes",
     "infoschema": "v1.3.0",
     "articbedversion": "v3.0",
-    "description": "A 800bp high overlap scheme for HBV. Using phylogenetic downsampling to reduce bias in under represented HBV Clades",
+    "description": "A 600bp high overlap scheme for HBV. Using phylogenetic downsampling to reduce bias in under represented HBV Clades",
     "derivedfrom": null,
     "collections": [
-        "QUICK-LAB",
-        "WHOLE-GENOME"
+        "WHOLE-GENOME",
+        "QUICK-LAB"
     ]
 }
 ```
