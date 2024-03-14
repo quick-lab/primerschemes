@@ -1,5 +1,5 @@
 {
-    "github-commit-sha": "a29086ed8f49e6f8a4ec61c1ef4e66b365819575",
+    "github-commit-sha": "dfe02e69b9fc4454129f1c0ed706bda939d31e73",
     "primerschemes": {
         "artic-measles": {
             "400": {
@@ -13,10 +13,10 @@
                     ],
                     "citations": [],
                     "collections": [
-                        "WHOLE-GENOME",
-                        "ARTIC",
                         "WASTE-WATER",
-                        "QUICK-LAB"
+                        "QUICK-LAB",
+                        "WHOLE-GENOME",
+                        "ARTIC"
                     ],
                     "info_json_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes-fork/main/primerschemes/artic-measles/400/v1.0.0/info.json",
                     "license": "CC BY-SA 4.0",
@@ -30,7 +30,7 @@
                     "species": [
                         11234
                     ],
-                    "status": "draft"
+                    "status": "tested"
                 }
             }
         },
