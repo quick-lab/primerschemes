@@ -1,5 +1,5 @@
 {
-    "github-commit-sha": "dfe02e69b9fc4454129f1c0ed706bda939d31e73",
+    "github-commit-sha": "124367a0243d03d5b3bb57dd9e8c328f9e6759c7",
     "primerschemes": {
         "artic-measles": {
             "400": {
@@ -518,7 +518,7 @@
                     "species": [
                         122929
                     ],
-                    "status": "draft"
+                    "status": "tested"
                 }
             }
         },
