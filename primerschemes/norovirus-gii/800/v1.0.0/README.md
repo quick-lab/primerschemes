@@ -17,7 +17,7 @@ A scheme designed for pan Norovirus gii
     "schemename": "norovirus-gii",
     "primer_bed_md5": "3191ec8a80f14a5688d561fe2cf77e34",
     "reference_fasta_md5": "d128fe1bf5abe0d68f0f33ecccd4b79e",
-    "status": "draft",
+    "status": "tested",
     "citations": [],
     "authors": [
         "quick lab",
