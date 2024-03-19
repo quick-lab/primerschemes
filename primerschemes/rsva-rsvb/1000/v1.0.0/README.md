@@ -13,13 +13,13 @@ A Scheme for RSVA and RSVB. Schemes can be used separately or multiplexed
     "ampliconsize": 1000,
     "schemeversion": "v1.0.0",
     "schemename": "rsva-rsvb",
-    "primer_bed_md5": "8c710359de1fbf4c57dc93e466ae3125",
+    "primer_bed_md5": "f72747adabc1c9a57fa6d8c8698c77cd",
     "reference_fasta_md5": "e2ca3da2ff7d2290cd2011d031ec7744",
     "status": "tested",
     "citations": [],
     "authors": [
-        "BCCDC",
-        "Quick-lab"
+        "Quick-lab",
+        "BCCDC"
     ],
     "algorithmversion": "primalscheme3:0.1.0",
     "species": [
@@ -32,8 +32,8 @@ A Scheme for RSVA and RSVB. Schemes can be used separately or multiplexed
     "description": "A Scheme for RSVA and RSVB. Schemes can be used separately or multiplexed",
     "derivedfrom": null,
     "collections": [
-        "WHOLE-GENOME",
-        "MULTI-TARGET"
+        "MULTI-TARGET",
+        "WHOLE-GENOME"
     ]
 }
 ```
