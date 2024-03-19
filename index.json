@@ -1,5 +1,5 @@
 {
-    "github-commit-sha": "e1e427fa134614b79cdde6d18d7a9cef94841e96",
+    "github-commit-sha": "9858689631eaaaed8ab3adf8e92a93cd1238c381",
     "primerschemes": {
         "artic-measles": {
             "400": {
@@ -547,6 +547,37 @@
                         11234
                     ],
                     "status": "draft"
+                }
+            }
+        },
+        "rsva-rsvb": {
+            "1000": {
+                "v1.0.0": {
+                    "algorithmversion": "primalscheme3:0.1.0",
+                    "ampliconsize": 1000,
+                    "articbedversion": "v3.0",
+                    "authors": [
+                        "BCCDC",
+                        "Quick-lab"
+                    ],
+                    "citations": [],
+                    "collections": [
+                        "WHOLE-GENOME",
+                        "MULTI-TARGET"
+                    ],
+                    "info_json_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes-fork/main/primerschemes/rsva-rsvb/1000/v1.0.0/info.json",
+                    "license": "CC BY-SA 4.0",
+                    "primer_bed_md5": "8c710359de1fbf4c57dc93e466ae3125",
+                    "primer_bed_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes-fork/main/primerschemes/rsva-rsvb/1000/v1.0.0/primer.bed",
+                    "primerclass": "primerschemes",
+                    "reference_fasta_md5": "e2ca3da2ff7d2290cd2011d031ec7744",
+                    "reference_fasta_url": "https://raw.githubusercontent.com/ChrisgKent/primerschemes-fork/main/primerschemes/rsva-rsvb/1000/v1.0.0/reference.fasta",
+                    "schemename": "rsva-rsvb",
+                    "schemeversion": "v1.0.0",
+                    "species": [
+                        11250
+                    ],
+                    "status": "tested"
                 }
             }
         },
