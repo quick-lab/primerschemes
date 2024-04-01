@@ -20,6 +20,7 @@ A scheme designed for pan Norovirus gii
     "status": "tested",
     "citations": [],
     "authors": [
+        "Anna Kovalenko",
         "quick lab",
         "artic network"
     ],
