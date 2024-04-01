@@ -17,7 +17,7 @@ Contains additional Spike in primers for clades G and H
     "schemename": "hbv",
     "primer_bed_md5": "5af354939e06acc830f7f340720a94b1",
     "reference_fasta_md5": "b0c81b63db38a860016236b68977f38e",
-    "status": "draft",
+    "status": "tested",
     "citations": [],
     "authors": [
         "Dr Sheila Lumley",
@@ -35,8 +35,8 @@ Contains additional Spike in primers for clades G and H
     "description": "Contains additional Spike in primers for clades G and H",
     "derivedfrom": "hbv/600/v2.0.0",
     "collections": [
-        "WHOLE-GENOME",
-        "QUICK-LAB"
+        "QUICK-LAB",
+        "WHOLE-GENOME"
     ]
 }
 ```
