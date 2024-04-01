@@ -1,5 +1,5 @@
 {
-    "github-commit-sha": "9a8028ef578657f7f01ebf2e3d3154610b48e276",
+    "github-commit-sha": "63262ae0e66a61d5e1004a7058be4876cae32d22",
     "primerschemes": {
         "artic-measles": {
             "400": {
@@ -312,6 +312,39 @@
                 }
             }
         },
+        "hav": {
+            "400": {
+                "v1.0.0": {
+                    "algorithmversion": "primalscheme3:1.1.5",
+                    "ampliconsize": 400,
+                    "articbedversion": "v3.0",
+                    "authors": [
+                        "Chris Kent",
+                        "Quick Lab"
+                    ],
+                    "citations": [],
+                    "collections": [
+                        "WHOLE-GENOME",
+                        "QUICK-LAB",
+                        "MODJADJI",
+                        "WASTE-WATER"
+                    ],
+                    "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hav/400/v1.0.0/info.json",
+                    "license": "CC BY-SA 4.0",
+                    "primer_bed_md5": "5c8028df8ad1847cfd2cb8d57af15ea0",
+                    "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hav/400/v1.0.0/primer.bed",
+                    "primerclass": "primerschemes",
+                    "reference_fasta_md5": "06055c7be5786153302d83faa7b5304e",
+                    "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hav/400/v1.0.0/reference.fasta",
+                    "schemename": "hav",
+                    "schemeversion": "v1.0.0",
+                    "species": [
+                        208726
+                    ],
+                    "status": "draft"
+                }
+            }
+        },
         "hbv": {
             "500": {
                 "v1.0.0": {
@@ -403,8 +436,8 @@
                     "ampliconsize": 600,
                     "articbedversion": "v3.0",
                     "authors": [
-                        "Chris Kent c.g.kent@bham.ac.uk",
-                        "Dr Sheila Lumley sheila.lumley@trinity.ox.ac.uk",
+                        "Dr Sheila Lumley",
+                        "Chris Kent",
                         "Quick Lab"
                     ],
                     "citations": [],
@@ -424,7 +457,7 @@
                     "species": [
                         10407
                     ],
-                    "status": "draft"
+                    "status": "tested"
                 }
             }
         },
@@ -498,6 +531,7 @@
                     "ampliconsize": 800,
                     "articbedversion": "v3.0",
                     "authors": [
+                        "Anna Kovalenko",
                         "quick lab",
                         "artic network"
                     ],
