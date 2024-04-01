@@ -5,7 +5,7 @@ Central machine readable repo for newly generated PrimerSchemes and PrimalPanels
 For a user navigable version please go [here](https://labs.primalscheme.com)
 
 
-# Quick Start
+## Quick Start
 
 Each version of a primerscheme has three parts; `{schemename}/{ampliconsize}/{version}`, which when combined these form the schemes unique identifier.
 
@@ -18,7 +18,7 @@ The `primal-page create` command will generates the `info.json` and parses a bed
 
 Additional files are copied into the schemes work directory. 
 
-See [primal-page](https://github.com/ChrisgKent/primal-page) for more details.
+> See [primal-page](https://github.com/ChrisgKent/primal-page) for more details.
 
 
 ------------------------------------------------------------------------
