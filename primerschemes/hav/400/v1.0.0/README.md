@@ -1,42 +1,43 @@
-# hbv 600bp v2.1.0
+# hav 400bp v1.0.0
 
 ## Description
 
-Contains additional Spike in primers for clades G and H
+A PrimerScheme for Human hepatitis A virus (HAV)
 
 ## Overviews
 
-![X02763.png](work/X02763.png)
+![NC_001489.1.png](work/NC_001489.1.png)
 
 ## Details
 
 ```json
 {
-    "ampliconsize": 600,
-    "schemeversion": "v2.1.0",
-    "schemename": "hbv",
-    "primer_bed_md5": "5af354939e06acc830f7f340720a94b1",
-    "reference_fasta_md5": "b0c81b63db38a860016236b68977f38e",
-    "status": "tested",
+    "ampliconsize": 400,
+    "schemeversion": "v1.0.0",
+    "schemename": "hav",
+    "primer_bed_md5": "5c8028df8ad1847cfd2cb8d57af15ea0",
+    "reference_fasta_md5": "06055c7be5786153302d83faa7b5304e",
+    "status": "draft",
     "citations": [],
     "authors": [
-        "Dr Sheila Lumley",
         "Chris Kent",
         "Quick Lab"
     ],
-    "algorithmversion": "primalscheme3:1.1.4",
+    "algorithmversion": "primalscheme3:1.1.5",
     "species": [
-        10407
+        208726
     ],
     "license": "CC BY-SA 4.0",
     "primerclass": "primerschemes",
     "infoschema": "v1.3.0",
     "articbedversion": "v3.0",
-    "description": "Contains additional Spike in primers for clades G and H",
-    "derivedfrom": "hbv/600/v2.0.0",
+    "description": "A PrimerScheme for Human hepatitis A virus (HAV)",
+    "derivedfrom": null,
     "collections": [
+        "WHOLE-GENOME",
         "QUICK-LAB",
-        "WHOLE-GENOME"
+        "MODJADJI",
+        "WASTE-WATER"
     ]
 }
 ```
