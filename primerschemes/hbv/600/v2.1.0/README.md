@@ -20,8 +20,8 @@ Contains additional Spike in primers for clades G and H
     "status": "draft",
     "citations": [],
     "authors": [
-        "Chris Kent c.g.kent@bham.ac.uk",
-        "Dr Sheila Lumley sheila.lumley@trinity.ox.ac.uk",
+        "Dr Sheila Lumley",
+        "Chris Kent",
         "Quick Lab"
     ],
     "algorithmversion": "primalscheme3:1.1.4",
@@ -35,8 +35,8 @@ Contains additional Spike in primers for clades G and H
     "description": "Contains additional Spike in primers for clades G and H",
     "derivedfrom": "hbv/600/v2.0.0",
     "collections": [
-        "QUICK-LAB",
-        "WHOLE-GENOME"
+        "WHOLE-GENOME",
+        "QUICK-LAB"
     ]
 }
 ```
