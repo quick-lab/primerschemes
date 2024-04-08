@@ -1,5 +1,5 @@
 {
-    "github-commit-sha": "63262ae0e66a61d5e1004a7058be4876cae32d22",
+    "github-commit-sha": "4fed2f16132d0167b690f21a8b1e3c89ebe492a5",
     "primerschemes": {
         "artic-measles": {
             "400": {
@@ -488,6 +488,37 @@
                     "schemeversion": "v1.0.0",
                     "species": [
                         291484
+                    ],
+                    "status": "draft"
+                }
+            }
+        },
+        "marv-2023": {
+            "1000": {
+                "v1.0.0": {
+                    "algorithmversion": "primaldigest:0.1.0",
+                    "ampliconsize": 1000,
+                    "articbedversion": "v3.0",
+                    "authors": [
+                        "Chris Kent",
+                        "Quick Lab"
+                    ],
+                    "citations": [],
+                    "collections": [
+                        "QUICK-LAB",
+                        "WHOLE-GENOME"
+                    ],
+                    "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/marv-2023/1000/v1.0.0/info.json",
+                    "license": "CC BY-SA 4.0",
+                    "primer_bed_md5": "456f574691dac1568438289bc14103a1",
+                    "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/marv-2023/1000/v1.0.0/primer.bed",
+                    "primerclass": "primerschemes",
+                    "reference_fasta_md5": "1cd0d4df77e6b300f9328aa5359998ea",
+                    "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/marv-2023/1000/v1.0.0/reference.fasta",
+                    "schemename": "marv-2023",
+                    "schemeversion": "v1.0.0",
+                    "species": [
+                        3052505
                     ],
                     "status": "draft"
                 }
