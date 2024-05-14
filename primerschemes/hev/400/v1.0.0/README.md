@@ -1,5 +1,7 @@
 # hev 400bp v1.0.0
 
+[primalscheme labs](https://labs.primalscheme.com/detail/hev/400/v1.0.0)
+
 ## Description
 
 A full genome scheme designed for the Hepatitis E virus. Utilising phylogenic downsampling to reduce representation bias
@@ -15,8 +17,8 @@ A full genome scheme designed for the Hepatitis E virus. Utilising phylogenic do
     "ampliconsize": 400,
     "schemeversion": "v1.0.0",
     "schemename": "hev",
-    "primer_bed_md5": "ade0aa4af6881675ffc2203377550bec",
-    "reference_fasta_md5": "fd028d0c1bda3584965792fb57cec0a5",
+    "primer_bed_md5": "c74a6ee17c526bdbf6cb7f98435bd922",
+    "reference_fasta_md5": "5322c8052fb3d379b18ae06ca775237b",
     "status": "draft",
     "citations": [],
     "authors": [
@@ -29,15 +31,23 @@ A full genome scheme designed for the Hepatitis E virus. Utilising phylogenic do
     ],
     "license": "CC BY-SA 4.0",
     "primerclass": "primerschemes",
-    "infoschema": "v1.3.0",
+    "infoschema": "v2.0.0",
     "articbedversion": "v3.0",
-    "description": "A full genome scheme designed for the Hepatitis E virus. Utilising phylogenic downsampling to reduce representation bias",
-    "derivedfrom": null,
     "collections": [
         "QUICK-LAB",
-        "WASTE-WATER",
-        "WHOLE-GENOME"
-    ]
+        "WHOLE-GENOME",
+        "WASTE-WATER"
+    ],
+    "links": {
+        "protocals": [],
+        "validation": [],
+        "homepage": [],
+        "vendors": [],
+        "misc": []
+    },
+    "description": "A full genome scheme designed for the Hepatitis E virus. Utilising phylogenic downsampling to reduce representation bias",
+    "derivedfrom": null,
+    "contactinfo": null
 }
 ```
 

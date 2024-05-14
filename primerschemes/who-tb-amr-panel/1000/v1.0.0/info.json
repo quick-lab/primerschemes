@@ -2,8 +2,8 @@
     "ampliconsize": 1000,
     "schemeversion": "v1.0.0",
     "schemename": "who-tb-amr-panel",
-    "primer_bed_md5": "5de2031db0062acbc75b2ad7d3de40f4",
-    "reference_fasta_md5": "864e27657ef9b0e70182b6de7234c440",
+    "primer_bed_md5": "5f7e27087a0ec714275ba44b0ec27524",
+    "reference_fasta_md5": "77cabd2a9f46614628d15371081ab4a1",
     "status": "draft",
     "citations": [],
     "authors": [
@@ -16,13 +16,21 @@
     ],
     "license": "CC BY-SA 4.0",
     "primerclass": "primerschemes",
-    "infoschema": "v1.3.0",
+    "infoschema": "v2.0.0",
     "articbedversion": "v3.0",
+    "collections": [
+        "QUICK-LAB",
+        "PANEL",
+        "MODJADJI"
+    ],
+    "links": {
+        "protocals": [],
+        "validation": [],
+        "homepage": [],
+        "vendors": [],
+        "misc": []
+    },
     "description": "A panel containing ~1200 mutations in WHO/UCN/GTB/PCI/2021.7, alongside 60 typing snps described in DOI: 10.1038/ncomms5812",
     "derivedfrom": null,
-    "collections": [
-        "MODJADJI",
-        "PANEL",
-        "QUICK-LAB"
-    ]
+    "contactinfo": null
 }
