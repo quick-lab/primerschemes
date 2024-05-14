@@ -1,5 +1,7 @@
 # rsva-rsvb 1000bp v1.0.0
 
+[primalscheme labs](https://labs.primalscheme.com/detail/rsva-rsvb/1000/v1.0.0)
+
 ## Description
 
 A Scheme for RSVA and RSVB. Schemes can be used separately or multiplexed
@@ -13,8 +15,8 @@ A Scheme for RSVA and RSVB. Schemes can be used separately or multiplexed
     "ampliconsize": 1000,
     "schemeversion": "v1.0.0",
     "schemename": "rsva-rsvb",
-    "primer_bed_md5": "f72747adabc1c9a57fa6d8c8698c77cd",
-    "reference_fasta_md5": "e2ca3da2ff7d2290cd2011d031ec7744",
+    "primer_bed_md5": "86ade75b8623839e69b0999ef9dbc0a0",
+    "reference_fasta_md5": "4aeb8337b19d9c09571439fd62d03742",
     "status": "tested",
     "citations": [],
     "authors": [
@@ -27,14 +29,22 @@ A Scheme for RSVA and RSVB. Schemes can be used separately or multiplexed
     ],
     "license": "CC BY-SA 4.0",
     "primerclass": "primerschemes",
-    "infoschema": "v1.3.0",
+    "infoschema": "v2.0.0",
     "articbedversion": "v3.0",
-    "description": "A Scheme for RSVA and RSVB. Schemes can be used separately or multiplexed",
-    "derivedfrom": null,
     "collections": [
         "MULTI-TARGET",
         "WHOLE-GENOME"
-    ]
+    ],
+    "links": {
+        "protocals": [],
+        "validation": [],
+        "homepage": [],
+        "vendors": [],
+        "misc": []
+    },
+    "description": "A Scheme for RSVA and RSVB. Schemes can be used separately or multiplexed",
+    "derivedfrom": null,
+    "contactinfo": null
 }
 ```
 

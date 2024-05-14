@@ -1,710 +1,709 @@
 {
-    "github-commit-sha": "4fed2f16132d0167b690f21a8b1e3c89ebe492a5",
-    "primerschemes": {
-        "artic-measles": {
-            "400": {
-                "v1.0.0": {
-                    "algorithmversion": "primalscheme3:1.1.4",
-                    "ampliconsize": 400,
-                    "articbedversion": "v3.0",
-                    "authors": [
-                        "Chris Kent",
-                        "Quick Lab"
-                    ],
-                    "citations": [],
-                    "collections": [
-                        "WASTE-WATER",
-                        "QUICK-LAB",
-                        "WHOLE-GENOME",
-                        "ARTIC"
-                    ],
-                    "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-measles/400/v1.0.0/info.json",
-                    "license": "CC BY-SA 4.0",
-                    "primer_bed_md5": "b8b903356d4c6bd4dc03af04f3a18222",
-                    "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-measles/400/v1.0.0/primer.bed",
-                    "primerclass": "primerschemes",
-                    "reference_fasta_md5": "2c3dd74742a333dffb50bcfbd158bfbd",
-                    "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-measles/400/v1.0.0/reference.fasta",
-                    "schemename": "artic-measles",
-                    "schemeversion": "v1.0.0",
-                    "species": [
-                        11234
-                    ],
-                    "status": "tested"
-                }
-            }
-        },
-        "artic-pan-ebola": {
-            "1000": {
-                "v1.0.0": {
-                    "algorithmversion": "primalscheme3:1.1.0",
-                    "ampliconsize": 1000,
-                    "articbedversion": "v3.0",
-                    "authors": [
-                        "artic",
-                        "quick-lab"
-                    ],
-                    "citations": [],
-                    "collections": [
-                        "CLINAL-ISOLATES",
-                        "WHOLE-GENOME",
-                        "QUICK-LAB",
-                        "ARTIC"
-                    ],
-                    "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-pan-ebola/1000/v1.0.0/info.json",
-                    "license": "CC BY-SA 4.0",
-                    "primer_bed_md5": "c58ec3b4d07d24499106fed6501016a9",
-                    "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-pan-ebola/1000/v1.0.0/primer.bed",
-                    "primerclass": "primerschemes",
-                    "reference_fasta_md5": "083c89a1798778fbe94a643d83a6fbb1",
-                    "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-pan-ebola/1000/v1.0.0/reference.fasta",
-                    "schemename": "artic-pan-ebola",
-                    "schemeversion": "v1.0.0",
-                    "species": [
-                        3044781
-                    ],
-                    "status": "draft"
-                }
-            }
-        },
-        "artic-sars-cov-2": {
-            "400": {
-                "v1.0.0": {
-                    "algorithmversion": "primalscheme1:1.0.0",
-                    "ampliconsize": 400,
-                    "articbedversion": "v2.0",
-                    "authors": [
-                        "quick lab",
-                        "artic network"
-                    ],
-                    "citations": [
-                        "https://doi.org/10.1038/nprot.2017.066"
-                    ],
-                    "collections": [
-                        "WHOLE-GENOME",
-                        "QUICK-LAB",
-                        "ARTIC",
-                        "WASTE-WATER"
-                    ],
-                    "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v1.0.0/info.json",
-                    "license": "CC-BY-4.0",
-                    "primer_bed_md5": "578f9cb933e01de0f3e9921cec14e5dc",
-                    "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v1.0.0/primer.bed",
-                    "primerclass": "primerschemes",
-                    "reference_fasta_md5": "92ed86bf00cf94f9daef6acc81a8e48e",
-                    "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v1.0.0/reference.fasta",
-                    "schemename": "artic-sars-cov-2",
-                    "schemeversion": "v1.0.0",
-                    "species": [
-                        2697049
-                    ],
-                    "status": "deprecated"
-                },
-                "v2.0.0": {
-                    "algorithmversion": "primalscheme1:1.0.0",
-                    "ampliconsize": 400,
-                    "articbedversion": "v2.0",
-                    "authors": [
-                        "quick lab",
-                        "artic network"
-                    ],
-                    "citations": [
-                        "https://doi.org/10.1038/nprot.2017.066"
-                    ],
-                    "collections": [
-                        "QUICK-LAB",
-                        "WHOLE-GENOME",
-                        "ARTIC",
-                        "WASTE-WATER"
-                    ],
-                    "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v2.0.0/info.json",
-                    "license": "CC-BY-4.0",
-                    "primer_bed_md5": "1c0a95ccccf7be15642bc385cb5e5deb",
-                    "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v2.0.0/primer.bed",
-                    "primerclass": "primerschemes",
-                    "reference_fasta_md5": "92ed86bf00cf94f9daef6acc81a8e48e",
-                    "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v2.0.0/reference.fasta",
-                    "schemename": "artic-sars-cov-2",
-                    "schemeversion": "v2.0.0",
-                    "species": [
-                        2697049
-                    ],
-                    "status": "deprecated"
-                },
-                "v3.0.0": {
-                    "algorithmversion": "primalscheme1:1.0.0",
-                    "ampliconsize": 400,
-                    "articbedversion": "v2.0",
-                    "authors": [
-                        "artic network",
-                        "quick lab"
-                    ],
-                    "citations": [
-                        "https://doi.org/10.1038/nprot.2017.066"
-                    ],
-                    "collections": [
-                        "WHOLE-GENOME",
-                        "ARTIC",
-                        "QUICK-LAB",
-                        "WASTE-WATER"
-                    ],
-                    "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v3.0.0/info.json",
-                    "license": "CC-BY-4.0",
-                    "primer_bed_md5": "eff5fc84416bfbe998e336eafe8da50c",
-                    "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v3.0.0/primer.bed",
-                    "primerclass": "primerschemes",
-                    "reference_fasta_md5": "92ed86bf00cf94f9daef6acc81a8e48e",
-                    "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v3.0.0/reference.fasta",
-                    "schemename": "artic-sars-cov-2",
-                    "schemeversion": "v3.0.0",
-                    "species": [
-                        2697049
-                    ],
-                    "status": "deprecated"
-                },
-                "v4.0.0": {
-                    "algorithmversion": "primalscheme1:1.0.0",
-                    "ampliconsize": 400,
-                    "articbedversion": "v2.0",
-                    "authors": [
-                        "artic network",
-                        "quick lab"
-                    ],
-                    "citations": [],
-                    "collections": [
-                        "QUICK-LAB",
-                        "WASTE-WATER",
-                        "WHOLE-GENOME",
-                        "ARTIC"
-                    ],
-                    "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v4.0.0/info.json",
-                    "license": "CC-BY-4.0",
-                    "primer_bed_md5": "abbf6afccda4d8b737c59c8ec3373d94",
-                    "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v4.0.0/primer.bed",
-                    "primerclass": "primerschemes",
-                    "reference_fasta_md5": "92ed86bf00cf94f9daef6acc81a8e48e",
-                    "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v4.0.0/reference.fasta",
-                    "schemename": "artic-sars-cov-2",
-                    "schemeversion": "v4.0.0",
-                    "species": [
-                        2697049
-                    ],
-                    "status": "deprecated"
-                },
-                "v4.1.0": {
-                    "algorithmversion": "primalscheme1:1.0.0",
-                    "ampliconsize": 400,
-                    "articbedversion": "v2.0",
-                    "authors": [
-                        "quick lab",
-                        "artic network"
-                    ],
-                    "citations": [
-                        "https://doi.org/10.1038/nprot.2017.066"
-                    ],
-                    "collections": [
-                        "WHOLE-GENOME",
-                        "WASTE-WATER",
-                        "ARTIC",
-                        "QUICK-LAB"
-                    ],
-                    "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v4.1.0/info.json",
-                    "license": "CC-BY-4.0",
-                    "primer_bed_md5": "019a9aa7d924344ef344316bb9a9172a",
-                    "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v4.1.0/primer.bed",
-                    "primerclass": "primerschemes",
-                    "reference_fasta_md5": "92ed86bf00cf94f9daef6acc81a8e48e",
-                    "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v4.1.0/reference.fasta",
-                    "schemename": "artic-sars-cov-2",
-                    "schemeversion": "v4.1.0",
-                    "species": [
-                        2697049
-                    ],
-                    "status": "deprecated"
-                },
-                "v5.0.0": {
-                    "algorithmversion": "primalscheme2:1.0.0",
-                    "ampliconsize": 400,
-                    "articbedversion": "v3.0",
-                    "authors": [
-                        "artic network",
-                        "quick lab"
-                    ],
-                    "citations": [],
-                    "collections": [
-                        "ARTIC",
-                        "QUICK-LAB",
-                        "WHOLE-GENOME",
-                        "WASTE-WATER"
-                    ],
-                    "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v5.0.0/info.json",
-                    "license": "CC-BY-4.0",
-                    "primer_bed_md5": "409cd97bae3cf62207311f6e2f52f841",
-                    "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v5.0.0/primer.bed",
-                    "primerclass": "primerschemes",
-                    "reference_fasta_md5": "92ed86bf00cf94f9daef6acc81a8e48e",
-                    "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v5.0.0/reference.fasta",
-                    "schemename": "artic-sars-cov-2",
-                    "schemeversion": "v5.0.0",
-                    "species": [
-                        2697049
-                    ],
-                    "status": "deprecated"
-                },
-                "v5.2.0": {
-                    "algorithmversion": "primalscheme2:1.0.0",
-                    "ampliconsize": 400,
-                    "articbedversion": "v3.0",
-                    "authors": [
-                        "quick lab",
-                        "artic network"
-                    ],
-                    "citations": [],
-                    "collections": [
-                        "WASTE-WATER",
-                        "ARTIC",
-                        "QUICK-LAB",
-                        "WHOLE-GENOME"
-                    ],
-                    "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v5.2.0/info.json",
-                    "license": "CC-BY-4.0",
-                    "primer_bed_md5": "3dcc7210e679c4629f386696d9d7a00e",
-                    "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v5.2.0/primer.bed",
-                    "primerclass": "primerschemes",
-                    "reference_fasta_md5": "92ed86bf00cf94f9daef6acc81a8e48e",
-                    "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v5.2.0/reference.fasta",
-                    "schemename": "artic-sars-cov-2",
-                    "schemeversion": "v5.2.0",
-                    "species": [
-                        2697049
-                    ],
-                    "status": "deprecated"
-                },
-                "v5.3.2": {
-                    "algorithmversion": "primalscheme2:1.0.0",
-                    "ampliconsize": 400,
-                    "articbedversion": "v3.0",
-                    "authors": [
-                        "artic network",
-                        "quick lab",
-                        "bccdc"
-                    ],
-                    "citations": [],
-                    "collections": [
-                        "QUICK-LAB",
-                        "WHOLE-GENOME",
-                        "WASTE-WATER",
-                        "ARTIC"
-                    ],
-                    "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v5.3.2/info.json",
-                    "license": "CC-BY-4.0",
-                    "primer_bed_md5": "fe65441b1a9c08dc3a5e638d8c13a140",
-                    "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v5.3.2/primer.bed",
-                    "primerclass": "primerschemes",
-                    "reference_fasta_md5": "92ed86bf00cf94f9daef6acc81a8e48e",
-                    "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v5.3.2/reference.fasta",
-                    "schemename": "artic-sars-cov-2",
-                    "schemeversion": "v5.3.2",
-                    "species": [
-                        2697049
-                    ],
-                    "status": "validated"
-                }
-            }
-        },
-        "hav": {
-            "400": {
-                "v1.0.0": {
-                    "algorithmversion": "primalscheme3:1.1.5",
-                    "ampliconsize": 400,
-                    "articbedversion": "v3.0",
-                    "authors": [
-                        "Chris Kent",
-                        "Quick Lab"
-                    ],
-                    "citations": [],
-                    "collections": [
-                        "WHOLE-GENOME",
-                        "QUICK-LAB",
-                        "MODJADJI",
-                        "WASTE-WATER"
-                    ],
-                    "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hav/400/v1.0.0/info.json",
-                    "license": "CC BY-SA 4.0",
-                    "primer_bed_md5": "5c8028df8ad1847cfd2cb8d57af15ea0",
-                    "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hav/400/v1.0.0/primer.bed",
-                    "primerclass": "primerschemes",
-                    "reference_fasta_md5": "06055c7be5786153302d83faa7b5304e",
-                    "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hav/400/v1.0.0/reference.fasta",
-                    "schemename": "hav",
-                    "schemeversion": "v1.0.0",
-                    "species": [
-                        208726
-                    ],
-                    "status": "draft"
-                }
-            }
-        },
-        "hbv": {
-            "500": {
-                "v1.0.0": {
-                    "algorithmversion": "primaldigest:1.1.2",
-                    "ampliconsize": 500,
-                    "articbedversion": "v3.0",
-                    "authors": [
-                        "quick lab",
-                        "artic network"
-                    ],
-                    "citations": [],
-                    "collections": [
-                        "QUICK-LAB",
-                        "WHOLE-GENOME"
-                    ],
-                    "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hbv/500/v1.0.0/info.json",
-                    "license": "CC-BY-4.0",
-                    "primer_bed_md5": "f1874f2b2332dff4b4cd6f0075f128dd",
-                    "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hbv/500/v1.0.0/primer.bed",
-                    "primerclass": "primerschemes",
-                    "reference_fasta_md5": "ba8c5fbd0d52e6d682ee6062bc517ad9",
-                    "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hbv/500/v1.0.0/reference.fasta",
-                    "schemename": "hbv",
-                    "schemeversion": "v1.0.0",
-                    "species": [
-                        10407
-                    ],
-                    "status": "deprecated"
-                },
-                "v1.1.0": {
-                    "algorithmversion": "primaldigest:1.1.3",
-                    "ampliconsize": 500,
-                    "articbedversion": "v3.0",
-                    "authors": [
-                        "quick lab",
-                        "artic network"
-                    ],
-                    "citations": [],
-                    "collections": [
-                        "QUICK-LAB",
-                        "WHOLE-GENOME"
-                    ],
-                    "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hbv/500/v1.1.0/info.json",
-                    "license": "CC-BY-4.0",
-                    "primer_bed_md5": "dd96ade2e5c59377808368cc116a8361",
-                    "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hbv/500/v1.1.0/primer.bed",
-                    "primerclass": "primerschemes",
-                    "reference_fasta_md5": "ba8c5fbd0d52e6d682ee6062bc517ad9",
-                    "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hbv/500/v1.1.0/reference.fasta",
-                    "schemename": "hbv",
-                    "schemeversion": "v1.1.0",
-                    "species": [
-                        10407
-                    ],
-                    "status": "deprecated"
-                }
-            },
-            "600": {
-                "v2.0.0": {
-                    "algorithmversion": "primalscheme3:1.1.3",
-                    "ampliconsize": 600,
-                    "articbedversion": "v3.0",
-                    "authors": [
-                        "Dr Sheila Lumley",
-                        "Chris Kent",
-                        "Quick Lab"
-                    ],
-                    "citations": [],
-                    "collections": [
-                        "WHOLE-GENOME",
-                        "QUICK-LAB"
-                    ],
-                    "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hbv/600/v2.0.0/info.json",
-                    "license": "CC BY-SA 4.0",
-                    "primer_bed_md5": "cc26865ef9128cce73cfa2c0919790ec",
-                    "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hbv/600/v2.0.0/primer.bed",
-                    "primerclass": "primerschemes",
-                    "reference_fasta_md5": "b0c81b63db38a860016236b68977f38e",
-                    "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hbv/600/v2.0.0/reference.fasta",
-                    "schemename": "hbv",
-                    "schemeversion": "v2.0.0",
-                    "species": [
-                        10407
-                    ],
-                    "status": "tested"
-                },
-                "v2.1.0": {
-                    "algorithmversion": "primalscheme3:1.1.4",
-                    "ampliconsize": 600,
-                    "articbedversion": "v3.0",
-                    "authors": [
-                        "Dr Sheila Lumley",
-                        "Chris Kent",
-                        "Quick Lab"
-                    ],
-                    "citations": [],
-                    "collections": [
-                        "QUICK-LAB",
-                        "WHOLE-GENOME"
-                    ],
-                    "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hbv/600/v2.1.0/info.json",
-                    "license": "CC BY-SA 4.0",
-                    "primer_bed_md5": "5af354939e06acc830f7f340720a94b1",
-                    "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hbv/600/v2.1.0/primer.bed",
-                    "primerclass": "primerschemes",
-                    "reference_fasta_md5": "b0c81b63db38a860016236b68977f38e",
-                    "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hbv/600/v2.1.0/reference.fasta",
-                    "schemename": "hbv",
-                    "schemeversion": "v2.1.0",
-                    "species": [
-                        10407
-                    ],
-                    "status": "tested"
-                }
-            }
-        },
-        "hev": {
-            "400": {
-                "v1.0.0": {
-                    "algorithmversion": "primalscheme3:1.1.4",
-                    "ampliconsize": 400,
-                    "articbedversion": "v3.0",
-                    "authors": [
-                        "artic network",
-                        "quick lab"
-                    ],
-                    "citations": [],
-                    "collections": [
-                        "QUICK-LAB",
-                        "WASTE-WATER",
-                        "WHOLE-GENOME"
-                    ],
-                    "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hev/400/v1.0.0/info.json",
-                    "license": "CC BY-SA 4.0",
-                    "primer_bed_md5": "ade0aa4af6881675ffc2203377550bec",
-                    "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hev/400/v1.0.0/primer.bed",
-                    "primerclass": "primerschemes",
-                    "reference_fasta_md5": "fd028d0c1bda3584965792fb57cec0a5",
-                    "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hev/400/v1.0.0/reference.fasta",
-                    "schemename": "hev",
-                    "schemeversion": "v1.0.0",
-                    "species": [
-                        291484
-                    ],
-                    "status": "draft"
-                }
-            }
-        },
-        "marv-2023": {
-            "1000": {
-                "v1.0.0": {
-                    "algorithmversion": "primaldigest:0.1.0",
-                    "ampliconsize": 1000,
-                    "articbedversion": "v3.0",
-                    "authors": [
-                        "Chris Kent",
-                        "Quick Lab"
-                    ],
-                    "citations": [],
-                    "collections": [
-                        "QUICK-LAB",
-                        "WHOLE-GENOME"
-                    ],
-                    "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/marv-2023/1000/v1.0.0/info.json",
-                    "license": "CC BY-SA 4.0",
-                    "primer_bed_md5": "456f574691dac1568438289bc14103a1",
-                    "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/marv-2023/1000/v1.0.0/primer.bed",
-                    "primerclass": "primerschemes",
-                    "reference_fasta_md5": "1cd0d4df77e6b300f9328aa5359998ea",
-                    "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/marv-2023/1000/v1.0.0/reference.fasta",
-                    "schemename": "marv-2023",
-                    "schemeversion": "v1.0.0",
-                    "species": [
-                        3052505
-                    ],
-                    "status": "draft"
-                }
-            }
-        },
-        "mers-cov": {
-            "400": {
-                "v1.0.0": {
-                    "algorithmversion": "primaldigest:1.2.2",
-                    "ampliconsize": 400,
-                    "articbedversion": "v3.0",
-                    "authors": [
-                        "quick lab",
-                        "artic network"
-                    ],
-                    "citations": [],
-                    "collections": [
-                        "WHOLE-GENOME",
-                        "QUICK-LAB"
-                    ],
-                    "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/mers-cov/400/v1.0.0/info.json",
-                    "license": "CC BY-SA 4.0",
-                    "primer_bed_md5": "6853274c2b5b338e7616c99bacef63aa",
-                    "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/mers-cov/400/v1.0.0/primer.bed",
-                    "primerclass": "primerschemes",
-                    "reference_fasta_md5": "6013c953b7924764d8d1ffe9027bc930",
-                    "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/mers-cov/400/v1.0.0/reference.fasta",
-                    "schemename": "mers-cov",
-                    "schemeversion": "v1.0.0",
-                    "species": [
-                        1335626
-                    ],
-                    "status": "draft"
-                }
-            }
-        },
-        "norovirus-gii": {
-            "800": {
-                "v1.0.0": {
-                    "algorithmversion": "primaldigest:1.2.2",
-                    "ampliconsize": 800,
-                    "articbedversion": "v3.0",
-                    "authors": [
-                        "Anna Kovalenko",
-                        "quick lab",
-                        "artic network"
-                    ],
-                    "citations": [],
-                    "collections": [
-                        "QUICK-LAB",
-                        "WHOLE-GENOME"
-                    ],
-                    "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/norovirus-gii/800/v1.0.0/info.json",
-                    "license": "CC BY-SA 4.0",
-                    "primer_bed_md5": "3191ec8a80f14a5688d561fe2cf77e34",
-                    "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/norovirus-gii/800/v1.0.0/primer.bed",
-                    "primerclass": "primerschemes",
-                    "reference_fasta_md5": "d128fe1bf5abe0d68f0f33ecccd4b79e",
-                    "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/norovirus-gii/800/v1.0.0/reference.fasta",
-                    "schemename": "norovirus-gii",
-                    "schemeversion": "v1.0.0",
-                    "species": [
-                        122929
-                    ],
-                    "status": "tested"
-                }
-            }
-        },
-        "pan-measles": {
-            "1000": {
-                "v1.0.0": {
-                    "algorithmversion": "primaldigest:1.2.2",
-                    "ampliconsize": 1000,
-                    "articbedversion": "v3.0",
-                    "authors": [
-                        "artic network",
-                        "quick lab"
-                    ],
-                    "citations": [],
-                    "collections": [],
-                    "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/pan-measles/1000/v1.0.0/info.json",
-                    "license": "CC BY-SA 4.0",
-                    "primer_bed_md5": "0be34569ff26f64d1c4b801661f90c9f",
-                    "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/pan-measles/1000/v1.0.0/primer.bed",
-                    "primerclass": "primerschemes",
-                    "reference_fasta_md5": "2c3dd74742a333dffb50bcfbd158bfbd",
-                    "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/pan-measles/1000/v1.0.0/reference.fasta",
-                    "schemename": "pan-measles",
-                    "schemeversion": "v1.0.0",
-                    "species": [
-                        11234
-                    ],
-                    "status": "draft"
-                }
-            }
-        },
-        "rsva-rsvb": {
-            "1000": {
-                "v1.0.0": {
-                    "algorithmversion": "primalscheme3:0.1.0",
-                    "ampliconsize": 1000,
-                    "articbedversion": "v3.0",
-                    "authors": [
-                        "Quick-lab",
-                        "BCCDC"
-                    ],
-                    "citations": [],
-                    "collections": [
-                        "MULTI-TARGET",
-                        "WHOLE-GENOME"
-                    ],
-                    "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/rsva-rsvb/1000/v1.0.0/info.json",
-                    "license": "CC BY-SA 4.0",
-                    "primer_bed_md5": "f72747adabc1c9a57fa6d8c8698c77cd",
-                    "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/rsva-rsvb/1000/v1.0.0/primer.bed",
-                    "primerclass": "primerschemes",
-                    "reference_fasta_md5": "e2ca3da2ff7d2290cd2011d031ec7744",
-                    "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/rsva-rsvb/1000/v1.0.0/reference.fasta",
-                    "schemename": "rsva-rsvb",
-                    "schemeversion": "v1.0.0",
-                    "species": [
-                        11250
-                    ],
-                    "status": "tested"
-                }
-            }
-        },
-        "who-tb-amr-panel": {
-            "1000": {
-                "v1.0.0": {
-                    "algorithmversion": "primalpanel:0.1.0",
-                    "ampliconsize": 1000,
-                    "articbedversion": "v3.0",
-                    "authors": [
-                        "quick lab",
-                        "artic network"
-                    ],
-                    "citations": [],
-                    "collections": [
-                        "MODJADJI",
-                        "PANEL",
-                        "QUICK-LAB"
-                    ],
-                    "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/who-tb-amr-panel/1000/v1.0.0/info.json",
-                    "license": "CC BY-SA 4.0",
-                    "primer_bed_md5": "5de2031db0062acbc75b2ad7d3de40f4",
-                    "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/who-tb-amr-panel/1000/v1.0.0/primer.bed",
-                    "primerclass": "primerschemes",
-                    "reference_fasta_md5": "864e27657ef9b0e70182b6de7234c440",
-                    "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/who-tb-amr-panel/1000/v1.0.0/reference.fasta",
-                    "schemename": "who-tb-amr-panel",
-                    "schemeversion": "v1.0.0",
-                    "species": [
-                        1773
-                    ],
-                    "status": "draft"
-                },
-                "v2.0.0": {
-                    "algorithmversion": "primalscheme3:1.1.2",
-                    "ampliconsize": 1000,
-                    "articbedversion": "v3.0",
-                    "authors": [
-                        "Chris Kent",
-                        "Quick lab"
-                    ],
-                    "citations": [],
-                    "collections": [
-                        "QUICK-LAB",
-                        "PANEL",
-                        "MODJADJI"
-                    ],
-                    "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/who-tb-amr-panel/1000/v2.0.0/info.json",
-                    "license": "CC BY-SA 4.0",
-                    "primer_bed_md5": "9837df01172dce6ac2d3c4243eac748f",
-                    "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/who-tb-amr-panel/1000/v2.0.0/primer.bed",
-                    "primerclass": "primerschemes",
-                    "reference_fasta_md5": "864e27657ef9b0e70182b6de7234c440",
-                    "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/who-tb-amr-panel/1000/v2.0.0/reference.fasta",
-                    "schemename": "who-tb-amr-panel",
-                    "schemeversion": "v2.0.0",
-                    "species": [
-                        1773
-                    ],
-                    "status": "draft"
-                }
-            }
-        }
+ "primerschemes": {
+  "artic-measles": {
+   "400": {
+    "v1.0.0": {
+     "algorithmversion": "primalscheme3:1.1.4",
+     "ampliconsize": 400,
+     "articbedversion": "v3.0",
+     "authors": [
+      "Chris Kent",
+      "Quick Lab"
+     ],
+     "citations": [],
+     "collections": [
+      "QUICK-LAB",
+      "WHOLE-GENOME",
+      "WASTE-WATER",
+      "ARTIC"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/artic-measles/400/v1.0.0/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "b75c16322b1e1c5e606917b5653c01f1",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/artic-measles/400/v1.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "64a52bcc7c18986db1c11813db518390",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/artic-measles/400/v1.0.0/reference.fasta",
+     "schemename": "artic-measles",
+     "schemeversion": "v1.0.0",
+     "species": [
+      11234
+     ],
+     "status": "tested"
     }
+   }
+  },
+  "artic-pan-ebola": {
+   "1000": {
+    "v1.0.0": {
+     "algorithmversion": "primalscheme3:1.1.0",
+     "ampliconsize": 1000,
+     "articbedversion": "v3.0",
+     "authors": [
+      "artic",
+      "quick-lab"
+     ],
+     "citations": [],
+     "collections": [
+      "QUICK-LAB",
+      "WHOLE-GENOME",
+      "ARTIC",
+      "CLINAL-ISOLATES"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/artic-pan-ebola/1000/v1.0.0/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "6b9554c28693b521cfbe2246091c61af",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/artic-pan-ebola/1000/v1.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "c5432a6813f9a2604ea5e5e2bb94508e",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/artic-pan-ebola/1000/v1.0.0/reference.fasta",
+     "schemename": "artic-pan-ebola",
+     "schemeversion": "v1.0.0",
+     "species": [
+      3044781
+     ],
+     "status": "draft"
+    }
+   }
+  },
+  "artic-sars-cov-2": {
+   "400": {
+    "v1.0.0": {
+     "algorithmversion": "primalscheme1:1.0.0",
+     "ampliconsize": 400,
+     "articbedversion": "v3.0",
+     "authors": [
+      "quick lab",
+      "artic network"
+     ],
+     "citations": [
+      "https://doi.org/10.1038/nprot.2017.066"
+     ],
+     "collections": [
+      "QUICK-LAB",
+      "WHOLE-GENOME",
+      "WASTE-WATER",
+      "ARTIC"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/artic-sars-cov-2/400/v1.0.0/info.json",
+     "license": "CC-BY-4.0",
+     "primer_bed_md5": "c79fcfba30e22def02857c8455576a82",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/artic-sars-cov-2/400/v1.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/artic-sars-cov-2/400/v1.0.0/reference.fasta",
+     "schemename": "artic-sars-cov-2",
+     "schemeversion": "v1.0.0",
+     "species": [
+      2697049
+     ],
+     "status": "deprecated"
+    },
+    "v2.0.0": {
+     "algorithmversion": "primalscheme1:1.0.0",
+     "ampliconsize": 400,
+     "articbedversion": "v3.0",
+     "authors": [
+      "quick lab",
+      "artic network"
+     ],
+     "citations": [
+      "https://doi.org/10.1038/nprot.2017.066"
+     ],
+     "collections": [
+      "QUICK-LAB",
+      "WHOLE-GENOME",
+      "WASTE-WATER",
+      "ARTIC"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/artic-sars-cov-2/400/v2.0.0/info.json",
+     "license": "CC-BY-4.0",
+     "primer_bed_md5": "1557b50d412bfdc84f8e8b55652235e6",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/artic-sars-cov-2/400/v2.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/artic-sars-cov-2/400/v2.0.0/reference.fasta",
+     "schemename": "artic-sars-cov-2",
+     "schemeversion": "v2.0.0",
+     "species": [
+      2697049
+     ],
+     "status": "deprecated"
+    },
+    "v3.0.0": {
+     "algorithmversion": "primalscheme1:1.0.0",
+     "ampliconsize": 400,
+     "articbedversion": "v3.0",
+     "authors": [
+      "artic network",
+      "quick lab"
+     ],
+     "citations": [
+      "https://doi.org/10.1038/nprot.2017.066"
+     ],
+     "collections": [
+      "QUICK-LAB",
+      "WHOLE-GENOME",
+      "WASTE-WATER",
+      "ARTIC"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/artic-sars-cov-2/400/v3.0.0/info.json",
+     "license": "CC-BY-4.0",
+     "primer_bed_md5": "28daaaaffdb5b4755679f63df52a4d64",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/artic-sars-cov-2/400/v3.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/artic-sars-cov-2/400/v3.0.0/reference.fasta",
+     "schemename": "artic-sars-cov-2",
+     "schemeversion": "v3.0.0",
+     "species": [
+      2697049
+     ],
+     "status": "deprecated"
+    },
+    "v4.0.0": {
+     "algorithmversion": "primalscheme1:1.0.0",
+     "ampliconsize": 400,
+     "articbedversion": "v3.0",
+     "authors": [
+      "artic network",
+      "quick lab"
+     ],
+     "citations": [],
+     "collections": [
+      "QUICK-LAB",
+      "WHOLE-GENOME",
+      "WASTE-WATER",
+      "ARTIC"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/artic-sars-cov-2/400/v4.0.0/info.json",
+     "license": "CC-BY-4.0",
+     "primer_bed_md5": "5077a58857f44ace5a9ccd36589749a9",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/artic-sars-cov-2/400/v4.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/artic-sars-cov-2/400/v4.0.0/reference.fasta",
+     "schemename": "artic-sars-cov-2",
+     "schemeversion": "v4.0.0",
+     "species": [
+      2697049
+     ],
+     "status": "deprecated"
+    },
+    "v4.1.0": {
+     "algorithmversion": "primalscheme1:1.0.0",
+     "ampliconsize": 400,
+     "articbedversion": "v3.0",
+     "authors": [
+      "quick lab",
+      "artic network"
+     ],
+     "citations": [
+      "https://doi.org/10.1038/nprot.2017.066"
+     ],
+     "collections": [
+      "QUICK-LAB",
+      "WHOLE-GENOME",
+      "WASTE-WATER",
+      "ARTIC"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/artic-sars-cov-2/400/v4.1.0/info.json",
+     "license": "CC-BY-4.0",
+     "primer_bed_md5": "fa3f9b79958aa302aea429aca5a7c729",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/artic-sars-cov-2/400/v4.1.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/artic-sars-cov-2/400/v4.1.0/reference.fasta",
+     "schemename": "artic-sars-cov-2",
+     "schemeversion": "v4.1.0",
+     "species": [
+      2697049
+     ],
+     "status": "deprecated"
+    },
+    "v5.0.0": {
+     "algorithmversion": "primalscheme2:1.0.0",
+     "ampliconsize": 400,
+     "articbedversion": "v3.0",
+     "authors": [
+      "artic network",
+      "quick lab"
+     ],
+     "citations": [],
+     "collections": [
+      "QUICK-LAB",
+      "WHOLE-GENOME",
+      "WASTE-WATER",
+      "ARTIC"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/artic-sars-cov-2/400/v5.0.0/info.json",
+     "license": "CC-BY-4.0",
+     "primer_bed_md5": "5f418a89de5057d03d6c3eb53cad7f65",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/artic-sars-cov-2/400/v5.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/artic-sars-cov-2/400/v5.0.0/reference.fasta",
+     "schemename": "artic-sars-cov-2",
+     "schemeversion": "v5.0.0",
+     "species": [
+      2697049
+     ],
+     "status": "deprecated"
+    },
+    "v5.2.0": {
+     "algorithmversion": "primalscheme2:1.0.0",
+     "ampliconsize": 400,
+     "articbedversion": "v3.0",
+     "authors": [
+      "quick lab",
+      "artic network"
+     ],
+     "citations": [],
+     "collections": [
+      "QUICK-LAB",
+      "WHOLE-GENOME",
+      "WASTE-WATER",
+      "ARTIC"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/artic-sars-cov-2/400/v5.2.0/info.json",
+     "license": "CC-BY-4.0",
+     "primer_bed_md5": "bcc36e40e758395f14dbd20f67e1e18d",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/artic-sars-cov-2/400/v5.2.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/artic-sars-cov-2/400/v5.2.0/reference.fasta",
+     "schemename": "artic-sars-cov-2",
+     "schemeversion": "v5.2.0",
+     "species": [
+      2697049
+     ],
+     "status": "deprecated"
+    },
+    "v5.3.2": {
+     "algorithmversion": "primalscheme2:1.0.0",
+     "ampliconsize": 400,
+     "articbedversion": "v3.0",
+     "authors": [
+      "artic network",
+      "quick lab",
+      "bccdc"
+     ],
+     "citations": [],
+     "collections": [
+      "QUICK-LAB",
+      "WHOLE-GENOME",
+      "WASTE-WATER",
+      "ARTIC"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/artic-sars-cov-2/400/v5.3.2/info.json",
+     "license": "CC-BY-4.0",
+     "primer_bed_md5": "46a3aeddc452678bd0cd33efc1c9558f",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/artic-sars-cov-2/400/v5.3.2/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/artic-sars-cov-2/400/v5.3.2/reference.fasta",
+     "schemename": "artic-sars-cov-2",
+     "schemeversion": "v5.3.2",
+     "species": [
+      2697049
+     ],
+     "status": "validated"
+    }
+   }
+  },
+  "hav": {
+   "400": {
+    "v1.0.0": {
+     "algorithmversion": "primalscheme3:1.1.5",
+     "ampliconsize": 400,
+     "articbedversion": "v3.0",
+     "authors": [
+      "Chris Kent",
+      "Quick Lab"
+     ],
+     "citations": [],
+     "collections": [
+      "QUICK-LAB",
+      "WHOLE-GENOME",
+      "WASTE-WATER",
+      "MODJADJI"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/hav/400/v1.0.0/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "cfe6cf31d9673a9e3ab0a8e20dc9ad57",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/hav/400/v1.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "ab1fa7d7814de5eea0ba9d11644d0d6b",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/hav/400/v1.0.0/reference.fasta",
+     "schemename": "hav",
+     "schemeversion": "v1.0.0",
+     "species": [
+      208726
+     ],
+     "status": "draft"
+    }
+   }
+  },
+  "hbv": {
+   "500": {
+    "v1.0.0": {
+     "algorithmversion": "primaldigest:1.1.2",
+     "ampliconsize": 500,
+     "articbedversion": "v3.0",
+     "authors": [
+      "quick lab",
+      "artic network"
+     ],
+     "citations": [],
+     "collections": [
+      "QUICK-LAB",
+      "WHOLE-GENOME"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/hbv/500/v1.0.0/info.json",
+     "license": "CC-BY-4.0",
+     "primer_bed_md5": "c49dd3634bb727c6e04dba56236c5352",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/hbv/500/v1.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "7612eab3e2389215206ae17187da1791",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/hbv/500/v1.0.0/reference.fasta",
+     "schemename": "hbv",
+     "schemeversion": "v1.0.0",
+     "species": [
+      10407
+     ],
+     "status": "deprecated"
+    },
+    "v1.1.0": {
+     "algorithmversion": "primaldigest:1.1.3",
+     "ampliconsize": 500,
+     "articbedversion": "v3.0",
+     "authors": [
+      "quick lab",
+      "artic network"
+     ],
+     "citations": [],
+     "collections": [
+      "QUICK-LAB",
+      "WHOLE-GENOME"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/hbv/500/v1.1.0/info.json",
+     "license": "CC-BY-4.0",
+     "primer_bed_md5": "4700089ebc8db0b88296512dcfc47818",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/hbv/500/v1.1.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "7612eab3e2389215206ae17187da1791",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/hbv/500/v1.1.0/reference.fasta",
+     "schemename": "hbv",
+     "schemeversion": "v1.1.0",
+     "species": [
+      10407
+     ],
+     "status": "deprecated"
+    }
+   },
+   "600": {
+    "v2.0.0": {
+     "algorithmversion": "primalscheme3:1.1.3",
+     "ampliconsize": 600,
+     "articbedversion": "v3.0",
+     "authors": [
+      "Dr Sheila Lumley",
+      "Chris Kent",
+      "Quick Lab"
+     ],
+     "citations": [],
+     "collections": [
+      "QUICK-LAB",
+      "WHOLE-GENOME"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/hbv/600/v2.0.0/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "b87ea41cdc94f223cd4cc836f6d333eb",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/hbv/600/v2.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "b01f2e0109981e19316692538f57b4d9",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/hbv/600/v2.0.0/reference.fasta",
+     "schemename": "hbv",
+     "schemeversion": "v2.0.0",
+     "species": [
+      10407
+     ],
+     "status": "tested"
+    },
+    "v2.1.0": {
+     "algorithmversion": "primalscheme3:1.1.4",
+     "ampliconsize": 600,
+     "articbedversion": "v3.0",
+     "authors": [
+      "Dr Sheila Lumley",
+      "Chris Kent",
+      "Quick Lab"
+     ],
+     "citations": [],
+     "collections": [
+      "QUICK-LAB",
+      "WHOLE-GENOME"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/hbv/600/v2.1.0/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "fe08351d442639483b771b2a9c1e3039",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/hbv/600/v2.1.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "b01f2e0109981e19316692538f57b4d9",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/hbv/600/v2.1.0/reference.fasta",
+     "schemename": "hbv",
+     "schemeversion": "v2.1.0",
+     "species": [
+      10407
+     ],
+     "status": "tested"
+    }
+   }
+  },
+  "hev": {
+   "400": {
+    "v1.0.0": {
+     "algorithmversion": "primalscheme3:1.1.4",
+     "ampliconsize": 400,
+     "articbedversion": "v3.0",
+     "authors": [
+      "artic network",
+      "quick lab"
+     ],
+     "citations": [],
+     "collections": [
+      "QUICK-LAB",
+      "WHOLE-GENOME",
+      "WASTE-WATER"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/hev/400/v1.0.0/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "c74a6ee17c526bdbf6cb7f98435bd922",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/hev/400/v1.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "5322c8052fb3d379b18ae06ca775237b",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/hev/400/v1.0.0/reference.fasta",
+     "schemename": "hev",
+     "schemeversion": "v1.0.0",
+     "species": [
+      291484
+     ],
+     "status": "draft"
+    }
+   }
+  },
+  "marv-2023": {
+   "1000": {
+    "v1.0.0": {
+     "algorithmversion": "primaldigest:0.1.0",
+     "ampliconsize": 1000,
+     "articbedversion": "v3.0",
+     "authors": [
+      "Chris Kent",
+      "Quick Lab"
+     ],
+     "citations": [],
+     "collections": [
+      "QUICK-LAB",
+      "WHOLE-GENOME"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/marv-2023/1000/v1.0.0/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "dd71caa5dfb12f963704396ca3ecd28c",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/marv-2023/1000/v1.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "2bca0f13c96d85bc48acaa1522531540",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/marv-2023/1000/v1.0.0/reference.fasta",
+     "schemename": "marv-2023",
+     "schemeversion": "v1.0.0",
+     "species": [
+      3052505
+     ],
+     "status": "draft"
+    }
+   }
+  },
+  "mers-cov": {
+   "400": {
+    "v1.0.0": {
+     "algorithmversion": "primaldigest:1.2.2",
+     "ampliconsize": 400,
+     "articbedversion": "v3.0",
+     "authors": [
+      "quick lab",
+      "artic network"
+     ],
+     "citations": [],
+     "collections": [
+      "QUICK-LAB",
+      "WHOLE-GENOME"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/mers-cov/400/v1.0.0/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "44cd0826cb40f4dae7ad8982d34f7009",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/mers-cov/400/v1.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "957cb36597491259c943120c55ca57d9",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/mers-cov/400/v1.0.0/reference.fasta",
+     "schemename": "mers-cov",
+     "schemeversion": "v1.0.0",
+     "species": [
+      1335626
+     ],
+     "status": "draft"
+    }
+   }
+  },
+  "norovirus-gii": {
+   "800": {
+    "v1.0.0": {
+     "algorithmversion": "primaldigest:1.2.2",
+     "ampliconsize": 800,
+     "articbedversion": "v3.0",
+     "authors": [
+      "Anna Kovalenko",
+      "quick lab",
+      "artic network"
+     ],
+     "citations": [],
+     "collections": [
+      "QUICK-LAB",
+      "WHOLE-GENOME"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/norovirus-gii/800/v1.0.0/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "0c0e8a4dd7b6e3287b60c555a14144ad",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/norovirus-gii/800/v1.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "88cba0415494cd9837e2523051cb636f",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/norovirus-gii/800/v1.0.0/reference.fasta",
+     "schemename": "norovirus-gii",
+     "schemeversion": "v1.0.0",
+     "species": [
+      122929
+     ],
+     "status": "tested"
+    }
+   }
+  },
+  "pan-measles": {
+   "1000": {
+    "v1.0.0": {
+     "algorithmversion": "primaldigest:1.2.2",
+     "ampliconsize": 1000,
+     "articbedversion": "v3.0",
+     "authors": [
+      "artic network",
+      "quick lab"
+     ],
+     "citations": [],
+     "collections": [],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/pan-measles/1000/v1.0.0/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "33c3448c2f09aed2166c0e22848866a9",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/pan-measles/1000/v1.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "64a52bcc7c18986db1c11813db518390",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/pan-measles/1000/v1.0.0/reference.fasta",
+     "schemename": "pan-measles",
+     "schemeversion": "v1.0.0",
+     "species": [
+      11234
+     ],
+     "status": "draft"
+    }
+   }
+  },
+  "rsva-rsvb": {
+   "1000": {
+    "v1.0.0": {
+     "algorithmversion": "primalscheme3:0.1.0",
+     "ampliconsize": 1000,
+     "articbedversion": "v3.0",
+     "authors": [
+      "Quick-lab",
+      "BCCDC"
+     ],
+     "citations": [],
+     "collections": [
+      "MULTI-TARGET",
+      "WHOLE-GENOME"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/rsva-rsvb/1000/v1.0.0/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "86ade75b8623839e69b0999ef9dbc0a0",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/rsva-rsvb/1000/v1.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "4aeb8337b19d9c09571439fd62d03742",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/rsva-rsvb/1000/v1.0.0/reference.fasta",
+     "schemename": "rsva-rsvb",
+     "schemeversion": "v1.0.0",
+     "species": [
+      11250
+     ],
+     "status": "tested"
+    }
+   }
+  },
+  "who-tb-amr-panel": {
+   "1000": {
+    "v1.0.0": {
+     "algorithmversion": "primalpanel:0.1.0",
+     "ampliconsize": 1000,
+     "articbedversion": "v3.0",
+     "authors": [
+      "quick lab",
+      "artic network"
+     ],
+     "citations": [],
+     "collections": [
+      "QUICK-LAB",
+      "PANEL",
+      "MODJADJI"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/who-tb-amr-panel/1000/v1.0.0/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "5f7e27087a0ec714275ba44b0ec27524",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/who-tb-amr-panel/1000/v1.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "77cabd2a9f46614628d15371081ab4a1",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/who-tb-amr-panel/1000/v1.0.0/reference.fasta",
+     "schemename": "who-tb-amr-panel",
+     "schemeversion": "v1.0.0",
+     "species": [
+      1773
+     ],
+     "status": "draft"
+    },
+    "v2.0.0": {
+     "algorithmversion": "primalscheme3:1.1.2",
+     "ampliconsize": 1000,
+     "articbedversion": "v3.0",
+     "authors": [
+      "Chris Kent",
+      "Quick lab"
+     ],
+     "citations": [],
+     "collections": [
+      "QUICK-LAB",
+      "PANEL",
+      "MODJADJI"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/who-tb-amr-panel/1000/v2.0.0/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "a63b24ae3669ebfd11c938c9fa37d648",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/who-tb-amr-panel/1000/v2.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "77cabd2a9f46614628d15371081ab4a1",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/main/primerschemes/who-tb-amr-panel/1000/v2.0.0/reference.fasta",
+     "schemename": "who-tb-amr-panel",
+     "schemeversion": "v2.0.0",
+     "species": [
+      1773
+     ],
+     "status": "draft"
+    }
+   }
+  }
+ }
 }

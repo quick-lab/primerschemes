@@ -2,8 +2,8 @@
     "ampliconsize": 600,
     "schemeversion": "v2.0.0",
     "schemename": "hbv",
-    "primer_bed_md5": "cc26865ef9128cce73cfa2c0919790ec",
-    "reference_fasta_md5": "b0c81b63db38a860016236b68977f38e",
+    "primer_bed_md5": "b87ea41cdc94f223cd4cc836f6d333eb",
+    "reference_fasta_md5": "b01f2e0109981e19316692538f57b4d9",
     "status": "tested",
     "citations": [],
     "authors": [
@@ -17,12 +17,20 @@
     ],
     "license": "CC BY-SA 4.0",
     "primerclass": "primerschemes",
-    "infoschema": "v1.3.0",
+    "infoschema": "v2.0.0",
     "articbedversion": "v3.0",
+    "collections": [
+        "QUICK-LAB",
+        "WHOLE-GENOME"
+    ],
+    "links": {
+        "protocals": [],
+        "validation": [],
+        "homepage": [],
+        "vendors": [],
+        "misc": []
+    },
     "description": "A 600bp high overlap scheme for HBV. Using phylogenetic downsampling to reduce bias in under represented HBV Clades",
     "derivedfrom": null,
-    "collections": [
-        "WHOLE-GENOME",
-        "QUICK-LAB"
-    ]
+    "contactinfo": null
 }

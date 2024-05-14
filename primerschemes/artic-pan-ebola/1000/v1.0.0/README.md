@@ -1,5 +1,7 @@
 # artic-pan-ebola 1000bp v1.0.0
 
+[primalscheme labs](https://labs.primalscheme.com/detail/artic-pan-ebola/1000/v1.0.0)
+
 ## Overviews
 
 ![NC_006432.1.png](work/NC_006432.1.png)
@@ -11,8 +13,8 @@
     "ampliconsize": 1000,
     "schemeversion": "v1.0.0",
     "schemename": "artic-pan-ebola",
-    "primer_bed_md5": "c58ec3b4d07d24499106fed6501016a9",
-    "reference_fasta_md5": "083c89a1798778fbe94a643d83a6fbb1",
+    "primer_bed_md5": "6b9554c28693b521cfbe2246091c61af",
+    "reference_fasta_md5": "c5432a6813f9a2604ea5e5e2bb94508e",
     "status": "draft",
     "citations": [],
     "authors": [
@@ -25,16 +27,24 @@
     ],
     "license": "CC BY-SA 4.0",
     "primerclass": "primerschemes",
-    "infoschema": "v1.3.0",
+    "infoschema": "v2.0.0",
     "articbedversion": "v3.0",
+    "collections": [
+        "QUICK-LAB",
+        "WHOLE-GENOME",
+        "ARTIC",
+        "CLINAL-ISOLATES"
+    ],
+    "links": {
+        "protocals": [],
+        "validation": [],
+        "homepage": [],
+        "vendors": [],
+        "misc": []
+    },
     "description": null,
     "derivedfrom": null,
-    "collections": [
-        "CLINAL-ISOLATES",
-        "WHOLE-GENOME",
-        "QUICK-LAB",
-        "ARTIC"
-    ]
+    "contactinfo": null
 }
 ```
 

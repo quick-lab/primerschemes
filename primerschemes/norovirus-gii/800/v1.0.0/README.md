@@ -1,5 +1,7 @@
 # norovirus-gii 800bp v1.0.0
 
+[primalscheme labs](https://labs.primalscheme.com/detail/norovirus-gii/800/v1.0.0)
+
 ## Description
 
 A scheme designed for pan Norovirus gii
@@ -15,8 +17,8 @@ A scheme designed for pan Norovirus gii
     "ampliconsize": 800,
     "schemeversion": "v1.0.0",
     "schemename": "norovirus-gii",
-    "primer_bed_md5": "3191ec8a80f14a5688d561fe2cf77e34",
-    "reference_fasta_md5": "d128fe1bf5abe0d68f0f33ecccd4b79e",
+    "primer_bed_md5": "0c0e8a4dd7b6e3287b60c555a14144ad",
+    "reference_fasta_md5": "88cba0415494cd9837e2523051cb636f",
     "status": "tested",
     "citations": [],
     "authors": [
@@ -30,14 +32,22 @@ A scheme designed for pan Norovirus gii
     ],
     "license": "CC BY-SA 4.0",
     "primerclass": "primerschemes",
-    "infoschema": "v1.3.0",
+    "infoschema": "v2.0.0",
     "articbedversion": "v3.0",
-    "description": "A scheme designed for pan Norovirus gii",
-    "derivedfrom": null,
     "collections": [
         "QUICK-LAB",
         "WHOLE-GENOME"
-    ]
+    ],
+    "links": {
+        "protocals": [],
+        "validation": [],
+        "homepage": [],
+        "vendors": [],
+        "misc": []
+    },
+    "description": "A scheme designed for pan Norovirus gii",
+    "derivedfrom": null,
+    "contactinfo": null
 }
 ```
 

@@ -1,5 +1,7 @@
 # artic-sars-cov-2 400bp v5.0.0
 
+[primalscheme labs](https://labs.primalscheme.com/detail/artic-sars-cov-2/400/v5.0.0)
+
 ## Description
 
 Schemes generated for the SARs-CoV-2 Outbreak
@@ -13,8 +15,8 @@ Schemes generated for the SARs-CoV-2 Outbreak
     "ampliconsize": 400,
     "schemeversion": "v5.0.0",
     "schemename": "artic-sars-cov-2",
-    "primer_bed_md5": "409cd97bae3cf62207311f6e2f52f841",
-    "reference_fasta_md5": "92ed86bf00cf94f9daef6acc81a8e48e",
+    "primer_bed_md5": "5f418a89de5057d03d6c3eb53cad7f65",
+    "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
     "status": "deprecated",
     "citations": [],
     "authors": [
@@ -27,16 +29,24 @@ Schemes generated for the SARs-CoV-2 Outbreak
     ],
     "license": "CC-BY-4.0",
     "primerclass": "primerschemes",
-    "infoschema": "v1.3.0",
+    "infoschema": "v2.0.0",
     "articbedversion": "v3.0",
-    "description": "Schemes generated for the SARs-CoV-2 Outbreak",
-    "derivedfrom": null,
     "collections": [
-        "ARTIC",
         "QUICK-LAB",
         "WHOLE-GENOME",
-        "WASTE-WATER"
-    ]
+        "WASTE-WATER",
+        "ARTIC"
+    ],
+    "links": {
+        "protocals": [],
+        "validation": [],
+        "homepage": [],
+        "vendors": [],
+        "misc": []
+    },
+    "description": "Schemes generated for the SARs-CoV-2 Outbreak",
+    "derivedfrom": null,
+    "contactinfo": null
 }
 ```
 

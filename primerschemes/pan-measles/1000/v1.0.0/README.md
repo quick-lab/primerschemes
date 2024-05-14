@@ -1,5 +1,7 @@
 # pan-measles 1000bp v1.0.0
 
+[primalscheme labs](https://labs.primalscheme.com/detail/pan-measles/1000/v1.0.0)
+
 ## Overviews
 
 ![NC_001498.1.png](work/NC_001498.1.png)
@@ -11,8 +13,8 @@
     "ampliconsize": 1000,
     "schemeversion": "v1.0.0",
     "schemename": "pan-measles",
-    "primer_bed_md5": "0be34569ff26f64d1c4b801661f90c9f",
-    "reference_fasta_md5": "2c3dd74742a333dffb50bcfbd158bfbd",
+    "primer_bed_md5": "33c3448c2f09aed2166c0e22848866a9",
+    "reference_fasta_md5": "64a52bcc7c18986db1c11813db518390",
     "status": "draft",
     "citations": [],
     "authors": [
@@ -25,11 +27,19 @@
     ],
     "license": "CC BY-SA 4.0",
     "primerclass": "primerschemes",
-    "infoschema": "v1.3.0",
+    "infoschema": "v2.0.0",
     "articbedversion": "v3.0",
+    "collections": [],
+    "links": {
+        "protocals": [],
+        "validation": [],
+        "homepage": [],
+        "vendors": [],
+        "misc": []
+    },
     "description": null,
     "derivedfrom": null,
-    "collections": []
+    "contactinfo": null
 }
 ```
 
