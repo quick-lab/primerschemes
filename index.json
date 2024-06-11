@@ -1,5 +1,5 @@
 {
- "github-commit-sha": "856335f995c69aed2ef6dd1fff7fe69eaeb6a0c8",
+ "github-commit-sha": "6e8c39310ddb1ca12a8786ec97a989379a8e0789",
  "primerschemes": {
   "artic-measles": {
    "400": {
@@ -627,15 +627,15 @@
      ],
      "citations": [],
      "collections": [
-      "MULTI-TARGET",
-      "WHOLE-GENOME"
+      "WHOLE-GENOME",
+      "MULTI-TARGET"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/rsva-rsvb/1000/v1.0.0/info.json",
      "license": "CC BY-SA 4.0",
      "primer_bed_md5": "86ade75b8623839e69b0999ef9dbc0a0",
      "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/rsva-rsvb/1000/v1.0.0/primer.bed",
      "primerclass": "primerschemes",
-     "reference_fasta_md5": "4aeb8337b19d9c09571439fd62d03742",
+     "reference_fasta_md5": "7e5199236195a5fb3a61b552225e9432",
      "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/rsva-rsvb/1000/v1.0.0/reference.fasta",
      "schemename": "rsva-rsvb",
      "schemeversion": "v1.0.0",
