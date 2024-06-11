@@ -16,7 +16,7 @@ A Scheme for RSVA and RSVB. Schemes can be used separately or multiplexed
     "schemeversion": "v1.0.0",
     "schemename": "rsva-rsvb",
     "primer_bed_md5": "86ade75b8623839e69b0999ef9dbc0a0",
-    "reference_fasta_md5": "4aeb8337b19d9c09571439fd62d03742",
+    "reference_fasta_md5": "7e5199236195a5fb3a61b552225e9432",
     "status": "tested",
     "citations": [],
     "authors": [
