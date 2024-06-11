@@ -32,8 +32,8 @@ A Scheme for RSVA and RSVB. Schemes can be used separately or multiplexed
     "infoschema": "v2.0.0",
     "articbedversion": "v3.0",
     "collections": [
-        "MULTI-TARGET",
-        "WHOLE-GENOME"
+        "WHOLE-GENOME",
+        "MULTI-TARGET"
     ],
     "links": {
         "protocals": [],
