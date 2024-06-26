@@ -1,0 +1,32 @@
+{
+    "ampliconsize": 250,
+    "schemeversion": "v1.0.0",
+    "schemename": "AVRL_H5N1_HPAI",
+    "primer_bed_md5": "a57100d96ca5f093ff0a7d22bd6dd197",
+    "reference_fasta_md5": "10e94cd7063dfdd7d69e67d84ff15615",
+    "status": "draft",
+    "citations": [
+        "https://doi.org/10.17504/protocols.io.kqdg322kpv25/v1"
+    ],
+    "authors": [
+        "David H. O'Connor",
+        "Thomas C. Friedrich"
+    ],
+    "algorithmversion": "primalscheme1:1.4.1",
+    "species": [
+        102793
+    ],
+    "license": "CC-BY-4.0",
+    "primerclass": "primerschemes",
+    "infoschema": "v1.0.0",
+    "links": {
+        "protocals": [],
+        "validation": [],
+        "homepage": [],
+        "vendors": [],
+        "misc": []
+    },
+    "description": "Schemes generated for HPAI H5N1 outbreak in cattle, 2024",
+    "derivedfrom": null,
+    "contactinfo": null
+}
