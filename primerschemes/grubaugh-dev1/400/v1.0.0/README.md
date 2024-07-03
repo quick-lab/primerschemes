@@ -14,7 +14,7 @@ Primer scheme for dengue virus serotype 1
 {
     "ampliconsize": 400,
     "schemeversion": "v1.0.0",
-    "schemename": "grubaugh-dev1",
+    "schemename": "Yale-denv1",
     "primer_bed_md5": "d9313af2b6e87cf9afc0fee4d17ebeb0",
     "reference_fasta_md5": "cad1eaac8e6d90db62c25c8a8b9a644b",
     "status": "validated",
