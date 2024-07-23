@@ -38,7 +38,7 @@ Primerscheme designed for the whole genome of Powassan virus
         "COMMUNITY"
     ],
     "links": {
-        "protocals": [],
+        "protocols": [],
         "validation": [],
         "homepage": [],
         "vendors": [],

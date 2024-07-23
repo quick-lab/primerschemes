@@ -38,7 +38,7 @@ A scheme generated in response to the Marburg virus outbreak, currently (2023) r
         "WHOLE-GENOME"
     ],
     "links": {
-        "protocals": [],
+        "protocols": [],
         "validation": [],
         "homepage": [],
         "vendors": [],

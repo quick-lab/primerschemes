@@ -39,7 +39,7 @@ A panel containing ~1200 mutations in WHO/UCN/GTB/PCI/2021.7, alongside 60 typin
         "MODJADJI"
     ],
     "links": {
-        "protocals": [],
+        "protocols": [],
         "validation": [],
         "homepage": [],
         "vendors": [],

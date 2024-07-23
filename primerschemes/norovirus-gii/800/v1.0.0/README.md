@@ -39,7 +39,7 @@ A scheme designed for pan Norovirus gii
         "WHOLE-GENOME"
     ],
     "links": {
-        "protocals": [],
+        "protocols": [],
         "validation": [],
         "homepage": [],
         "vendors": [],

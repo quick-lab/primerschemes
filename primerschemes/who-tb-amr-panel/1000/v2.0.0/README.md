@@ -39,7 +39,7 @@ An updated version of who-tb-amr-panel/1000/v1.0.0, with 60 aditional amplicions
         "MODJADJI"
     ],
     "links": {
-        "protocals": [],
+        "protocols": [],
         "validation": [],
         "homepage": [],
         "vendors": [],

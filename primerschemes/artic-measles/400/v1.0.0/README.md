@@ -40,7 +40,7 @@ A pan Measles morbillivirus scheme. All full length genomes have been downloaded
         "ARTIC"
     ],
     "links": {
-        "protocals": [],
+        "protocols": [],
         "validation": [],
         "homepage": [],
         "vendors": [],

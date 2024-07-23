@@ -39,7 +39,7 @@ Primerscheme designed for the whole genome of Mycobacterium tuberculosis
         "COMMUNITY"
     ],
     "links": {
-        "protocals": [],
+        "protocols": [],
         "validation": [],
         "homepage": [],
         "vendors": [],

@@ -36,7 +36,7 @@ A Scheme for RSVA and RSVB. Schemes can be used separately or multiplexed
         "MULTI-TARGET"
     ],
     "links": {
-        "protocals": [],
+        "protocols": [],
         "validation": [],
         "homepage": [],
         "vendors": [],

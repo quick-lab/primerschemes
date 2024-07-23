@@ -38,7 +38,7 @@ Schemes generated for the Hepatitis B virus (hbv)
         "WHOLE-GENOME"
     ],
     "links": {
-        "protocals": [],
+        "protocols": [],
         "validation": [],
         "homepage": [],
         "vendors": [],

@@ -37,7 +37,7 @@ Primerscheme designed for the whole genome of West Nile Virus
         "WHOLE-GENOME"
     ],
     "links": {
-        "protocals": [],
+        "protocols": [],
         "validation": [],
         "homepage": [],
         "vendors": [],

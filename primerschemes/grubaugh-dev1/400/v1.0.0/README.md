@@ -44,7 +44,7 @@ Primer scheme for dengue virus serotype 1
         "COMMUNITY"
     ],
     "links": {
-        "protocals": [
+        "protocols": [
             "dx.doi.org/10.17504/protocols.io.kqdg39xxeg25/v3"
         ],
         "validation": [],

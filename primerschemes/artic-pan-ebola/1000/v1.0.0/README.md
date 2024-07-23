@@ -33,10 +33,10 @@
         "QUICK-LAB",
         "WHOLE-GENOME",
         "ARTIC",
-        "CLINAL-ISOLATES"
+        "CLINICAL-ISOLATES"
     ],
     "links": {
-        "protocals": [],
+        "protocols": [],
         "validation": [],
         "homepage": [],
         "vendors": [],

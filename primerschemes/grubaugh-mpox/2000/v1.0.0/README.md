@@ -40,7 +40,7 @@ Primerscheme designed for the global outbreak of human Monkeypox virus (hMPXV)
         "WHOLE-GENOME"
     ],
     "links": {
-        "protocals": [
+        "protocols": [
             "dx.doi.org/10.17504/protocols.io.5qpvob1nbl4o/v4"
         ],
         "validation": [],

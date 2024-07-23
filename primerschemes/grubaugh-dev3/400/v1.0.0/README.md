@@ -44,7 +44,7 @@ Primer scheme for dengue virus serotype 3
         "WHOLE-GENOME"
     ],
     "links": {
-        "protocals": [
+        "protocols": [
             "dx.doi.org/10.17504/protocols.io.kqdg39xxeg25/v3"
         ],
         "validation": [],

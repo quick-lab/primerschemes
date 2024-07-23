@@ -40,7 +40,7 @@ A PrimerScheme for Human hepatitis A virus (HAV)
         "MODJADJI"
     ],
     "links": {
-        "protocals": [],
+        "protocols": [],
         "validation": [],
         "homepage": [],
         "vendors": [],

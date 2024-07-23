@@ -38,7 +38,7 @@ Schemes generated for the SARs-CoV-2 Outbreak
         "ARTIC"
     ],
     "links": {
-        "protocals": [],
+        "protocols": [],
         "validation": [],
         "homepage": [],
         "vendors": [],

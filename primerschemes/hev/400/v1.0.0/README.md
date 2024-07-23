@@ -39,7 +39,7 @@ A full genome scheme designed for the Hepatitis E virus. Utilising phylogenic do
         "WASTE-WATER"
     ],
     "links": {
-        "protocals": [],
+        "protocols": [],
         "validation": [],
         "homepage": [],
         "vendors": [],

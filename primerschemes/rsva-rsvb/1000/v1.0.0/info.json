@@ -1,35 +1,27 @@
 {
-    "ampliconsize": 1000,
-    "schemeversion": "v1.0.0",
-    "schemename": "rsva-rsvb",
-    "primer_bed_md5": "86ade75b8623839e69b0999ef9dbc0a0",
-    "reference_fasta_md5": "7e5199236195a5fb3a61b552225e9432",
-    "status": "tested",
-    "citations": [],
-    "authors": [
-        "Quick-lab",
-        "BCCDC"
-    ],
-    "algorithmversion": "primalscheme3:0.1.0",
-    "species": [
-        11250
-    ],
-    "license": "CC BY-SA 4.0",
-    "primerclass": "primerschemes",
-    "infoschema": "v2.0.0",
-    "articbedversion": "v3.0",
-    "collections": [
-        "WHOLE-GENOME",
-        "MULTI-TARGET"
-    ],
-    "links": {
-        "protocals": [],
-        "validation": [],
-        "homepage": [],
-        "vendors": [],
-        "misc": []
-    },
-    "description": "A Scheme for RSVA and RSVB. Schemes can be used separately or multiplexed",
-    "derivedfrom": null,
-    "contactinfo": null
+  "ampliconsize": 1000,
+  "schemeversion": "v1.0.0",
+  "schemename": "rsva-rsvb",
+  "primer_bed_md5": "86ade75b8623839e69b0999ef9dbc0a0",
+  "reference_fasta_md5": "7e5199236195a5fb3a61b552225e9432",
+  "status": "tested",
+  "citations": [],
+  "authors": ["Quick-lab", "BCCDC"],
+  "algorithmversion": "primalscheme3:0.1.0",
+  "species": [11250],
+  "license": "CC BY-SA 4.0",
+  "primerclass": "primerschemes",
+  "infoschema": "v2.0.0",
+  "articbedversion": "v3.0",
+  "collections": ["WHOLE-GENOME", "MULTI-TARGET"],
+  "links": {
+    "protocols": [],
+    "validation": [],
+    "homepage": [],
+    "vendors": [],
+    "misc": []
+  },
+  "description": "A Scheme for RSVA and RSVB. Schemes can be used separately or multiplexed",
+  "derivedfrom": null,
+  "contactinfo": null
 }

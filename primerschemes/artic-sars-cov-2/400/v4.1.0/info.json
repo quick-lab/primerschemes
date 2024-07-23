@@ -1,39 +1,27 @@
 {
-    "ampliconsize": 400,
-    "schemeversion": "v4.1.0",
-    "schemename": "artic-sars-cov-2",
-    "primer_bed_md5": "fa3f9b79958aa302aea429aca5a7c729",
-    "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
-    "status": "deprecated",
-    "citations": [
-        "https://doi.org/10.1038/nprot.2017.066"
-    ],
-    "authors": [
-        "quick lab",
-        "artic network"
-    ],
-    "algorithmversion": "primalscheme1:1.0.0",
-    "species": [
-        2697049
-    ],
-    "license": "CC-BY-4.0",
-    "primerclass": "primerschemes",
-    "infoschema": "v2.0.0",
-    "articbedversion": "v3.0",
-    "collections": [
-        "QUICK-LAB",
-        "WHOLE-GENOME",
-        "WASTE-WATER",
-        "ARTIC"
-    ],
-    "links": {
-        "protocals": [],
-        "validation": [],
-        "homepage": [],
-        "vendors": [],
-        "misc": []
-    },
-    "description": "Schemes generated for the SARs-CoV-2 Outbreak",
-    "derivedfrom": null,
-    "contactinfo": null
+  "ampliconsize": 400,
+  "schemeversion": "v4.1.0",
+  "schemename": "artic-sars-cov-2",
+  "primer_bed_md5": "fa3f9b79958aa302aea429aca5a7c729",
+  "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
+  "status": "deprecated",
+  "citations": ["https://doi.org/10.1038/nprot.2017.066"],
+  "authors": ["quick lab", "artic network"],
+  "algorithmversion": "primalscheme1:1.0.0",
+  "species": [2697049],
+  "license": "CC-BY-4.0",
+  "primerclass": "primerschemes",
+  "infoschema": "v2.0.0",
+  "articbedversion": "v3.0",
+  "collections": ["QUICK-LAB", "WHOLE-GENOME", "WASTE-WATER", "ARTIC"],
+  "links": {
+    "protocols": [],
+    "validation": [],
+    "homepage": [],
+    "vendors": [],
+    "misc": []
+  },
+  "description": "Schemes generated for the SARs-CoV-2 Outbreak",
+  "derivedfrom": null,
+  "contactinfo": null
 }

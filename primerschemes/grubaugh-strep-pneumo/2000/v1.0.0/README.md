@@ -39,7 +39,7 @@ Primerscheme designed for the whole genome of Streptococcus pneumoniae
         "WHOLE-GENOME"
     ],
     "links": {
-        "protocals": [],
+        "protocols": [],
         "validation": [],
         "homepage": [],
         "vendors": [],

@@ -39,7 +39,7 @@ Contains additional Spike in primers for clades G and H
         "WHOLE-GENOME"
     ],
     "links": {
-        "protocals": [],
+        "protocols": [],
         "validation": [],
         "homepage": [],
         "vendors": [],
