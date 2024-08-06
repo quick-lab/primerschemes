@@ -17,8 +17,8 @@ An updated version of v5.3.2, with 4 spike in primers to improve the coverage fo
     "ampliconsize": 400,
     "schemeversion": "v5.4.2",
     "schemename": "artic-sars-cov-2",
-    "primer_bed_md5": "46a3aeddc452678bd0cd33efc1c9558f",
-    "reference_fasta_md5": "7f8995394dfc7d5ffeb9fe8322ade58c",
+    "primer_bed_md5": "e7897c8be8e488836ce7777e7709ea53",
+    "reference_fasta_md5": "d11d06b5d1eb1d85c69e341c3c026e08",
     "status": "validated",
     "citations": [],
     "authors": [
@@ -35,10 +35,10 @@ An updated version of v5.3.2, with 4 spike in primers to improve the coverage fo
     "infoschema": "v2.0.0",
     "articbedversion": "v3.0",
     "collections": [
+        "WASTE-WATER",
         "WHOLE-GENOME",
         "ARTIC",
-        "QUICK-LAB",
-        "WASTE-WATER"
+        "QUICK-LAB"
     ],
     "links": {
         "protocols": [],
