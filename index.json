@@ -1,5 +1,5 @@
 {
- "github-commit-sha": "edb38b3f7476344ede4c40cecb5f7256b08255f7",
+ "github-commit-sha": "2266855c7eda9d00191eaf2eb08c6817e7fac8c3",
  "primerschemes": {
   "artic-measles": {
    "400": {
@@ -305,6 +305,36 @@
      "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v5.3.2/reference.fasta",
      "schemename": "artic-sars-cov-2",
      "schemeversion": "v5.3.2",
+     "species": [
+      2697049
+     ],
+     "status": "validated"
+    },
+    "v5.4.2": {
+     "algorithmversion": "primalscheme2:1.0.0",
+     "ampliconsize": 400,
+     "articbedversion": "v3.0",
+     "authors": [
+      "Artic Network",
+      "Quick Lab",
+      "BCCDC"
+     ],
+     "citations": [],
+     "collections": [
+      "WASTE-WATER",
+      "WHOLE-GENOME",
+      "ARTIC",
+      "QUICK-LAB"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v5.4.2/info.json",
+     "license": "CC-BY-4.0",
+     "primer_bed_md5": "e7897c8be8e488836ce7777e7709ea53",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v5.4.2/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "d11d06b5d1eb1d85c69e341c3c026e08",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v5.4.2/reference.fasta",
+     "schemename": "artic-sars-cov-2",
+     "schemeversion": "v5.4.2",
      "species": [
       2697049
      ],
