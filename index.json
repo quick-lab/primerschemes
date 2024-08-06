@@ -1,5 +1,5 @@
 {
- "github-commit-sha": "2266855c7eda9d00191eaf2eb08c6817e7fac8c3",
+ "github-commit-sha": "52ef6082c3b1c14fdb131f4a67c1d6d248fa45e0",
  "primerschemes": {
   "artic-measles": {
    "400": {
@@ -13,10 +13,11 @@
      ],
      "citations": [],
      "collections": [
+      "ARTIC",
       "QUICK-LAB",
-      "WHOLE-GENOME",
       "WASTE-WATER",
-      "ARTIC"
+      "WHOLE-GENOME",
+      "CLINICAL-ISOLATES"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-measles/400/v1.0.0/info.json",
      "license": "CC BY-SA 4.0",
@@ -83,8 +84,9 @@
      "collections": [
       "QUICK-LAB",
       "WHOLE-GENOME",
-      "WASTE-WATER",
-      "ARTIC"
+      "ARTIC",
+      "CLINICAL-ISOLATES",
+      "WASTE-WATER"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v1.0.0/info.json",
      "license": "CC-BY-4.0",
@@ -112,10 +114,11 @@
       "https://doi.org/10.1038/nprot.2017.066"
      ],
      "collections": [
-      "QUICK-LAB",
-      "WHOLE-GENOME",
       "WASTE-WATER",
-      "ARTIC"
+      "WHOLE-GENOME",
+      "CLINICAL-ISOLATES",
+      "ARTIC",
+      "QUICK-LAB"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v2.0.0/info.json",
      "license": "CC-BY-4.0",
@@ -143,10 +146,11 @@
       "https://doi.org/10.1038/nprot.2017.066"
      ],
      "collections": [
-      "QUICK-LAB",
-      "WHOLE-GENOME",
+      "ARTIC",
       "WASTE-WATER",
-      "ARTIC"
+      "CLINICAL-ISOLATES",
+      "QUICK-LAB",
+      "WHOLE-GENOME"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v3.0.0/info.json",
      "license": "CC-BY-4.0",
@@ -172,10 +176,11 @@
      ],
      "citations": [],
      "collections": [
-      "QUICK-LAB",
+      "CLINICAL-ISOLATES",
+      "ARTIC",
       "WHOLE-GENOME",
-      "WASTE-WATER",
-      "ARTIC"
+      "QUICK-LAB",
+      "WASTE-WATER"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v4.0.0/info.json",
      "license": "CC-BY-4.0",
@@ -203,10 +208,11 @@
       "https://doi.org/10.1038/nprot.2017.066"
      ],
      "collections": [
-      "QUICK-LAB",
+      "ARTIC",
+      "CLINICAL-ISOLATES",
       "WHOLE-GENOME",
       "WASTE-WATER",
-      "ARTIC"
+      "QUICK-LAB"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v4.1.0/info.json",
      "license": "CC-BY-4.0",
@@ -232,10 +238,11 @@
      ],
      "citations": [],
      "collections": [
-      "QUICK-LAB",
       "WHOLE-GENOME",
+      "ARTIC",
+      "QUICK-LAB",
       "WASTE-WATER",
-      "ARTIC"
+      "CLINICAL-ISOLATES"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v5.0.0/info.json",
      "license": "CC-BY-4.0",
@@ -262,9 +269,10 @@
      "citations": [],
      "collections": [
       "QUICK-LAB",
-      "WHOLE-GENOME",
+      "CLINICAL-ISOLATES",
       "WASTE-WATER",
-      "ARTIC"
+      "ARTIC",
+      "WHOLE-GENOME"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v5.2.0/info.json",
      "license": "CC-BY-4.0",
@@ -291,10 +299,11 @@
      ],
      "citations": [],
      "collections": [
+      "CLINICAL-ISOLATES",
       "QUICK-LAB",
+      "ARTIC",
       "WHOLE-GENOME",
-      "WASTE-WATER",
-      "ARTIC"
+      "WASTE-WATER"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v5.3.2/info.json",
      "license": "CC-BY-4.0",
@@ -321,10 +330,11 @@
      ],
      "citations": [],
      "collections": [
-      "WASTE-WATER",
       "WHOLE-GENOME",
+      "CLINICAL-ISOLATES",
+      "QUICK-LAB",
       "ARTIC",
-      "QUICK-LAB"
+      "WASTE-WATER"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v5.4.2/info.json",
      "license": "CC-BY-4.0",
@@ -710,7 +720,8 @@
      "citations": [],
      "collections": [
       "QUICK-LAB",
-      "WHOLE-GENOME"
+      "WHOLE-GENOME",
+      "CLINICAL-ISOLATES"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hbv/500/v1.0.0/info.json",
      "license": "CC-BY-4.0",
@@ -736,6 +747,7 @@
      ],
      "citations": [],
      "collections": [
+      "CLINICAL-ISOLATES",
       "QUICK-LAB",
       "WHOLE-GENOME"
      ],
@@ -766,8 +778,9 @@
      ],
      "citations": [],
      "collections": [
+      "WHOLE-GENOME",
       "QUICK-LAB",
-      "WHOLE-GENOME"
+      "CLINICAL-ISOLATES"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hbv/600/v2.0.0/info.json",
      "license": "CC BY-SA 4.0",
@@ -794,8 +807,9 @@
      ],
      "citations": [],
      "collections": [
+      "WHOLE-GENOME",
       "QUICK-LAB",
-      "WHOLE-GENOME"
+      "CLINICAL-ISOLATES"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hbv/600/v2.1.0/info.json",
      "license": "CC BY-SA 4.0",
@@ -809,7 +823,7 @@
      "species": [
       10407
      ],
-     "status": "tested"
+     "status": "validated"
     }
    }
   },
