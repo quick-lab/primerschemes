@@ -32,10 +32,11 @@ Schemes generated for the SARs-CoV-2 Outbreak
     "infoschema": "v2.0.0",
     "articbedversion": "v3.0",
     "collections": [
-        "QUICK-LAB",
+        "CLINICAL-ISOLATES",
+        "ARTIC",
         "WHOLE-GENOME",
-        "WASTE-WATER",
-        "ARTIC"
+        "QUICK-LAB",
+        "WASTE-WATER"
     ],
     "links": {
         "protocols": [],

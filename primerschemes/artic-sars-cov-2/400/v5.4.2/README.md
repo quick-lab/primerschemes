@@ -4,7 +4,7 @@
 
 ## Description
 
-An updated version of v5.3.2, with 4 spike in primers to improve the coverage for muations found in JN.1
+An updated version of v5.3.2, with 4 spike in primers to improve the coverage for mutations found in JN.1
 
 ## Overviews
 
@@ -35,10 +35,11 @@ An updated version of v5.3.2, with 4 spike in primers to improve the coverage fo
     "infoschema": "v2.0.0",
     "articbedversion": "v3.0",
     "collections": [
-        "WASTE-WATER",
         "WHOLE-GENOME",
+        "CLINICAL-ISOLATES",
+        "QUICK-LAB",
         "ARTIC",
-        "QUICK-LAB"
+        "WASTE-WATER"
     ],
     "links": {
         "protocols": [],
@@ -49,7 +50,7 @@ An updated version of v5.3.2, with 4 spike in primers to improve the coverage fo
         "vendors": [],
         "misc": []
     },
-    "description": "An updated version of v5.3.2, with 4 spike in primers to improve the coverage for muations found in JN.1",
+    "description": "An updated version of v5.3.2, with 4 spike in primers to improve the coverage for mutations found in JN.1",
     "derivedfrom": "artic-sars-cov-2/400/v5.3.2",
     "contactinfo": "c.g.kent@bham.ac.uk"
 }
