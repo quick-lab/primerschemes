@@ -34,6 +34,7 @@ Schemes generated for the Hepatitis B virus (hbv)
     "infoschema": "v2.0.0",
     "articbedversion": "v3.0",
     "collections": [
+        "CLINICAL-ISOLATES",
         "QUICK-LAB",
         "WHOLE-GENOME"
     ],

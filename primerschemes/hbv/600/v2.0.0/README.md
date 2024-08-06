@@ -35,8 +35,9 @@ A 600bp high overlap scheme for HBV. Using phylogenetic downsampling to reduce b
     "infoschema": "v2.0.0",
     "articbedversion": "v3.0",
     "collections": [
+        "WHOLE-GENOME",
         "QUICK-LAB",
-        "WHOLE-GENOME"
+        "CLINICAL-ISOLATES"
     ],
     "links": {
         "protocols": [],
