@@ -1,6 +1,6 @@
-# grubaugh-tb 2000bp v1.0.0
+# yale-tb 2000bp v1.0.0
 
-[primalscheme labs](https://labs.primalscheme.com/detail/grubaugh-tb/2000/v1.0.0)
+[primalscheme labs](https://labs.primalscheme.com/detail/yale-tb/2000/v1.0.0)
 
 ## Description
 
@@ -14,7 +14,7 @@ Primerscheme designed for the whole genome of Mycobacterium tuberculosis
 {
     "ampliconsize": 2000,
     "schemeversion": "v1.0.0",
-    "schemename": "grubaugh-tb",
+    "schemename": "yale-tb",
     "primer_bed_md5": "7e720bec9e7f68eb367f5a67024a93b1",
     "reference_fasta_md5": "a5cd7cf2ad058fcad2e341d285cf16d7",
     "status": "tested",

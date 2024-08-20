@@ -1,6 +1,6 @@
-# grubaugh-mpox 2000bp v1.0.0
+# yale-mpox 2000bp v1.0.0
 
-[primalscheme labs](https://labs.primalscheme.com/detail/grubaugh-mpox/2000/v1.0.0)
+[primalscheme labs](https://labs.primalscheme.com/detail/yale-mpox/2000/v1.0.0)
 
 ## Description
 
@@ -14,7 +14,7 @@ Primerscheme designed for the global outbreak of human Monkeypox virus (hMPXV)
 {
     "ampliconsize": 2000,
     "schemeversion": "v1.0.0",
-    "schemename": "grubaugh-mpox",
+    "schemename": "yale-mpox",
     "primer_bed_md5": "f9fe29b44517167f18f9eaf66a141c44",
     "reference_fasta_md5": "585ffed8901fb4478dae3b9895e14376",
     "status": "validated",

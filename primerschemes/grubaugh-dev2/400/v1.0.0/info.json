@@ -1,7 +1,7 @@
 {
   "ampliconsize": 400,
   "schemeversion": "v1.0.0",
-  "schemename": "grubaugh-dev2",
+  "schemename": "yale-dev2",
   "primer_bed_md5": "d57ba5b105236d5df89ce440a1da63a2",
   "reference_fasta_md5": "9736a9a27e5ffeacd1c94019123af2f0",
   "status": "validated",

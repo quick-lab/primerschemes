@@ -1,6 +1,6 @@
-# grubaugh-dev2 400bp v1.0.0
+# yale-dev2 400bp v1.0.0
 
-[primalscheme labs](https://labs.primalscheme.com/detail/grubaugh-dev2/400/v1.0.0)
+[primalscheme labs](https://labs.primalscheme.com/detail/yale-dev2/400/v1.0.0)
 
 ## Description
 
@@ -14,7 +14,7 @@ Primer scheme for dengue virus serotype 2
 {
     "ampliconsize": 400,
     "schemeversion": "v1.0.0",
-    "schemename": "grubaugh-dev2",
+    "schemename": "yale-dev2",
     "primer_bed_md5": "d57ba5b105236d5df89ce440a1da63a2",
     "reference_fasta_md5": "9736a9a27e5ffeacd1c94019123af2f0",
     "status": "validated",

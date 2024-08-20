@@ -1,6 +1,6 @@
-# grubaugh-powassan-virus 400bp v1.0.0
+# yale-powassan-virus 400bp v1.0.0
 
-[primalscheme labs](https://labs.primalscheme.com/detail/grubaugh-powassan-virus/400/v1.0.0)
+[primalscheme labs](https://labs.primalscheme.com/detail/yale-powassan-virus/400/v1.0.0)
 
 ## Description
 
@@ -16,7 +16,7 @@ Primerscheme designed for the whole genome of Powassan virus
 {
     "ampliconsize": 400,
     "schemeversion": "v1.0.0",
-    "schemename": "grubaugh-powassan-virus",
+    "schemename": "yale-powassan-virus",
     "primer_bed_md5": "0ace7f3f32d025559f81cf7848bd96ca",
     "reference_fasta_md5": "45de4c26388d5f33eeb33d03eaa6594d",
     "status": "tested",

@@ -1,6 +1,6 @@
-# grubaugh-strep-pneumo 2000bp v1.0.0
+# yale-strep-pneumo 2000bp v1.0.0
 
-[primalscheme labs](https://labs.primalscheme.com/detail/grubaugh-strep-pneumo/2000/v1.0.0)
+[primalscheme labs](https://labs.primalscheme.com/detail/yale-strep-pneumo/2000/v1.0.0)
 
 ## Description
 
@@ -14,7 +14,7 @@ Primerscheme designed for the whole genome of Streptococcus pneumoniae
 {
     "ampliconsize": 2000,
     "schemeversion": "v1.0.0",
-    "schemename": "grubaugh-strep-pneumo",
+    "schemename": "yale-strep-pneumo",
     "primer_bed_md5": "ca2090fa4c64b75fd5d83c2f7858908f",
     "reference_fasta_md5": "fe6730ebb4572f3e7d3e6d7f9bf45bdb",
     "status": "tested",

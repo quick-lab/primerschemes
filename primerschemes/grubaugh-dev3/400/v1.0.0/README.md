@@ -1,6 +1,6 @@
-# grubaugh-dev3 400bp v1.0.0
+# yale-dev3 400bp v1.0.0
 
-[primalscheme labs](https://labs.primalscheme.com/detail/grubaugh-dev3/400/v1.0.0)
+[primalscheme labs](https://labs.primalscheme.com/detail/yale-dev3/400/v1.0.0)
 
 ## Description
 
@@ -14,7 +14,7 @@ Primer scheme for dengue virus serotype 3
 {
     "ampliconsize": 400,
     "schemeversion": "v1.0.0",
-    "schemename": "grubaugh-dev3",
+    "schemename": "yale-dev3",
     "primer_bed_md5": "bcbe1286c8c3e415764ed20fe4aa7a09",
     "reference_fasta_md5": "b0775470da71b7e22b05ab404755762e",
     "status": "validated",

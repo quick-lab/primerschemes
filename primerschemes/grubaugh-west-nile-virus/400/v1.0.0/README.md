@@ -1,6 +1,6 @@
-# grubaugh-west-nile-virus 400bp v1.0.0
+# yale-west-nile-virus 400bp v1.0.0
 
-[primalscheme labs](https://labs.primalscheme.com/detail/grubaugh-west-nile-virus/400/v1.0.0)
+[primalscheme labs](https://labs.primalscheme.com/detail/yale-west-nile-virus/400/v1.0.0)
 
 ## Description
 
@@ -14,7 +14,7 @@ Primerscheme designed for the whole genome of West Nile Virus
 {
     "ampliconsize": 400,
     "schemeversion": "v1.0.0",
-    "schemename": "grubaugh-west-nile-virus",
+    "schemename": "yale-west-nile-virus",
     "primer_bed_md5": "8573a30b249950a1ae418d2c1a1c9c7e",
     "reference_fasta_md5": "52385748c447473eea248d081b03eb1b",
     "status": "tested",
