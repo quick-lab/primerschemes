@@ -22,9 +22,9 @@
     "infoschema": "v2.0.0",
     "articbedversion": "v3.0",
     "collections": [
+        "COMMUNITY",
         "WHOLE-GENOME",
-        "ARTIC",
-        "COMMUNITY"
+        "ARTIC"
     ],
     "links": {
         "protocols": [
