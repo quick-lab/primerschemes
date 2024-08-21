@@ -1,5 +1,5 @@
 {
- "github-commit-sha": "9c3a62515170d358cf2eea2a4fb2284f7a12132c",
+ "github-commit-sha": "89dc57a31d6093930a3d128924850413a88d2e0d",
  "primerschemes": {
   "artic-measles": {
    "400": {
@@ -938,6 +938,37 @@
       10244
      ],
      "status": "validated"
+    },
+    "v1.0.1": {
+     "algorithmversion": "primalscheme1",
+     "ampliconsize": 2000,
+     "articbedversion": "v3.0",
+     "authors": [
+      "Artic Network",
+      "Nicholas F.G. Chen",
+      "Luc Gagne",
+      "Glen R. Gallagher",
+      "Chantal B.F. Vogels"
+     ],
+     "citations": [],
+     "collections": [
+      "COMMUNITY",
+      "WHOLE-GENOME",
+      "ARTIC"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/yale-mpox/2000/v1.0.1/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "5d1f7fc61e3fce597819a4a2a095e287",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/yale-mpox/2000/v1.0.1/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "5b7977abeef3917669889e901703b37a",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/yale-mpox/2000/v1.0.1/reference.fasta",
+     "schemename": "yale-mpox",
+     "schemeversion": "v1.0.1",
+     "species": [
+      10244
+     ],
+     "status": "tested"
     }
    }
   },
