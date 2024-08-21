@@ -1,10 +1,10 @@
-# yale-mpox 2000bp v1.0.0
+# yale-mpox 2000bp v1.0.1
 
-[primalscheme labs](https://labs.primalscheme.com/detail/yale-mpox/2000/v1.0.0)
+[primalscheme labs](https://labs.primalscheme.com/detail/yale-mpox/2000/v1.0.1)
 
 ## Description
 
-Primerscheme designed for the global outbreak of human Monkeypox virus (hMPXV)
+A copy of the yale-mpox for human Monkeypox virus (hMPXV) remapped from a Clade II reference genome to a Clade I
 
 ## Overviews
 
@@ -13,15 +13,14 @@ Primerscheme designed for the global outbreak of human Monkeypox virus (hMPXV)
 ```json
 {
     "ampliconsize": 2000,
-    "schemeversion": "v1.0.0",
+    "schemeversion": "v1.0.1",
     "schemename": "yale-mpox",
-    "primer_bed_md5": "f9fe29b44517167f18f9eaf66a141c44",
-    "reference_fasta_md5": "585ffed8901fb4478dae3b9895e14376",
-    "status": "validated",
-    "citations": [
-        "https://doi.org/10.1371/journal.pbio.3002151"
-    ],
+    "primer_bed_md5": "5d1f7fc61e3fce597819a4a2a095e287",
+    "reference_fasta_md5": "5b7977abeef3917669889e901703b37a",
+    "status": "tested",
+    "citations": [],
     "authors": [
+        "Artic Network",
         "Nicholas F.G. Chen",
         "Luc Gagne",
         "Glen R. Gallagher",
@@ -37,7 +36,8 @@ Primerscheme designed for the global outbreak of human Monkeypox virus (hMPXV)
     "articbedversion": "v3.0",
     "collections": [
         "COMMUNITY",
-        "WHOLE-GENOME"
+        "WHOLE-GENOME",
+        "ARTIC"
     ],
     "links": {
         "protocols": [
@@ -50,9 +50,9 @@ Primerscheme designed for the global outbreak of human Monkeypox virus (hMPXV)
         ],
         "misc": []
     },
-    "description": "Primerscheme designed for the global outbreak of human Monkeypox virus (hMPXV)",
-    "derivedfrom": null,
-    "contactinfo": "grubaughlab@gmail.com"
+    "description": "A copy of the yale-mpox for human Monkeypox virus (hMPXV) remapped from a Clade II reference genome to a Clade I",
+    "derivedfrom": "yale-mpox/2000/v1.0.0",
+    "contactinfo": "c.g.kent@bham.ac.uk"
 }
 ```
 
