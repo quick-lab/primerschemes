@@ -1,5 +1,5 @@
 {
- "github-commit-sha": "2e70418f5a1d4394a5a2d149f4d31078f200895d",
+ "github-commit-sha": "0d95b49f4bd8f0f84526aa08ea20031f325c48a0",
  "primerschemes": {
   "artic-measles": {
    "400": {
@@ -702,12 +702,12 @@
      "citations": [],
      "collections": [
       "COMMUNITY",
-      "WHOLE-GENOME",
-      "CLINICAL-ISOLATES"
+      "CLINICAL-ISOLATES",
+      "WHOLE-GENOME"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-bodv-1/400/v1.0.0/info.json",
      "license": "CC BY-SA 4.0",
-     "primer_bed_md5": "c32e880125c16613d76afde567289440",
+     "primer_bed_md5": "ee859faf41cfd7c5c662a1b4b11ec478",
      "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-bodv-1/400/v1.0.0/primer.bed",
      "primerclass": "primerschemes",
      "reference_fasta_md5": "47f4b12bac1051c565b535623f5e4098",
