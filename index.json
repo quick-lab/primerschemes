@@ -1,5 +1,5 @@
 {
- "github-commit-sha": "89dc57a31d6093930a3d128924850413a88d2e0d",
+ "github-commit-sha": "2e70418f5a1d4394a5a2d149f4d31078f200895d",
  "primerschemes": {
   "artic-measles": {
    "400": {
@@ -687,6 +687,37 @@
       11250
      ],
      "status": "tested"
+    }
+   }
+  },
+  "varvamp-bodv-1": {
+   "400": {
+    "v1.0.0": {
+     "algorithmversion": "varVAMP:0.6",
+     "ampliconsize": 400,
+     "articbedversion": "v3.0",
+     "authors": [
+      "Jonas Fuchs"
+     ],
+     "citations": [],
+     "collections": [
+      "COMMUNITY",
+      "WHOLE-GENOME",
+      "CLINICAL-ISOLATES"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-bodv-1/400/v1.0.0/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "c32e880125c16613d76afde567289440",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-bodv-1/400/v1.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "47f4b12bac1051c565b535623f5e4098",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-bodv-1/400/v1.0.0/reference.fasta",
+     "schemename": "varvamp-bodv-1",
+     "schemeversion": "v1.0.0",
+     "species": [
+      1714621
+     ],
+     "status": "validated"
     }
    }
   },
