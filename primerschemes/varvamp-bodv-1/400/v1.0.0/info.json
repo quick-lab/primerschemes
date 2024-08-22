@@ -2,7 +2,7 @@
     "ampliconsize": 400,
     "schemeversion": "v1.0.0",
     "schemename": "varvamp-bodv-1",
-    "primer_bed_md5": "c32e880125c16613d76afde567289440",
+    "primer_bed_md5": "ee859faf41cfd7c5c662a1b4b11ec478",
     "reference_fasta_md5": "47f4b12bac1051c565b535623f5e4098",
     "status": "validated",
     "citations": [],
@@ -19,8 +19,8 @@
     "articbedversion": "v3.0",
     "collections": [
         "COMMUNITY",
-        "WHOLE-GENOME",
-        "CLINICAL-ISOLATES"
+        "CLINICAL-ISOLATES",
+        "WHOLE-GENOME"
     ],
     "links": {
         "protocols": [],
