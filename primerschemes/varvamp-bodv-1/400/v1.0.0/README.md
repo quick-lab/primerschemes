@@ -17,7 +17,7 @@ Pan-specfic primer scheme for BoDV-1 designed with varVAMP on the basis of full 
     "ampliconsize": 400,
     "schemeversion": "v1.0.0",
     "schemename": "varvamp-bodv-1",
-    "primer_bed_md5": "0e9986c1b667aff071ef093263442b4b",
+    "primer_bed_md5": "c32e880125c16613d76afde567289440",
     "reference_fasta_md5": "47f4b12bac1051c565b535623f5e4098",
     "status": "validated",
     "citations": [],
@@ -31,11 +31,11 @@ Pan-specfic primer scheme for BoDV-1 designed with varVAMP on the basis of full 
     "license": "CC BY-SA 4.0",
     "primerclass": "primerschemes",
     "infoschema": "v2.0.0",
-    "articbedversion": "v2.0",
+    "articbedversion": "v3.0",
     "collections": [
-        "CLINICAL-ISOLATES",
+        "COMMUNITY",
         "WHOLE-GENOME",
-        "COMMUNITY"
+        "CLINICAL-ISOLATES"
     ],
     "links": {
         "protocols": [],
