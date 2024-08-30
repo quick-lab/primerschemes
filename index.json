@@ -1,5 +1,5 @@
 {
- "github-commit-sha": "0d95b49f4bd8f0f84526aa08ea20031f325c48a0",
+ "github-commit-sha": "5c42499a9e378d2407e276b9859544f997db951c",
  "primerschemes": {
   "artic-measles": {
    "400": {
@@ -716,6 +716,194 @@
      "schemeversion": "v1.0.0",
      "species": [
       1714621
+     ],
+     "status": "validated"
+    }
+   }
+  },
+  "varvamp-hav": {
+   "1000": {
+    "v1.0.0": {
+     "algorithmversion": "varVAMP:0.8.3",
+     "ampliconsize": 1000,
+     "articbedversion": "v2.0",
+     "authors": [
+      "Jonas Fuchs"
+     ],
+     "citations": [],
+     "collections": [
+      "WHOLE-GENOME",
+      "CLINICAL-ISOLATES",
+      "COMMUNITY"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-hav/1000/v1.0.0/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "06852b6301eb63495d9c2625b0e7f40c",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-hav/1000/v1.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "d65a09200bbec78ffa410740ba3143ff",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-hav/1000/v1.0.0/reference.fasta",
+     "schemename": "varvamp-hav",
+     "schemeversion": "v1.0.0",
+     "species": [
+      470424
+     ],
+     "status": "validated"
+    }
+   }
+  },
+  "varvamp-hev3-ch1-m-i-uc-l": {
+   "1000": {
+    "v1.0.0": {
+     "algorithmversion": "varVAMP:0.8.2",
+     "ampliconsize": 1000,
+     "articbedversion": "v2.0",
+     "authors": [
+      "Jonas Fuchs"
+     ],
+     "citations": [],
+     "collections": [
+      "CLINICAL-ISOLATES",
+      "COMMUNITY",
+      "WHOLE-GENOME"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-hev3-ch1-m-i-uc-l/1000/v1.0.0/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "60db2382ac7114153c6bc93acdb5f70d",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-hev3-ch1-m-i-uc-l/1000/v1.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "cb7e70c64382a1a8434ab3923a6265c9",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-hev3-ch1-m-i-uc-l/1000/v1.0.0/reference.fasta",
+     "schemename": "varvamp-hev3-ch1-m-i-uc-l",
+     "schemeversion": "v1.0.0",
+     "species": [
+      291484
+     ],
+     "status": "validated"
+    }
+   }
+  },
+  "varvamp-hev3-e-f": {
+   "1000": {
+    "v1.0.0": {
+     "algorithmversion": "varVAMP:0.8.2",
+     "ampliconsize": 1000,
+     "articbedversion": "v2.0",
+     "authors": [
+      "Jonas Fuchs"
+     ],
+     "citations": [],
+     "collections": [
+      "COMMUNITY",
+      "WHOLE-GENOME",
+      "CLINICAL-ISOLATES"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-hev3-e-f/1000/v1.0.0/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "7ed3be36ac45b820c325792e32b76efc",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-hev3-e-f/1000/v1.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "50bf069e781ff4462d495ebd5904b56a",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-hev3-e-f/1000/v1.0.0/reference.fasta",
+     "schemename": "varvamp-hev3ef",
+     "schemeversion": "v1.0.0",
+     "species": [
+      291484
+     ],
+     "status": "validated"
+    }
+   }
+  },
+  "varvamp-polio": {
+   "1000": {
+    "v1.0.0": {
+     "algorithmversion": "varVAMP:0.8",
+     "ampliconsize": 1000,
+     "articbedversion": "v2.0",
+     "authors": [
+      "Jonas Fuchs"
+     ],
+     "citations": [],
+     "collections": [
+      "CLINICAL-ISOLATES",
+      "WHOLE-GENOME",
+      "COMMUNITY"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-polio/1000/v1.0.0/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "125e57bfa2b84a08ad412b46ba903acf",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-polio/1000/v1.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "8db764b16699f75eb7cb438ed7224c0b",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-polio/1000/v1.0.0/reference.fasta",
+     "schemename": "varvamp-polio",
+     "schemeversion": "v1.0.0",
+     "species": [
+      12080,
+      12083,
+      12086
+     ],
+     "status": "validated"
+    }
+   }
+  },
+  "varvamp-rat-hev": {
+   "1200": {
+    "v1.0.0": {
+     "algorithmversion": "varVAMP:0.8.3",
+     "ampliconsize": 1200,
+     "articbedversion": "v2.0",
+     "authors": [
+      "Jonas Fuchs"
+     ],
+     "citations": [],
+     "collections": [
+      "COMMUNITY",
+      "CLINICAL-ISOLATES",
+      "WHOLE-GENOME"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-rat-hev/1200/v1.0.0/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "c008eeb2d8838bdb0253cc4f23d95d63",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-rat-hev/1200/v1.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "6901e6ce9dd33aa804ee327a73660896",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-rat-hev/1200/v1.0.0/reference.fasta",
+     "schemename": "varvamp-rathev",
+     "schemeversion": "v1.0.0",
+     "species": [
+      1678145
+     ],
+     "status": "validated"
+    }
+   }
+  },
+  "varvamp-sars-cov-2": {
+   "700": {
+    "v1.0.0": {
+     "algorithmversion": "varVAMP:0.9.4",
+     "ampliconsize": 700,
+     "articbedversion": "v2.0",
+     "authors": [
+      "Jonas Fuchs"
+     ],
+     "citations": [],
+     "collections": [
+      "CLINICAL-ISOLATES",
+      "COMMUNITY",
+      "WHOLE-GENOME"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-sars-cov-2/700/v1.0.0/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "8a25d211ffdc65d7b1b3c3cdde3639fc",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-sars-cov-2/700/v1.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "c12180b68bcc554de9fa27522e491592",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-sars-cov-2/700/v1.0.0/reference.fasta",
+     "schemename": "varvamp-sars-cov-2",
+     "schemeversion": "v1.0.0",
+     "species": [
+      2697049
      ],
      "status": "validated"
     }
