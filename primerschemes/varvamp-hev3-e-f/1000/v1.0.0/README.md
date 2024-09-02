@@ -33,8 +33,8 @@ Pan-specfic primer scheme for HEV genotype 3ef designed with varVAMP on the basi
     "infoschema": "v2.0.0",
     "articbedversion": "v2.0",
     "collections": [
-        "COMMUNITY",
         "WHOLE-GENOME",
+        "COMMUNITY",
         "CLINICAL-ISOLATES"
     ],
     "links": {

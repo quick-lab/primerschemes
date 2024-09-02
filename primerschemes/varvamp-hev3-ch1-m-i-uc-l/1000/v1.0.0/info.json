@@ -18,9 +18,9 @@
     "infoschema": "v2.0.0",
     "articbedversion": "v2.0",
     "collections": [
-        "CLINICAL-ISOLATES",
+        "WHOLE-GENOME",
         "COMMUNITY",
-        "WHOLE-GENOME"
+        "CLINICAL-ISOLATES"
     ],
     "links": {
         "protocols": [],

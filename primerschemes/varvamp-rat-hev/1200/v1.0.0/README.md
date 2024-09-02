@@ -33,9 +33,9 @@ Pan-specfic primer scheme for ratHEV designed with varVAMP on the basis of full 
     "infoschema": "v2.0.0",
     "articbedversion": "v2.0",
     "collections": [
-        "COMMUNITY",
+        "WHOLE-GENOME",
         "CLINICAL-ISOLATES",
-        "WHOLE-GENOME"
+        "COMMUNITY"
     ],
     "links": {
         "protocols": [],

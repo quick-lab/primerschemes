@@ -8,7 +8,7 @@ Pan-specfic primer scheme for HAV designed with varVAMP on the basis of full len
 
 ## Overviews
 
-![overview.png](work/overview.png)
+![Overview.png](work/Overview.png)
 
 ## Details
 
@@ -33,8 +33,8 @@ Pan-specfic primer scheme for HAV designed with varVAMP on the basis of full len
     "infoschema": "v2.0.0",
     "articbedversion": "v2.0",
     "collections": [
-        "WHOLE-GENOME",
         "CLINICAL-ISOLATES",
+        "WHOLE-GENOME",
         "COMMUNITY"
     ],
     "links": {

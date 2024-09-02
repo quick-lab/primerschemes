@@ -35,9 +35,9 @@ Pan-specfic primer scheme for poliovirus designed with varVAMP on the basis of f
     "infoschema": "v2.0.0",
     "articbedversion": "v2.0",
     "collections": [
-        "CLINICAL-ISOLATES",
+        "COMMUNITY",
         "WHOLE-GENOME",
-        "COMMUNITY"
+        "CLINICAL-ISOLATES"
     ],
     "links": {
         "protocols": [],
