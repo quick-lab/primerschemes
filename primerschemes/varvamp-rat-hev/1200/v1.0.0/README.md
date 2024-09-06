@@ -17,7 +17,7 @@ Pan-specfic primer scheme for ratHEV designed with varVAMP on the basis of full 
     "ampliconsize": 1200,
     "schemeversion": "v1.0.0",
     "schemename": "varvamp-rathev",
-    "primer_bed_md5": "c008eeb2d8838bdb0253cc4f23d95d63",
+    "primer_bed_md5": "8d9fcdcc3e571792d9d2ffea190d3b8a",
     "reference_fasta_md5": "6901e6ce9dd33aa804ee327a73660896",
     "status": "validated",
     "citations": [],
@@ -31,10 +31,10 @@ Pan-specfic primer scheme for ratHEV designed with varVAMP on the basis of full 
     "license": "CC BY-SA 4.0",
     "primerclass": "primerschemes",
     "infoschema": "v2.0.0",
-    "articbedversion": "v2.0",
+    "articbedversion": "v3.0",
     "collections": [
-        "COMMUNITY",
         "CLINICAL-ISOLATES",
+        "COMMUNITY",
         "WHOLE-GENOME"
     ],
     "links": {

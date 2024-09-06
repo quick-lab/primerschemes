@@ -17,7 +17,7 @@ Pan-specfic primer scheme for poliovirus designed with varVAMP on the basis of f
     "ampliconsize": 1000,
     "schemeversion": "v1.0.0",
     "schemename": "varvamp-polio",
-    "primer_bed_md5": "125e57bfa2b84a08ad412b46ba903acf",
+    "primer_bed_md5": "a3543252563e22b770368904bdd8cbbf",
     "reference_fasta_md5": "8db764b16699f75eb7cb438ed7224c0b",
     "status": "validated",
     "citations": [],
@@ -33,7 +33,7 @@ Pan-specfic primer scheme for poliovirus designed with varVAMP on the basis of f
     "license": "CC BY-SA 4.0",
     "primerclass": "primerschemes",
     "infoschema": "v2.0.0",
-    "articbedversion": "v2.0",
+    "articbedversion": "v3.0",
     "collections": [
         "CLINICAL-ISOLATES",
         "WHOLE-GENOME",
