@@ -33,9 +33,9 @@ Pan-specfic primer scheme for BoDV-1 designed with varVAMP on the basis of full 
     "infoschema": "v2.0.0",
     "articbedversion": "v3.0",
     "collections": [
-        "COMMUNITY",
         "CLINICAL-ISOLATES",
-        "WHOLE-GENOME"
+        "WHOLE-GENOME",
+        "COMMUNITY"
     ],
     "links": {
         "protocols": [],

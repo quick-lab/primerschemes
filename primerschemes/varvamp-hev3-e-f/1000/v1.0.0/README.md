@@ -17,7 +17,7 @@ Pan-specfic primer scheme for HEV genotype 3ef designed with varVAMP on the basi
     "ampliconsize": 1000,
     "schemeversion": "v1.0.0",
     "schemename": "varvamp-hev3ef",
-    "primer_bed_md5": "7ed3be36ac45b820c325792e32b76efc",
+    "primer_bed_md5": "56ffe2d88ae5be613f4dc3831043d90e",
     "reference_fasta_md5": "50bf069e781ff4462d495ebd5904b56a",
     "status": "validated",
     "citations": [],
@@ -31,11 +31,11 @@ Pan-specfic primer scheme for HEV genotype 3ef designed with varVAMP on the basi
     "license": "CC BY-SA 4.0",
     "primerclass": "primerschemes",
     "infoschema": "v2.0.0",
-    "articbedversion": "v2.0",
+    "articbedversion": "v3.0",
     "collections": [
+        "CLINICAL-ISOLATES",
         "COMMUNITY",
-        "WHOLE-GENOME",
-        "CLINICAL-ISOLATES"
+        "WHOLE-GENOME"
     ],
     "links": {
         "protocols": [],

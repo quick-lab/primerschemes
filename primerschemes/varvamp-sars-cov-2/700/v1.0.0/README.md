@@ -17,7 +17,7 @@ Pan-specfic primer scheme for SARS-CoV-2 designed with varVAMP on the basis of f
     "ampliconsize": 700,
     "schemeversion": "v1.0.0",
     "schemename": "varvamp-sars-cov-2",
-    "primer_bed_md5": "8a25d211ffdc65d7b1b3c3cdde3639fc",
+    "primer_bed_md5": "dd970083426f3c0d986ce105548fb4c9",
     "reference_fasta_md5": "c12180b68bcc554de9fa27522e491592",
     "status": "validated",
     "citations": [],
@@ -31,11 +31,11 @@ Pan-specfic primer scheme for SARS-CoV-2 designed with varVAMP on the basis of f
     "license": "CC BY-SA 4.0",
     "primerclass": "primerschemes",
     "infoschema": "v2.0.0",
-    "articbedversion": "v2.0",
+    "articbedversion": "v3.0",
     "collections": [
-        "CLINICAL-ISOLATES",
+        "WHOLE-GENOME",
         "COMMUNITY",
-        "WHOLE-GENOME"
+        "CLINICAL-ISOLATES"
     ],
     "links": {
         "protocols": [],

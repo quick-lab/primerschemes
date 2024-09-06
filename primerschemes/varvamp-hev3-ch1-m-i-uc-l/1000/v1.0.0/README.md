@@ -17,7 +17,7 @@ Pan-specfic primer scheme for HEV genotype 3 ch1, m, i, uc, l designed with varV
     "ampliconsize": 1000,
     "schemeversion": "v1.0.0",
     "schemename": "varvamp-hev3-ch1-m-i-uc-l",
-    "primer_bed_md5": "60db2382ac7114153c6bc93acdb5f70d",
+    "primer_bed_md5": "1376c891fc6bc631698877ee9edb3cfc",
     "reference_fasta_md5": "cb7e70c64382a1a8434ab3923a6265c9",
     "status": "validated",
     "citations": [],
@@ -31,11 +31,11 @@ Pan-specfic primer scheme for HEV genotype 3 ch1, m, i, uc, l designed with varV
     "license": "CC BY-SA 4.0",
     "primerclass": "primerschemes",
     "infoschema": "v2.0.0",
-    "articbedversion": "v2.0",
+    "articbedversion": "v3.0",
     "collections": [
+        "WHOLE-GENOME",
         "CLINICAL-ISOLATES",
-        "COMMUNITY",
-        "WHOLE-GENOME"
+        "COMMUNITY"
     ],
     "links": {
         "protocols": [],

@@ -2,7 +2,7 @@
     "ampliconsize": 1000,
     "schemeversion": "v1.0.0",
     "schemename": "varvamp-hav",
-    "primer_bed_md5": "06852b6301eb63495d9c2625b0e7f40c",
+    "primer_bed_md5": "bc39625c800f707d82a273c79bbf6710",
     "reference_fasta_md5": "d65a09200bbec78ffa410740ba3143ff",
     "status": "validated",
     "citations": [],
@@ -16,11 +16,11 @@
     "license": "CC BY-SA 4.0",
     "primerclass": "primerschemes",
     "infoschema": "v2.0.0",
-    "articbedversion": "v2.0",
+    "articbedversion": "v3.0",
     "collections": [
-        "WHOLE-GENOME",
+        "COMMUNITY",
         "CLINICAL-ISOLATES",
-        "COMMUNITY"
+        "WHOLE-GENOME"
     ],
     "links": {
         "protocols": [],
