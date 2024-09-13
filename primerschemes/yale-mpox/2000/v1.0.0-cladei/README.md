@@ -35,9 +35,9 @@ A copy of the yale-mpox for human Monkeypox virus (hMPXV) remapped from a Clade 
     "infoschema": "v2.0.0",
     "articbedversion": "v3.0",
     "collections": [
+        "ARTIC",
         "COMMUNITY",
-        "WHOLE-GENOME",
-        "ARTIC"
+        "WHOLE-GENOME"
     ],
     "links": {
         "protocols": [
