@@ -1,5 +1,5 @@
 {
- "github-commit-sha": "cb6e4ba3f6111c1748f6a1980dfc575553643918",
+ "github-commit-sha": "166452501d283924aa60d80a0028269f8e284bbc",
  "primerschemes": {
   "artic-measles": {
    "400": {
@@ -815,7 +815,7 @@
     }
    }
   },
-  "varvamp-hev3-e-f": {
+  "varvamp-hev3ef": {
    "1000": {
     "v1.0.0": {
      "algorithmversion": "varVAMP:0.8.2",
@@ -830,13 +830,13 @@
       "COMMUNITY",
       "WHOLE-GENOME"
      ],
-     "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-hev3-e-f/1000/v1.0.0/info.json",
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-hev3ef/1000/v1.0.0/info.json",
      "license": "CC BY-SA 4.0",
      "primer_bed_md5": "56ffe2d88ae5be613f4dc3831043d90e",
-     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-hev3-e-f/1000/v1.0.0/primer.bed",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-hev3ef/1000/v1.0.0/primer.bed",
      "primerclass": "primerschemes",
      "reference_fasta_md5": "50bf069e781ff4462d495ebd5904b56a",
-     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-hev3-e-f/1000/v1.0.0/reference.fasta",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-hev3ef/1000/v1.0.0/reference.fasta",
      "schemename": "varvamp-hev3ef",
      "schemeversion": "v1.0.0",
      "species": [
@@ -879,7 +879,7 @@
     }
    }
   },
-  "varvamp-rat-hev": {
+  "varvamp-rathev": {
    "1200": {
     "v1.0.0": {
      "algorithmversion": "varVAMP:0.8.3",
@@ -894,13 +894,13 @@
       "COMMUNITY",
       "WHOLE-GENOME"
      ],
-     "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-rat-hev/1200/v1.0.0/info.json",
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-rathev/1200/v1.0.0/info.json",
      "license": "CC BY-SA 4.0",
      "primer_bed_md5": "8d9fcdcc3e571792d9d2ffea190d3b8a",
-     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-rat-hev/1200/v1.0.0/primer.bed",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-rathev/1200/v1.0.0/primer.bed",
      "primerclass": "primerschemes",
      "reference_fasta_md5": "6901e6ce9dd33aa804ee327a73660896",
-     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-rat-hev/1200/v1.0.0/reference.fasta",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/varvamp-rathev/1200/v1.0.0/reference.fasta",
      "schemename": "varvamp-rathev",
      "schemeversion": "v1.0.0",
      "species": [
