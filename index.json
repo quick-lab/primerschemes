@@ -1,5 +1,5 @@
 {
- "github-commit-sha": "f0c1907c1b227a8132f66ebb2d020765fe14daec",
+ "github-commit-sha": "cb6e4ba3f6111c1748f6a1980dfc575553643918",
  "primerschemes": {
   "artic-measles": {
    "400": {
@@ -1215,7 +1215,7 @@
      "reference_fasta_md5": "5b7977abeef3917669889e901703b37a",
      "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/yale-mpox/2000/v1.0.0-cladei/reference.fasta",
      "schemename": "yale-mpox",
-     "schemeversion": "v1.0.1",
+     "schemeversion": "v1.0.0-cladei",
      "species": [
       10244
      ],
