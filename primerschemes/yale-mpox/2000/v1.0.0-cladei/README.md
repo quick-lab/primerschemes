@@ -1,6 +1,6 @@
-# yale-mpox 2000bp v1.0.1
+# yale-mpox 2000bp v1.0.0-cladei
 
-[primalscheme labs](https://labs.primalscheme.com/detail/yale-mpox/2000/v1.0.1)
+[primalscheme labs](https://labs.primalscheme.com/detail/yale-mpox/2000/v1.0.0-cladei)
 
 ## Description
 
@@ -13,7 +13,7 @@ A copy of the yale-mpox for human Monkeypox virus (hMPXV) remapped from a Clade 
 ```json
 {
     "ampliconsize": 2000,
-    "schemeversion": "v1.0.1",
+    "schemeversion": "v1.0.0-cladei",
     "schemename": "yale-mpox",
     "primer_bed_md5": "5d1f7fc61e3fce597819a4a2a095e287",
     "reference_fasta_md5": "5b7977abeef3917669889e901703b37a",

@@ -1,6 +1,6 @@
 {
     "ampliconsize": 2000,
-    "schemeversion": "v1.0.1",
+    "schemeversion": "v1.0.0-cladei",
     "schemename": "yale-mpox",
     "primer_bed_md5": "5d1f7fc61e3fce597819a4a2a095e287",
     "reference_fasta_md5": "5b7977abeef3917669889e901703b37a",
