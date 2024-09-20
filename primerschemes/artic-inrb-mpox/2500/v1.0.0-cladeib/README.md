@@ -1,6 +1,6 @@
-# artic-inrb-mpox-cladeiia 2500bp v1.0.0
+# artic-inrb-mpox 2500bp v1.0.0-cladeib
 
-[primalscheme labs](https://labs.primalscheme.com/detail/artic-inrb-mpox-cladeiia/2500/v1.0.0)
+[primalscheme labs](https://labs.primalscheme.com/detail/artic-inrb-mpox/2500/v1.0.0-cladeib)
 
 ## Description
 
@@ -13,10 +13,10 @@ Clade I genomes were algined to clade I reference and Clade II genomes were algi
 ```json
 {
     "ampliconsize": 2500,
-    "schemeversion": "v1.0.0",
-    "schemename": "artic-inrb-mpox-cladeiia",
-    "primer_bed_md5": "7d66f2d1bb0f7d9b1cb9497c9c02aaa5",
-    "reference_fasta_md5": "8b4f1769899f040644b129758faf176c",
+    "schemeversion": "v1.0.0-cladeib",
+    "schemename": "artic-inrb-mpox",
+    "primer_bed_md5": "d6f28e0cfc1e766d249cdb452e944824",
+    "reference_fasta_md5": "e32ac72879ca85527d1c2326643e7b72",
     "status": "draft",
     "citations": [],
     "authors": [
@@ -33,8 +33,8 @@ Clade I genomes were algined to clade I reference and Clade II genomes were algi
     "infoschema": "v2.0.0",
     "articbedversion": "v3.0",
     "collections": [
-        "ARTIC",
         "WHOLE-GENOME",
+        "ARTIC",
         "QUICK-LAB"
     ],
     "links": {
