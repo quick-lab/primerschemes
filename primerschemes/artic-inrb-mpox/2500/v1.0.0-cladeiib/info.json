@@ -2,7 +2,7 @@
     "ampliconsize": 2500,
     "schemeversion": "v1.0.0-cladeiib",
     "schemename": "artic-inrb-mpox",
-    "primer_bed_md5": "02fbeac82456cff20cf7f92338c7ca57",
+    "primer_bed_md5": "d712ef2ea30574467abda350a750c63c",
     "reference_fasta_md5": "bf66126bd4aa95426a40eed7c5317e79",
     "status": "draft",
     "citations": [],
@@ -20,9 +20,9 @@
     "infoschema": "v2.0.0",
     "articbedversion": "v3.0",
     "collections": [
-        "QUICK-LAB",
+        "WHOLE-GENOME",
         "ARTIC",
-        "WHOLE-GENOME"
+        "QUICK-LAB"
     ],
     "links": {
         "protocols": [],
