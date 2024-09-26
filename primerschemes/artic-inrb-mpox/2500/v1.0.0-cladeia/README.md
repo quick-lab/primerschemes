@@ -15,7 +15,7 @@ Clade I genomes were algined to clade I reference and Clade II genomes were algi
     "ampliconsize": 2500,
     "schemeversion": "v1.0.0-cladeia",
     "schemename": "artic-inrb-mpox",
-    "primer_bed_md5": "7e75391811c832584cc840f405409d32",
+    "primer_bed_md5": "2cb0df68f18a7e845d5cadbf1dfedbb0",
     "reference_fasta_md5": "e138aea3c2c7f74d1ed4e83ea2b2efc2",
     "status": "draft",
     "citations": [],
@@ -34,8 +34,8 @@ Clade I genomes were algined to clade I reference and Clade II genomes were algi
     "articbedversion": "v3.0",
     "collections": [
         "WHOLE-GENOME",
-        "ARTIC",
-        "QUICK-LAB"
+        "QUICK-LAB",
+        "ARTIC"
     ],
     "links": {
         "protocols": [],
