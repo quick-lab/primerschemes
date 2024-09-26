@@ -1,0 +1,32 @@
+{
+    "amplicon_size": 2500,
+    "amplicon_size_max": 2875,
+    "amplicon_size_min": 2125,
+    "backtrack": false,
+    "circular": false,
+    "dimer_score": -26.0,
+    "force": false,
+    "high_gc": false,
+    "ignore_n": true,
+    "input_bedfile": null,
+    "mapping": "first",
+    "min_base_freq": 0.0,
+    "min_overlap": 100,
+    "mismatch_kmersize": 19,
+    "msa_data": {
+        "0": {
+            "msa_checksum": "2342ae356b4a88c9b15ff4cab1235025",
+            "msa_chromname": "KJ642613|||Zaire|Ia||1970",
+            "msa_name": "2024-09-11.allclades.refalign4",
+            "msa_path": "work/2024-09-11.allclades.refalign4.fasta",
+            "msa_uuid": "359ba5b8"
+        }
+    },
+    "n_pools": 2,
+    "output": "/Users/Josh/bioinfo/mpox_drc/artic-mpox-2000-allclades11",
+    "primer_gc_max": 55,
+    "primer_gc_min": 30,
+    "primer_size_max": 34,
+    "primer_size_min": 19,
+    "use_matchdb": true
+}
