@@ -15,7 +15,7 @@ Clade I genomes were aligned to clade I reference and Clade II genomes were alig
     "ampliconsize": 2500,
     "schemeversion": "v1.0.0-cladeiia",
     "schemename": "artic-inrb-mpox",
-    "primer_bed_md5": "2556a0f24a91ac35433b992034baa043",
+    "primer_bed_md5": "c28678288dc9e4234c3aef5336820345",
     "reference_fasta_md5": "8b4f1769899f040644b129758faf176c",
     "status": "draft",
     "citations": [],
@@ -34,8 +34,8 @@ Clade I genomes were aligned to clade I reference and Clade II genomes were alig
     "articbedversion": "v3.0",
     "collections": [
         "WHOLE-GENOME",
-        "ARTIC",
-        "QUICK-LAB"
+        "QUICK-LAB",
+        "ARTIC"
     ],
     "links": {
         "protocols": [],
