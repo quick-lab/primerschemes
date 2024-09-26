@@ -1,6 +1,186 @@
 {
- "github-commit-sha": "166452501d283924aa60d80a0028269f8e284bbc",
+ "github-commit-sha": "6d409a05d62c200ab38bce1d3f765e4b53ea5f53",
  "primerschemes": {
+  "artic-inrb-mpox": {
+   "2500": {
+    "v1.0.0": {
+     "algorithmversion": "primalscheme3",
+     "ampliconsize": 2500,
+     "articbedversion": "v3.0",
+     "authors": [
+      "ARTIC network",
+      "INRB",
+      "Quick Lab"
+     ],
+     "citations": [],
+     "collections": [
+      "ARTIC",
+      "QUICK-LAB",
+      "WHOLE-GENOME"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/2500/v1.0.0/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "2cb0df68f18a7e845d5cadbf1dfedbb0",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/2500/v1.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "6fd03a2d6a4a74efbeb1ed99c5c47dc3",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/2500/v1.0.0/reference.fasta",
+     "schemename": "artic-inrb-mpox",
+     "schemeversion": "v1.0.0",
+     "species": [
+      10244
+     ],
+     "status": "draft"
+    },
+    "v1.0.0-cladeia": {
+     "algorithmversion": "primalscheme3",
+     "ampliconsize": 2500,
+     "articbedversion": "v3.0",
+     "authors": [
+      "ARTIC network",
+      "INRB",
+      "Quick Lab"
+     ],
+     "citations": [],
+     "collections": [
+      "WHOLE-GENOME",
+      "QUICK-LAB",
+      "ARTIC"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/2500/v1.0.0-cladeia/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "2cb0df68f18a7e845d5cadbf1dfedbb0",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/2500/v1.0.0-cladeia/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "e138aea3c2c7f74d1ed4e83ea2b2efc2",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/2500/v1.0.0-cladeia/reference.fasta",
+     "schemename": "artic-inrb-mpox",
+     "schemeversion": "v1.0.0-cladeia",
+     "species": [
+      10244
+     ],
+     "status": "draft"
+    },
+    "v1.0.0-cladeib": {
+     "algorithmversion": "primalscheme3",
+     "ampliconsize": 2500,
+     "articbedversion": "v3.0",
+     "authors": [
+      "ARTIC network",
+      "INRB",
+      "Quick Lab"
+     ],
+     "citations": [],
+     "collections": [
+      "ARTIC",
+      "WHOLE-GENOME",
+      "QUICK-LAB"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/2500/v1.0.0-cladeib/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "dfa335b4e686222d6c44e15fec2ca597",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/2500/v1.0.0-cladeib/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "e32ac72879ca85527d1c2326643e7b72",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/2500/v1.0.0-cladeib/reference.fasta",
+     "schemename": "artic-inrb-mpox",
+     "schemeversion": "v1.0.0-cladeib",
+     "species": [
+      10244
+     ],
+     "status": "draft"
+    },
+    "v1.0.0-cladeiia": {
+     "algorithmversion": "primalscheme3",
+     "ampliconsize": 2500,
+     "articbedversion": "v3.0",
+     "authors": [
+      "ARTIC network",
+      "INRB",
+      "Quick Lab"
+     ],
+     "citations": [],
+     "collections": [
+      "WHOLE-GENOME",
+      "QUICK-LAB",
+      "ARTIC"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/2500/v1.0.0-cladeiia/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "c28678288dc9e4234c3aef5336820345",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/2500/v1.0.0-cladeiia/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "8b4f1769899f040644b129758faf176c",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/2500/v1.0.0-cladeiia/reference.fasta",
+     "schemename": "artic-inrb-mpox",
+     "schemeversion": "v1.0.0-cladeiia",
+     "species": [
+      10244
+     ],
+     "status": "draft"
+    },
+    "v1.0.0-cladeiib": {
+     "algorithmversion": "primalscheme3",
+     "ampliconsize": 2500,
+     "articbedversion": "v3.0",
+     "authors": [
+      "ARTIC network",
+      "INRB",
+      "Quick Lab"
+     ],
+     "citations": [],
+     "collections": [
+      "WHOLE-GENOME",
+      "ARTIC",
+      "QUICK-LAB"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/2500/v1.0.0-cladeiib/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "809fc9539a015cbe46b6f1968e0a5a48",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/2500/v1.0.0-cladeiib/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "bf66126bd4aa95426a40eed7c5317e79",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/2500/v1.0.0-cladeiib/reference.fasta",
+     "schemename": "artic-inrb-mpox",
+     "schemeversion": "v1.0.0-cladeiib",
+     "species": [
+      10244
+     ],
+     "status": "draft"
+    }
+   },
+   "400": {
+    "v1.0.0": {
+     "algorithmversion": "primalscheme3",
+     "ampliconsize": 400,
+     "articbedversion": "v3.0",
+     "authors": [
+      "ARTIC network",
+      "INRB",
+      "Quick Lab"
+     ],
+     "citations": [],
+     "collections": [
+      "ARTIC",
+      "WHOLE-GENOME",
+      "QUICK-LAB"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/400/v1.0.0/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "5b8b7882eab6501987920bb99a999624",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/400/v1.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "6fd03a2d6a4a74efbeb1ed99c5c47dc3",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/400/v1.0.0/reference.fasta",
+     "schemename": "artic-inrb-mpox",
+     "schemeversion": "v1.0.0",
+     "species": [
+      10244
+     ],
+     "status": "draft"
+    }
+   }
+  },
   "artic-measles": {
    "400": {
     "v1.0.0": {
