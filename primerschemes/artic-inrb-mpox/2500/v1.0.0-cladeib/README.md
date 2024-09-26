@@ -4,7 +4,7 @@
 
 ## Description
 
-Clade I genomes were algined to clade I reference and Clade II genomes were algined to clade II reference with squirrel. The two clades were consensus aligned using MAFFT and the alignment was used as the input for primalscheme3. BED files for each clade using primalbedtools
+Clade I genomes were aligned to clade I reference and Clade II genomes were aligned to clade II reference with squirrel. The two clades were consensus aligned using MAFFT and the alignment was used as the input for primalscheme3. BED files for each clade using primalbedtools
 
 ## Overviews
 
@@ -44,7 +44,7 @@ Clade I genomes were algined to clade I reference and Clade II genomes were algi
         "vendors": [],
         "misc": []
     },
-    "description": "Clade I genomes were algined to clade I reference and Clade II genomes were algined to clade II reference with squirrel. The two clades were consensus aligned using MAFFT and the alignment was used as the input for primalscheme3. BED files for each clade using primalbedtools",
+    "description": "Clade I genomes were aligned to clade I reference and Clade II genomes were aligned to clade II reference with squirrel. The two clades were consensus aligned using MAFFT and the alignment was used as the input for primalscheme3. BED files for each clade using primalbedtools",
     "derivedfrom": null,
     "contactinfo": null
 }
