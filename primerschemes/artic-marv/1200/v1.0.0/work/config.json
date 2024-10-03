@@ -1,0 +1,32 @@
+{
+    "amplicon_size": 1200,
+    "amplicon_size_max": 1380,
+    "amplicon_size_min": 1020,
+    "backtrack": false,
+    "circular": false,
+    "dimer_score": -29.0,
+    "force": false,
+    "high_gc": false,
+    "ignore_n": true,
+    "input_bedfile": null,
+    "mapping": "first",
+    "min_base_freq": 0.02,
+    "min_overlap": 100,
+    "mismatch_kmersize": 19,
+    "msa_data": {
+        "0": {
+            "msa_checksum": "57f830990ffe3ae685d1f6ce5fa2b486",
+            "msa_chromname": "MARV|NC_001608|Mt._Elgon-Musoke|human|Kenya|Kenya|1980",
+            "msa_name": "MARV_RAVV_Genbank_2024-09-30.aln3",
+            "msa_path": "work/MARV_RAVV_Genbank_2024-09-30.aln3.fasta",
+            "msa_uuid": "2ee06dc7"
+        }
+    },
+    "n_pools": 2,
+    "output": "/Users/Josh/bioinfo/marburg_rwanda/artic-marburg-1200-4",
+    "primer_gc_max": 55,
+    "primer_gc_min": 30,
+    "primer_size_max": 34,
+    "primer_size_min": 19,
+    "use_matchdb": true
+}
