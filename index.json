@@ -1,5 +1,5 @@
 {
- "github-commit-sha": "6d409a05d62c200ab38bce1d3f765e4b53ea5f53",
+ "github-commit-sha": "02fb5eb375f818fd426cc2fff00e8c76cd422b7e",
  "primerschemes": {
   "artic-inrb-mpox": {
    "2500": {
@@ -176,6 +176,38 @@
      "schemeversion": "v1.0.0",
      "species": [
       10244
+     ],
+     "status": "draft"
+    }
+   }
+  },
+  "artic-marv": {
+   "1200": {
+    "v1.0.0": {
+     "algorithmversion": "primalscheme3",
+     "ampliconsize": 1200,
+     "articbedversion": "v3.0",
+     "authors": [
+      "ARTIC network",
+      "Quick Lab"
+     ],
+     "citations": [],
+     "collections": [
+      "WHOLE-GENOME",
+      "ARTIC",
+      "QUICK-LAB"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-marv/1200/v1.0.0/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "de08005c31adc3e9a3fcb713aaa298d8",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-marv/1200/v1.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "99fef270892d906f609712ec8d613381",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-marv/1200/v1.0.0/reference.fasta",
+     "schemename": "artic-marv",
+     "schemeversion": "v1.0.0",
+     "species": [
+      3052505
      ],
      "status": "draft"
     }
