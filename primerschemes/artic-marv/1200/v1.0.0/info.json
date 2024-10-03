@@ -2,7 +2,7 @@
     "ampliconsize": 1200,
     "schemeversion": "v1.0.0",
     "schemename": "artic-marv",
-    "primer_bed_md5": "481f2b61310fe3af58e6772e292822d7",
+    "primer_bed_md5": "de08005c31adc3e9a3fcb713aaa298d8",
     "reference_fasta_md5": "99fef270892d906f609712ec8d613381",
     "status": "draft",
     "citations": [],
@@ -16,11 +16,11 @@
     ],
     "license": "CC BY-SA 4.0",
     "primerclass": "primerschemes",
-    "infoschema": "v2.0.0",
+    "infoschema": "v2.1.0",
     "articbedversion": "v3.0",
     "collections": [
-        "ARTIC",
         "WHOLE-GENOME",
+        "ARTIC",
         "QUICK-LAB"
     ],
     "links": {
