@@ -1,5 +1,5 @@
 {
- "github-commit-sha": "02fb5eb375f818fd426cc2fff00e8c76cd422b7e",
+ "github-commit-sha": "7830046d8d0850617bbc33a9fac070cd65a64931",
  "primerschemes": {
   "artic-inrb-mpox": {
    "2500": {
@@ -14,16 +14,16 @@
      ],
      "citations": [],
      "collections": [
-      "ARTIC",
+      "WHOLE-GENOME",
       "QUICK-LAB",
-      "WHOLE-GENOME"
+      "ARTIC"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/2500/v1.0.0/info.json",
      "license": "CC BY-SA 4.0",
-     "primer_bed_md5": "2cb0df68f18a7e845d5cadbf1dfedbb0",
+     "primer_bed_md5": "41dd2e95cbe2bda6be8556dd118c84fe",
      "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/2500/v1.0.0/primer.bed",
      "primerclass": "primerschemes",
-     "reference_fasta_md5": "6fd03a2d6a4a74efbeb1ed99c5c47dc3",
+     "reference_fasta_md5": "7ca540c38981c844710721e5165d2b77",
      "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/2500/v1.0.0/reference.fasta",
      "schemename": "artic-inrb-mpox",
      "schemeversion": "v1.0.0",
@@ -43,16 +43,16 @@
      ],
      "citations": [],
      "collections": [
-      "WHOLE-GENOME",
       "QUICK-LAB",
+      "WHOLE-GENOME",
       "ARTIC"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/2500/v1.0.0-cladeia/info.json",
      "license": "CC BY-SA 4.0",
-     "primer_bed_md5": "2cb0df68f18a7e845d5cadbf1dfedbb0",
+     "primer_bed_md5": "41dd2e95cbe2bda6be8556dd118c84fe",
      "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/2500/v1.0.0-cladeia/primer.bed",
      "primerclass": "primerschemes",
-     "reference_fasta_md5": "e138aea3c2c7f74d1ed4e83ea2b2efc2",
+     "reference_fasta_md5": "7ca540c38981c844710721e5165d2b77",
      "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/2500/v1.0.0-cladeia/reference.fasta",
      "schemename": "artic-inrb-mpox",
      "schemeversion": "v1.0.0-cladeia",
@@ -72,16 +72,16 @@
      ],
      "citations": [],
      "collections": [
-      "ARTIC",
+      "QUICK-LAB",
       "WHOLE-GENOME",
-      "QUICK-LAB"
+      "ARTIC"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/2500/v1.0.0-cladeib/info.json",
      "license": "CC BY-SA 4.0",
-     "primer_bed_md5": "dfa335b4e686222d6c44e15fec2ca597",
+     "primer_bed_md5": "9ab6b8ace91a6e553dcd98772a28e654",
      "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/2500/v1.0.0-cladeib/primer.bed",
      "primerclass": "primerschemes",
-     "reference_fasta_md5": "e32ac72879ca85527d1c2326643e7b72",
+     "reference_fasta_md5": "da7b582735fd40f4fa4f96599e9d099c",
      "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/2500/v1.0.0-cladeib/reference.fasta",
      "schemename": "artic-inrb-mpox",
      "schemeversion": "v1.0.0-cladeib",
@@ -101,16 +101,16 @@
      ],
      "citations": [],
      "collections": [
-      "WHOLE-GENOME",
       "QUICK-LAB",
-      "ARTIC"
+      "ARTIC",
+      "WHOLE-GENOME"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/2500/v1.0.0-cladeiia/info.json",
      "license": "CC BY-SA 4.0",
-     "primer_bed_md5": "c28678288dc9e4234c3aef5336820345",
+     "primer_bed_md5": "3286284151f7186e13eb9f8dea020d22",
      "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/2500/v1.0.0-cladeiia/primer.bed",
      "primerclass": "primerschemes",
-     "reference_fasta_md5": "8b4f1769899f040644b129758faf176c",
+     "reference_fasta_md5": "c34096003739375ed9deb262023d145d",
      "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/2500/v1.0.0-cladeiia/reference.fasta",
      "schemename": "artic-inrb-mpox",
      "schemeversion": "v1.0.0-cladeiia",
@@ -130,16 +130,16 @@
      ],
      "citations": [],
      "collections": [
-      "WHOLE-GENOME",
+      "QUICK-LAB",
       "ARTIC",
-      "QUICK-LAB"
+      "WHOLE-GENOME"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/2500/v1.0.0-cladeiib/info.json",
      "license": "CC BY-SA 4.0",
-     "primer_bed_md5": "809fc9539a015cbe46b6f1968e0a5a48",
+     "primer_bed_md5": "209d92e5d0354854064f6ef1c2e5e3d8",
      "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/2500/v1.0.0-cladeiib/primer.bed",
      "primerclass": "primerschemes",
-     "reference_fasta_md5": "bf66126bd4aa95426a40eed7c5317e79",
+     "reference_fasta_md5": "b6d72272045e76ca501cbb5371dd5a9d",
      "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/2500/v1.0.0-cladeiib/reference.fasta",
      "schemename": "artic-inrb-mpox",
      "schemeversion": "v1.0.0-cladeiib",
@@ -162,15 +162,15 @@
      "citations": [],
      "collections": [
       "ARTIC",
-      "WHOLE-GENOME",
-      "QUICK-LAB"
+      "QUICK-LAB",
+      "WHOLE-GENOME"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/400/v1.0.0/info.json",
      "license": "CC BY-SA 4.0",
-     "primer_bed_md5": "5b8b7882eab6501987920bb99a999624",
+     "primer_bed_md5": "b94ba3dc78e467463ac52f1c7214ba0c",
      "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/400/v1.0.0/primer.bed",
      "primerclass": "primerschemes",
-     "reference_fasta_md5": "6fd03a2d6a4a74efbeb1ed99c5c47dc3",
+     "reference_fasta_md5": "7ca540c38981c844710721e5165d2b77",
      "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-inrb-mpox/400/v1.0.0/reference.fasta",
      "schemename": "artic-inrb-mpox",
      "schemeversion": "v1.0.0",
