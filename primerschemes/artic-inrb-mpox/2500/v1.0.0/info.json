@@ -31,7 +31,12 @@
         "vendors": [],
         "misc": []
     },
-    "refselect": null,
+    "refselect": {
+        "KJ642613.1_masked": {
+            "md5": "58062d2989d1d040b7fa06050a8b6040",
+            "filename": "KJ642613.1_masked_refselect.fasta"
+        }
+    },
     "description": "Clade I genomes were aligned to clade I reference and Clade II genomes were aligned to clade II reference with squirrel. The two clades were consensus aligned using MAFFT and the alignment was used as the input for primalscheme3. BED files for each clade using primalbedtools",
     "derivedfrom": null,
     "contactinfo": null
