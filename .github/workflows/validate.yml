@@ -18,4 +18,4 @@ jobs:
           python -m pip install --upgrade pip
           pip install primal-page
       - name: Run primal-page validate
-        run: primal-page validate directory ./primerschemes
+        run: primal-page validate all-schemes ./primerschemes
