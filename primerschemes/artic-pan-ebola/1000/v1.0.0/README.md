@@ -15,8 +15,10 @@
     "schemename": "artic-pan-ebola",
     "primer_bed_md5": "6b9554c28693b521cfbe2246091c61af",
     "reference_fasta_md5": "c5432a6813f9a2604ea5e5e2bb94508e",
-    "status": "draft",
-    "citations": [],
+    "status": "validated",
+    "citations": [
+        "https://virological.org/t/near-real-time-genomic-characterization-of-the-2025-sudan-ebolavirus-outbreak-in-uganda-s-index-case-insights-into-evolutionary-origins/990"
+    ],
     "authors": [
         "artic",
         "quick-lab"
@@ -30,9 +32,9 @@
     "infoschema": "v2.0.0",
     "articbedversion": "v3.0",
     "collections": [
+        "ARTIC",
         "QUICK-LAB",
         "WHOLE-GENOME",
-        "ARTIC",
         "CLINICAL-ISOLATES"
     ],
     "links": {
@@ -42,6 +44,7 @@
         "vendors": [],
         "misc": []
     },
+    "refselect": null,
     "description": null,
     "derivedfrom": null,
     "contactinfo": null
