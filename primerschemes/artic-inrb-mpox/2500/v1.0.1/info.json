@@ -4,7 +4,7 @@
     "schemename": "artic-inrb-mpox",
     "primer_bed_md5": "cd8a4ef1c4ab66b4e4cae8f0abc3f2d2",
     "reference_fasta_md5": "7ca540c38981c844710721e5165d2b77",
-    "status": "draft",
+    "status": "validated",
     "citations": [],
     "authors": [
         "ARTIC network",
