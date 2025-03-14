@@ -56,3 +56,8 @@ Selecting the correct version is vital for wet lab work and bioinformatic analys
 `v1.1.0` has primer concentrations changed to improve even coverage of amplicons. The new scheme would be `v1.1.1`  
 
 `v1.0.0` has identical primers (sequence and concentration) to `v1.0.0-alpha`. However, the primers will now be mapped to the `alpha` reference genome.
+
+--- 
+
+The schemas for primer.bed files and referance fasta files are described at [primerschemes-specs](https://primerschemes.github.io/primerscheme-specs/), and info.json at [primal-page](https://github.com/artic-network/primal-page).
+
