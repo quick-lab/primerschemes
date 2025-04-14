@@ -1,0 +1,13 @@
+mp.align_consensus	4	444	a8458550_0	1
+mp.align_consensus	245	700	a8458550_1	2
+mp.align_consensus	529	999	a8458550_2	1
+na.align_consensus	27	490	34f32a2d_0	2
+na.align_consensus	324	800	34f32a2d_1	1
+na.align_consensus	612	1082	34f32a2d_2	2
+na.align_consensus	910	1379	34f32a2d_3	1
+ha.align_consensus	38	508	4fdc265c_0	2
+ha.align_consensus	295	750	4fdc265c_1	1
+ha.align_consensus	538	991	4fdc265c_2	2
+ha.align_consensus	830	1254	4fdc265c_3	1
+ha.align_consensus	1095	1564	4fdc265c_4	2
+ha.align_consensus	1362	1791	4fdc265c_5	1
