@@ -1,5 +1,9 @@
 # artic-measles 400bp v1.0.0
 
+[![Generic badge](https://img.shields.io/badge/STATUS-validated-green.svg)](https://labs.primalscheme.com/faqs)
+
+> If you use this scheme please cite: https://doi.org/10.1101/2024.12.20.629611
+
 [primalscheme labs](https://labs.primalscheme.com/detail/artic-measles/400/v1.0.0)
 
 ## Description
@@ -20,7 +24,9 @@ A pan Measles morbillivirus scheme. All full length genomes have been downloaded
     "primer_bed_md5": "b75c16322b1e1c5e606917b5653c01f1",
     "reference_fasta_md5": "64a52bcc7c18986db1c11813db518390",
     "status": "validated",
-    "citations": [],
+    "citations": [
+        "https://doi.org/10.1101/2024.12.20.629611"
+    ],
     "authors": [
         "Chris Kent",
         "Quick Lab"
@@ -34,15 +40,17 @@ A pan Measles morbillivirus scheme. All full length genomes have been downloaded
     "infoschema": "v2.0.0",
     "articbedversion": "v3.0",
     "collections": [
-        "WHOLE-GENOME",
         "ARTIC",
-        "CLINICAL-ISOLATES",
+        "WHOLE-GENOME",
         "QUICK-LAB",
+        "CLINICAL-ISOLATES",
         "WASTE-WATER"
     ],
     "links": {
         "protocols": [],
-        "validation": [],
+        "validation": [
+            "https://doi.org/10.1101/2024.12.20.629611"
+        ],
         "homepage": [],
         "vendors": [],
         "misc": []
