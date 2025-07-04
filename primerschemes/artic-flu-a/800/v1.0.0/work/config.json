@@ -1,0 +1,63 @@
+{
+    "amplicon_size": 800,
+    "amplicon_size_max": 880,
+    "amplicon_size_min": 720,
+    "backtrack": false,
+    "circular": false,
+    "dimer_score": -28.0,
+    "dna_conc": 15.0,
+    "dntp_conc": 0.8,
+    "dv_conc": 2.0,
+    "editdist_max": 1,
+    "force": true,
+    "high_gc": false,
+    "ignore_n": false,
+    "input_bedfile": null,
+    "mapping": "first",
+    "min_base_freq": 0.007,
+    "min_overlap": 10,
+    "mismatch_fuzzy": true,
+    "mismatch_kmersize": 19,
+    "mismatch_product_size": 0,
+    "msa_data": {
+        "0": {
+            "msa_checksum": "364e75ff18a565bf9dac9485538a3464",
+            "msa_chromname": "pa_1934_Avian_A_chicken_Germany_1934_Germany_H7N1",
+            "msa_name": "pa.x.dup.filt",
+            "msa_path": "work/pa.x.dup.filt.fasta",
+            "msa_uuid": "7eadac13"
+        },
+        "1": {
+            "msa_checksum": "30f8da0f5b5726136e1134e64cc43f1e",
+            "msa_chromname": "pb1_1934_Avian_A_chicken_Germany_1934_Germany_H7N1",
+            "msa_name": "pb1.x.dup.filt",
+            "msa_path": "work/pb1.x.dup.filt.fasta",
+            "msa_uuid": "8af2b8a2"
+        },
+        "2": {
+            "msa_checksum": "307b6beaaa46cfc2499abfc917d77988",
+            "msa_chromname": "pb2_1934_Avian_A_chicken_Rostock_45_1934_Germany_H7N1",
+            "msa_name": "pb2.x.dup.filt",
+            "msa_path": "work/pb2.x.dup.filt.fasta",
+            "msa_uuid": "ee945c1d"
+        }
+    },
+    "mv_conc": 100.0,
+    "n_pools": 2,
+    "ncores": 8,
+    "output": "/Users/kentcg/schemes/artic-flu/v2/schemes/first-tuni-hack-filt-0.007",
+    "primer_annealing_prop": null,
+    "primer_annealing_tempc": 65,
+    "primer_gc_max": 55,
+    "primer_gc_min": 30,
+    "primer_hairpin_th_max": 47.0,
+    "primer_homopolymer_max": 5,
+    "primer_max_walk": 80,
+    "primer_size_max": 34,
+    "primer_size_min": 19,
+    "primer_tm_max": 62.5,
+    "primer_tm_min": 59.5,
+    "use_annealing": false,
+    "use_matchdb": true,
+    "version": "3.2.0"
+}
