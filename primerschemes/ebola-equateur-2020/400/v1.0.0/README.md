@@ -11,7 +11,7 @@
     "ampliconsize": 400,
     "schemeversion": "v1.0.0",
     "schemename": "ebola-equateur-2020",
-    "primer_bed_md5": "b3832e89ae9461209bb62ae5179a1588",
+    "primer_bed_md5": "6be82fd27771aea42806b6e5c7369229",
     "reference_fasta_md5": "15288a70d5fc652bc82efa710e33cdc2",
     "status": "tested",
     "citations": [],
