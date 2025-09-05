@@ -1,6 +1,6 @@
-# ebola-mangina-2018 400bp v1.0.0
+# ebola-mangina-2018 400bp v3.0.0
 
-[primalscheme labs](https://labs.primalscheme.com/detail/ebola-mangina-2018/400/v1.0.0)
+[primalscheme labs](https://labs.primalscheme.com/detail/ebola-mangina-2018/400/v3.0.0)
 
 ## Overviews
 
@@ -9,7 +9,7 @@
 ```json
 {
     "ampliconsize": 400,
-    "schemeversion": "v1.0.0",
+    "schemeversion": "v3.0.0",
     "schemename": "ebola-mangina-2018",
     "primer_bed_md5": "47a39b33fab95b68d34e132837d16d69",
     "reference_fasta_md5": "6e96d3d1ce1f0caf24ef7ea9caab7341",
