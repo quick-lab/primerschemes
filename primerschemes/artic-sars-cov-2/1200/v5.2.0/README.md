@@ -1,0 +1,53 @@
+# artic-sars-cov-2 1200bp v5.2.0
+
+[primalscheme labs](https://labs.primalscheme.com/detail/artic-sars-cov-2/1200/v5.2.0)
+
+## Description
+
+Schemes generated for the SARs-CoV-2 Outbreak
+
+## Overviews
+
+## Details
+
+```json
+{
+    "ampliconsize": 1200,
+    "schemeversion": "v5.2.0",
+    "schemename": "artic-sars-cov-2",
+    "primer_bed_md5": "210eb6c0634ed5e56f0f16d597339974",
+    "reference_fasta_md5": "6e6d3a315bee3a79b63bf7de1b74dc94",
+    "status": "draft",
+    "citations": [],
+    "authors": [
+        "quick lab",
+        "artic network"
+    ],
+    "algorithmversion": "primalscheme2:1.0.0",
+    "species": [
+        2697049
+    ],
+    "license": "CC-BY-4.0",
+    "primerclass": "primerschemes",
+    "infoschema": "v2.1.0",
+    "articbedversion": "v3.0",
+    "collections": [
+        "ARTIC",
+        "QUICK-LAB",
+        "CLINICAL-ISOLATES",
+        "WHOLE-GENOME"
+    ],
+    "links": {
+        "protocols": [],
+        "validation": [],
+        "homepage": [],
+        "vendors": [],
+        "misc": []
+    },
+    "refselect": null,
+    "description": "Schemes generated for the SARs-CoV-2 Outbreak",
+    "derivedfrom": null,
+    "contactinfo": null
+}
+```
+
