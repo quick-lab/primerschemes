@@ -1,5 +1,7 @@
 # hbv 600bp v2.1.0
 
+[![Generic badge](https://img.shields.io/badge/STATUS-validated-green.svg)](https://labs.primalscheme.com/faqs)
+
 [primalscheme labs](https://labs.primalscheme.com/detail/hbv/600/v2.1.0)
 
 ## Description
@@ -17,7 +19,7 @@ Contains additional Spike in primers for clades G and H
     "ampliconsize": 600,
     "schemeversion": "v2.1.0",
     "schemename": "hbv",
-    "primer_bed_md5": "fe08351d442639483b771b2a9c1e3039",
+    "primer_bed_md5": "d186c8414c5299e6a648bd0af83c6474",
     "reference_fasta_md5": "b01f2e0109981e19316692538f57b4d9",
     "status": "validated",
     "citations": [],
@@ -32,7 +34,7 @@ Contains additional Spike in primers for clades G and H
     ],
     "license": "CC BY-SA 4.0",
     "primerclass": "primerschemes",
-    "infoschema": "v2.0.0",
+    "infoschema": "v2.1.0",
     "articbedversion": "v3.0",
     "collections": [
         "WHOLE-GENOME",
@@ -48,6 +50,7 @@ Contains additional Spike in primers for clades G and H
         "vendors": [],
         "misc": []
     },
+    "refselect": null,
     "description": "Contains additional Spike in primers for clades G and H",
     "derivedfrom": "hbv/600/v2.0.0",
     "contactinfo": null
