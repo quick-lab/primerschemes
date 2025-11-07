@@ -1,5 +1,7 @@
 # artic-flu-a 800bp v1.0.0
 
+[![Generic badge](https://img.shields.io/badge/STATUS-draft-blue.svg)](https://labs.primalscheme.com/faqs)
+
 [primalscheme labs](https://labs.primalscheme.com/detail/artic-flu-a/800/v1.0.0)
 
 ## Description
@@ -21,8 +23,8 @@ PrimerScheme for influenza A utilising tuni-primers alongside internal-primers f
     "ampliconsize": 800,
     "schemeversion": "v1.0.0",
     "schemename": "artic-flu-a",
-    "primer_bed_md5": "39da1672e070820c42bc9ddfa44d0893",
-    "reference_fasta_md5": "e5b5a2d898f9cd25f73bd66d5e8b616f",
+    "primer_bed_md5": "3a01f111d4223a265a2fa20e4e26a349",
+    "reference_fasta_md5": "b5490b7015ab4cf2b552d18904350cab",
     "status": "draft",
     "citations": [],
     "authors": [
