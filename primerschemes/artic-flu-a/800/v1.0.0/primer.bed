@@ -1,5 +1,13 @@
 # artic-bed-version v3.0
 # tuni primers (MBTuni-12, MBTuni-13)
+# NC_026431.1=M
+# NC_026432.1=NS
+# NC_026433.1=HA
+# NC_026434.1=NA
+# NC_026436.1=NP
+# pa_1934_Avian_A_chicken_Germany_1934_Germany_H7N1=PA
+# pb1_1934_Avian_A_chicken_Germany_1934_Germany_H7N1=PB1
+# pb2_1934_Avian_A_chicken_Rostock_45_1934_Germany_H7N1=PB2
 NC_026431.1	0	12	segment-7_1_LEFT_1	1	+	GTTACGCGCCAGCAAAAGCAGG
 NC_026431.1	0	12	segment-7_1_LEFT_2	1	+	GTTACGCGCCAGCGAAAGCAGG
 NC_026431.1	969	982	segment-7_1_RIGHT_1	1	-	GTTACGCGCCAGTAGAAACAAGG
