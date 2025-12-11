@@ -4,6 +4,10 @@
 
 [primalscheme labs](https://labs.primalscheme.com/detail/yale-jcv-b/800/v1.0.0)
 
+## Description
+
+Full genome sequencing of Jamestown Canyon virus (small, medium, and large segments) from pooled mosquitoes
+
 ## Overviews
 
 ## Details
@@ -42,7 +46,7 @@
         "misc": []
     },
     "refselect": null,
-    "description": null,
+    "description": "Full genome sequencing of Jamestown Canyon virus (small, medium, and large segments) from pooled mosquitoes",
     "derivedfrom": null,
     "contactinfo": null
 }
