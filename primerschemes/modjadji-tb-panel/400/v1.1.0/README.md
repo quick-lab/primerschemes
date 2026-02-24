@@ -1,8 +1,8 @@
-# modjadji-tb-panel 400bp v1.0.0
+# modjadji-tb-panel 400bp v1.1.0
 
 [![Generic badge](https://img.shields.io/badge/STATUS-draft-blue.svg)](https://labs.primalscheme.com/faqs)
 
-[primalscheme labs](https://labs.primalscheme.com/detail/modjadji-tb-panel/400/v1.0.0)
+[primalscheme labs](https://labs.primalscheme.com/detail/modjadji-tb-panel/400/v1.1.0)
 
 ## Description
 
@@ -17,7 +17,7 @@ A primer panel for targeting full-length AMR genes and typing snps from mycobact
 ```json
 {
     "ampliconsize": 400,
-    "schemeversion": "v1.0.0",
+    "schemeversion": "v1.1.0",
     "schemename": "modjadji-tb-panel",
     "primer_bed_md5": "3646a4d4dbbc004e5d04f8f8b4365a47",
     "reference_fasta_md5": "0e8f3acd2c92f20c42105e014adbfe97",
