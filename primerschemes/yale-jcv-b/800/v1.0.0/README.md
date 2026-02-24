@@ -18,7 +18,7 @@ Full genome sequencing of Jamestown Canyon virus (small, medium, and large segme
     "schemeversion": "v1.0.0",
     "schemename": "yale-jcv-b",
     "primer_bed_md5": "187f8fcc2668f4eafa44840158cdfd46",
-    "reference_fasta_md5": "267639fd3263bb2d90566415425e8367",
+    "reference_fasta_md5": "bc894421fcfe078d6a020e09113291a2",
     "status": "tested",
     "citations": [],
     "authors": [
