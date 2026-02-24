@@ -4,6 +4,10 @@
 
 [primalscheme labs](https://labs.primalscheme.com/detail/artic-training-lhf/600/v1.0.0)
 
+## Description
+
+A PrimerScheme for a synthetic target (lhf) to be used in ARTICnetwork Training workshops.
+
 ## Overviews
 
 ## Details
@@ -37,7 +41,7 @@
         "misc": []
     },
     "refselect": null,
-    "description": null,
+    "description": "A PrimerScheme for a synthetic target (lhf) to be used in ARTICnetwork Training workshops.",
     "derivedfrom": null,
     "contactinfo": null
 }
