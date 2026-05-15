@@ -1,0 +1,57 @@
+# ukhsa-andes 1000bp v1.1.0
+
+[![Generic badge](https://img.shields.io/badge/STATUS-tested-green.svg)](https://labs.primalscheme.com/faqs)
+
+[primalscheme labs](https://labs.primalscheme.com/detail/ukhsa-andes/1000/v1.1.0)
+
+## Description
+
+An updated version of the scheme with additional primer added in response to genome releases of the recent outbreak of Andes (2026-05-10).
+
+## Overviews
+
+## Details
+
+```json
+{
+    "ampliconsize": 1000,
+    "schemeversion": "v1.1.0",
+    "schemename": "ukhsa-andes",
+    "primer_bed_md5": "148e1a5716626d49305dc34c7b846264",
+    "reference_fasta_md5": "fe781d358860b185af928c1b4ef88013",
+    "status": "tested",
+    "citations": [],
+    "authors": [
+        "Pathogen Characterisation UKHSA",
+        "Quick Lab"
+    ],
+    "algorithmversion": "varvamp",
+    "species": [
+        1980456
+    ],
+    "license": "CC BY-SA 4.0",
+    "primerclass": "primerschemes",
+    "infoschema": "v2.1.0",
+    "articbedversion": "v3.0",
+    "collections": [],
+    "links": {
+        "protocols": [],
+        "validation": [],
+        "homepage": [],
+        "vendors": [],
+        "misc": []
+    },
+    "refselect": null,
+    "description": "An updated version of the scheme with additional primer added in response to genome releases of the recent outbreak of Andes (2026-05-10).",
+    "derivedfrom": null,
+    "contactinfo": null
+}
+```
+
+
+
+------------------------------------------------------------------------
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) 
+
+![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
