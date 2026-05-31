@@ -18,7 +18,7 @@
     "status": "tested",
     "citations": [],
     "authors": [
-        "John Tyson"
+        "BCCDC-PHL"
     ],
     "algorithmversion": "primalscheme3.3",
     "species": [
