@@ -9,12 +9,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Install uv
+        uses: astral-sh/setup-uv@v4
         with:
-          python-version: "3.11"
-          cache: "pip"
-      - name: Install dependencies
-        run: pip install primal-page
+          enable-cache: true
+          cache-dependency-glob: ""
+          python-version: "3.12"
+
       - name: Run primal-page validate
-        run: primal-page validate all-schemes ./primerschemes
+        run: uvx primal-page validate all-schemes ./primerschemes
