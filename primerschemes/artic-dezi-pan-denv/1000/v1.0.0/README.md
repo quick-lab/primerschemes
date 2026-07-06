@@ -1,8 +1,8 @@
-# artic-pan-dengue 1000bp v1.0.0
+# artic-dezi-pan-denv 1000bp v1.0.0
 
 [![Generic badge](https://img.shields.io/badge/STATUS-draft-blue.svg)](https://labs.primalscheme.com/faqs)
 
-[primalscheme labs](https://labs.primalscheme.com/detail/artic-pan-dengue/1000/v1.0.0)
+[primalscheme labs](https://labs.primalscheme.com/detail/artic-dezi-pan-denv/1000/v1.0.0)
 
 ## Description
 
@@ -16,8 +16,8 @@ A scheme designed to target all Dengue serotypes using the PrimerDownSampling
 {
     "ampliconsize": 1000,
     "schemeversion": "v1.0.0",
-    "schemename": "artic-pan-dengue",
-    "primer_bed_md5": "7ca3a9acd7a2e65d8d2bed21bc39aa94",
+    "schemename": "artic-dezi-pan-denv",
+    "primer_bed_md5": "aa545cf285fabb077d88e234d7e78956",
     "reference_fasta_md5": "7ceaa553e3a3b727eb90f8de660c28ff",
     "status": "draft",
     "citations": [],
