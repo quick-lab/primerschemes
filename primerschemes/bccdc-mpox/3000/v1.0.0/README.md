@@ -2,7 +2,13 @@
 
 [![Generic badge](https://img.shields.io/badge/STATUS-tested-green.svg)](https://labs.primalscheme.com/faqs)
 
+> If you use this scheme please cite: dx.doi.org/10.17504/protocols.io.n2bvj34nnlk5/v1
+
 [primalscheme labs](https://labs.primalscheme.com/detail/bccdc-mpox/3000/v1.0.0)
+
+## Description
+
+Early development version of the BCCDC MPox primer scheme, uses three pools (pool 3 for the long ITRs), only suggested use is for bioinformatics pipeline validation.
 
 ## Overviews
 
@@ -16,11 +22,13 @@
     "primer_bed_md5": "6f845894ebc9e27bf9a6d0a2f593e222",
     "reference_fasta_md5": "e963158af821cdee4c773bc56d823550",
     "status": "tested",
-    "citations": [],
-    "authors": [
-        "1"
+    "citations": [
+        "dx.doi.org/10.17504/protocols.io.n2bvj34nnlk5/v1"
     ],
-    "algorithmversion": null,
+    "authors": [
+        "BCCDC Public Health Laboratory"
+    ],
+    "algorithmversion": "primalscheme2",
     "species": [
         10244
     ],
@@ -30,14 +38,16 @@
     "articbedversion": "v3.0",
     "collections": [],
     "links": {
-        "protocols": [],
+        "protocols": [
+            "dx.doi.org/10.17504/protocols.io.n2bvj34nnlk5/v1"
+        ],
         "validation": [],
         "homepage": [],
         "vendors": [],
         "misc": []
     },
     "refselect": null,
-    "description": null,
+    "description": "Early development version of the BCCDC MPox primer scheme, uses three pools (pool 3 for the long ITRs), only suggested use is for bioinformatics pipeline validation.",
     "derivedfrom": null,
     "contactinfo": null
 }

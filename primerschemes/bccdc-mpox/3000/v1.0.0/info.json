@@ -30,7 +30,7 @@
         "misc": []
     },
     "refselect": null,
-    "description": null,
+    "description": "Early development version of the BCCDC MPox primer scheme, uses three pools (pool 3 for the long ITRs), only suggested use is for bioinformatics pipeline validation.",
     "derivedfrom": null,
     "contactinfo": null
 }
