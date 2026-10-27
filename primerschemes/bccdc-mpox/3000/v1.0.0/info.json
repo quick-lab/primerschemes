@@ -5,11 +5,13 @@
     "primer_bed_md5": "6f845894ebc9e27bf9a6d0a2f593e222",
     "reference_fasta_md5": "e963158af821cdee4c773bc56d823550",
     "status": "tested",
-    "citations": [],
-    "authors": [
-        "1"
+    "citations": [
+        "dx.doi.org/10.17504/protocols.io.n2bvj34nnlk5/v1"
     ],
-    "algorithmversion": null,
+    "authors": [
+        "BCCDC Public Health Laboratory"
+    ],
+    "algorithmversion": "primalscheme2",
     "species": [
         10244
     ],
@@ -19,7 +21,9 @@
     "articbedversion": "v3.0",
     "collections": [],
     "links": {
-        "protocols": [],
+        "protocols": [
+            "dx.doi.org/10.17504/protocols.io.n2bvj34nnlk5/v1"
+        ],
         "validation": [],
         "homepage": [],
         "vendors": [],
